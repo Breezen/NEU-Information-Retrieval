@@ -1,0 +1,4 @@
+In order to handle the keyword variations:
+- make all keywords lowercase
+- make all URLs and text lowercase
+- if any keyword of the given ones can be found in either URL or text, it's a match
