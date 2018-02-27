@@ -9,7 +9,7 @@ if not os.path.exists("./htmls"):
 
 for link in fin:
     sleep(1)
-    link = link[:-1]
+    link = link.rstrip('\n')
     title = link[30:]
     with open("./htmls/" + title, 'w+') as fout:
         fout.write(requests.get(link).text)
