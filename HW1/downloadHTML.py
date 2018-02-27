@@ -9,7 +9,8 @@ if not os.path.exists("./htmls"):
 
 for link in fin:
     sleep(1)
-    title = link[30:][:-1] + ".txt"
+    link = link[:-1]
+    title = link[30:]
     with open("./htmls/" + title, 'w+') as fout:
         fout.write(requests.get(link).text)
 

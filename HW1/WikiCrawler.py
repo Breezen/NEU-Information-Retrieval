@@ -59,21 +59,22 @@ class WikiCrawler(object):
                         print("maximum depth reached: ", depth[link])
                         return
 
-    def DFS_Imp(self, URL, depth, visited):
+    def DFS_Imp(self, URL, depth):
         self.maxdepth = max(depth, self.maxdepth)
         self.result.append(URL)
-        visited[URL] = True
+        self.visited[URL] = True
         if len(self.result) >= self.max:
             return
         if depth < self.depth:
             for link in self.getLinks(URL):
-                if len(self.result) < self.max and link not in visited:
-                    self.DFS_Imp(link, depth + 1, visited)
+                if len(self.result) < self.max and link not in self.visited:
+                    self.DFS_Imp(link, depth + 1)
 
     def DFS(self):
         self.result = []
+        self.visited = {self.seedURL: True}
         self.maxdepth = 1
-        self.DFS_Imp(self.seedURL, 1, {self.seedURL: True})
+        self.DFS_Imp(self.seedURL, 1)
         print("maximum depth reached: ", self.maxdepth)
 
     def saveResult(self, fileName):
@@ -87,11 +88,11 @@ if __name__ == "__main__":
     keywords = input("Please enter keywords for focused crawling (split by a single space): ").split(' ')
 
     crawler = WikiCrawler(seedURL)
-    #
+
     print("Task1 BFS:")
     crawler.BFS()
     crawler.saveResult("T1_BFS.txt")
-    #
+
     print("Task1 DFS:")
     crawler.DFS()
     crawler.saveResult("T1_DFS.txt")
