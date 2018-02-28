@@ -42,6 +42,8 @@ class PageRanker(object):
         for doc in self.docs:
             pr[doc] = 1.0 / self.N
         while not self.converged(pr, prePerplexity):
+            if maxIter and len(prePerplexity) > maxIter:
+                break
             newPR = {}
             sinkPR = 0
             for doc in self.dangling:
@@ -61,12 +63,21 @@ class PageRanker(object):
             for docID, pr in result:
                 fout.write(str(pr) + "\t" + docID + '\n')
 
+    def outputPerplexity(self, filename):
+        with open(filename, 'w+') as fout:
+            for p in self.perplexity:
+                fout.write(str(p) + '\n')
+
 
 if __name__ == "__main__":
     pr = PageRanker()
     inputFilename = input("Enter the graph filename: ")
     pr.readGraph(inputFilename)
     pr.compute()
+
     k = int(input("Enter top k results to output: k = "))
-    outputFilename = input("Enter the output filename: ")
-    pr.outputTopK(k, outputFilename)
+    rankingFile = input("Enter the ranking output filename: ")
+    pr.outputTopK(k, rankingFile)
+
+    perplexityFile = input("Enter the perplexity output filename: ")
+    pr.outputPerplexity(perplexityFile)
