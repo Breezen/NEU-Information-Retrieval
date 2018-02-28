@@ -18,31 +18,30 @@ class PageRanker(object):
         self.dangling = [doc for doc in self.docs if self.outCount[doc] == 0]
         return self.inLinks
 
-    def perplexity(self, pr):
+    def getPerplexity(self, pr):
         h = 0.0
         for doc in self.docs:
             p = pr[doc]
             h -= p * log2(p)
         return 2 ** h
 
-    def converged(self, pr, prePerplexity):
-        prePerplexity.append(self.perplexity(pr))
-        l = len(prePerplexity)
+    def converged(self, pr):
+        self.perplexity.append(self.getPerplexity(pr))
+        l = len(self.perplexity)
         if l < 5:
             return False
         for i in range(l - 4, l):
-            if abs(prePerplexity[i] - prePerplexity[i - 1]) >= 1.0:
+            if abs(self.perplexity[i] - self.perplexity[i - 1]) >= 1.0:
                 return False
-        self.perplexity = prePerplexity
         return True
 
     def compute(self, d=0.85, maxIter=None):
-        prePerplexity = []
+        self.perplexity = []
         pr = {}
         for doc in self.docs:
             pr[doc] = 1.0 / self.N
-        while not self.converged(pr, prePerplexity):
-            if maxIter and len(prePerplexity) > maxIter:
+        while not self.converged(pr):
+            if maxIter and len(self.perplexity) > maxIter:
                 break
             newPR = {}
             sinkPR = 0
