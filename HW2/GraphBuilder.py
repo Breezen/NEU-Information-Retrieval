@@ -27,7 +27,8 @@ class GraphBuilder(object):
     def build(self):
         for doc in self.docs:
             for link in self.getLinks(doc):
-                self.graph[link].append(doc)
+                if link != doc:
+                    self.graph[link].append(doc)
 
     def output(self, filename):
         with open(filename, 'w+') as file:
