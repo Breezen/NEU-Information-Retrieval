@@ -16,6 +16,7 @@ class PageRanker(object):
         self.docs = self.inLinks.keys()
         self.N = len(self.docs)
         self.dangling = [doc for doc in self.docs if self.outCount[doc] == 0]
+        # print(self.dangling)
         return self.inLinks
 
     def getPerplexity(self, pr):
@@ -67,16 +68,27 @@ class PageRanker(object):
             for p in self.perplexity:
                 fout.write(str(p) + '\n')
 
+    def rankByInLinkCount(self):
+        self.pr = {}
+        for doc in self.docs:
+            self.pr[doc] = len(self.inLinks[doc])
+
 
 if __name__ == "__main__":
     pr = PageRanker()
     inputFilename = input("Enter the graph filename: ")
     pr.readGraph(inputFilename)
-    pr.compute()
+
+    # Run one of the following 4 lines, comment out the others
+    pr.compute()                # baseline: d = 0.85
+    # pr.compute(d=.55)           # d = 0.55
+    # pr.compute(maxIter=4)       # iteration = 4
+    # pr.rankByInLinkCount()      # rank by in-link count
 
     k = int(input("Enter top k results to output: k = "))
     rankingFile = input("Enter the ranking output filename: ")
     pr.outputTopK(k, rankingFile)
 
-    perplexityFile = input("Enter the perplexity output filename: ")
-    pr.outputPerplexity(perplexityFile)
+    if hasattr(pr, "perplexity"):
+        perplexityFile = input("Enter the perplexity output filename: ")
+        pr.outputPerplexity(perplexityFile)
