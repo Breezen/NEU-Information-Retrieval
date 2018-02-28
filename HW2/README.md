@@ -10,5 +10,5 @@
 ## Run PageRank
 - Follow the comment in main function in `PageRanker.py` to run one line and comment out the others
 - `python PageRanker.py`
-- Enter input/output filenamess as prompted
+- Enter input/output filenames as prompted
 - Check output files for ranking and perplexity
