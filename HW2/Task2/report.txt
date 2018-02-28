@@ -1,0 +1,20 @@
+Part C
+Q1.
+Re-run the PageRank algorithm using a damping factor d = 0.55. Does that affect the process and the resulting PageRank with respect to the baseline? Discuss the results.
+A.
+Yes. Baseline takes 15 iterations to converge at perplexity of 700 while d = 0.55 takes 7 iterations to converge at perplexity of 848. The top 50 ranking have similar pages although the order is a little different and PageRank score gap for d = 0.55 is smaller. I think the cause is that d = 0.55 assumes user to visit pages more randomly so the contributions from links between pages become smaller.
+
+Q2.
+Re-run the PageRank algorithm in Task2-B for exactly 4 iterations. Discuss the results
+obtained with respect to the baseline.
+A.
+The top 50 ranking is very similar between baseline and iteration=4 and the ending perplexities are very close between both. I think the cause is that as the maximum depth we crawled for BFS is 3, running 4 iterations is enough to cover most of the paths between pages and thus the ranking becomes stable quickly.
+
+Q3.
+Sort the documents based on their raw in-link count. Compare the top 10
+documents in this run to those obtained in Task2-B. Discuss the pros and cons of using the in-link count as an alternative to PageRank (address at least 2 pros and 2 cons).
+A.
+Pro1: It runs much faster than PageRank iterations.
+Pro2: It can also discover the popular pages based on links.
+Con1: The results are highly dependent on how the graph is built and it tends to produce higher ranks to pages closer to the seed pages.
+Con2: The in-link count is integer and not accurate enough when there are many pages with same number of in-links (which happens a lot).
