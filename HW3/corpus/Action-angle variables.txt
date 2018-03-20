@@ -1,0 +1,1172 @@
+in classical mechanics action-angle coordinates are a set of canonical coordinates useful in solving many integrable systems the method of action-angles is useful for obtaining the frequencies of oscillatory or rotational motion without solving the equations of motion action-angle coordinates are chiefly used when the hamilton–jacobi equations are completely separable hence the hamiltonian does not depend explicitly on time ie the energy is conserved action-angle variables define an invariant torus so called because holding the action constant defines the surface of a torus while the angle variables parameterize the coordinates on the torus
+the bohr–sommerfeld quantization conditions used to develop quantum mechanics before the advent of wave mechanics state that the action must be an integral multiple of plancks constant similarly einsteins insight into ebk quantization and the difficulty of quantizing non-integrable systems was expressed in terms of the invariant tori of action-angle coordinates
+action-angle coordinates are also useful in perturbation theory of hamiltonian mechanics especially in determining adiabatic invariants one of the earliest results from chaos theory for the non-linear perturbations of dynamical systems with a small number of degrees of freedom is the kam theorem which states that the invariant tori are stable under small perturbations
+the use of action-angle variables was central to the solution of the toda lattice and to the definition of lax pairs or more generally the idea of the isospectral evolution of a system
+
+
+ derivation 
+action angles result from a type-2 canonical transformation where the generating function is hamiltons characteristic function 
+  
+    
+      
+        w
+        
+        
+          q
+        
+        
+      
+    
+    displaystyle wmathbf q 
+   not hamiltons principal function 
+  
+    
+      
+        s
+      
+    
+    displaystyle s
+   since the original hamiltonian does not depend on time explicitly the new hamiltonian 
+  
+    
+      
+        k
+        
+        
+          w
+        
+        
+        
+          j
+        
+        
+      
+    
+    displaystyle kmathbf w mathbf j 
+   is merely the old hamiltonian 
+  
+    
+      
+        h
+        
+        
+          q
+        
+        
+        
+          p
+        
+        
+      
+    
+    displaystyle hmathbf q mathbf p 
+   expressed in terms of the new canonical coordinates which we denote as 
+  
+    
+      
+        
+          w
+        
+      
+    
+    displaystyle mathbf w 
+   the action angles which are the generalized coordinates and their new generalized momenta 
+  
+    
+      
+        
+          j
+        
+      
+    
+    displaystyle mathbf j 
+   we will not need to solve here for the generating function 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+   itself instead we will use it merely as a vehicle for relating the new and old canonical coordinates
+rather than defining the action angles 
+  
+    
+      
+        
+          w
+        
+      
+    
+    displaystyle mathbf w 
+   directly we define instead their generalized momenta which resemble the classical action for each original generalized coordinate
+
+  
+    
+      
+        
+          j
+          
+            k
+          
+        
+        ≡
+        
+          
+            
+              ∮
+              
+            
+          
+          
+        
+        ⁡
+        
+          p
+          
+            k
+          
+        
+        
+        d
+        
+          q
+          
+            k
+          
+        
+      
+    
+    displaystyle jkequiv oint pkdqk
+  
+where the integration path is implicitly given by the constant energy function 
+  
+    
+      
+        e
+        
+        e
+        
+        
+          q
+          
+            k
+          
+        
+        
+        
+          p
+          
+            k
+          
+        
+        
+      
+    
+    displaystyle eeqkpk
+   since the actual motion is not involved in this integration these generalized momenta 
+  
+    
+      
+        
+          j
+          
+            k
+          
+        
+      
+    
+    displaystyle jk
+   are constants of the motion implying that the transformed hamiltonian 
+  
+    
+      
+        k
+      
+    
+    displaystyle k
+   does not depend on the conjugate generalized coordinates 
+  
+    
+      
+        
+          w
+          
+            k
+          
+        
+      
+    
+    displaystyle wk
+  
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        
+          j
+          
+            k
+          
+        
+        
+        0
+        
+        
+          
+            
+              ∂
+              k
+            
+            
+              ∂
+              
+                w
+                
+                  k
+                
+              
+            
+          
+        
+      
+    
+    displaystyle frac ddtjk0frac partial kpartial wk
+  
+where the 
+  
+    
+      
+        
+          w
+          
+            k
+          
+        
+      
+    
+    displaystyle wk
+   are given by the typical equation for a type-2 canonical transformation
+
+  
+    
+      
+        
+          w
+          
+            k
+          
+        
+        ≡
+        
+          
+            
+              ∂
+              w
+            
+            
+              ∂
+              
+                j
+                
+                  k
+                
+              
+            
+          
+        
+      
+    
+    displaystyle wkequiv frac partial wpartial jk
+  
+hence the new hamiltonian 
+  
+    
+      
+        k
+        
+        k
+        
+        
+          j
+        
+        
+      
+    
+    displaystyle kkmathbf j 
+   depends only on the new generalized momenta 
+  
+    
+      
+        
+          j
+        
+      
+    
+    displaystyle mathbf j 
+  
+the dynamics of the action angles is given by hamiltons equations
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        
+          w
+          
+            k
+          
+        
+        
+        
+          
+            
+              ∂
+              k
+            
+            
+              ∂
+              
+                j
+                
+                  k
+                
+              
+            
+          
+        
+        ≡
+        
+          ν
+          
+            k
+          
+        
+        
+        
+          j
+        
+        
+      
+    
+    displaystyle frac ddtwkfrac partial kpartial jkequiv nu kmathbf j 
+  
+the right-hand side is a constant of the motion since all the 
+  
+    
+      
+        j
+      
+    
+    displaystyle j
+  s are hence the solution is given by
+
+  
+    
+      
+        
+          w
+          
+            k
+          
+        
+        
+        
+          ν
+          
+            k
+          
+        
+        
+        
+          j
+        
+        
+        t
+        
+        
+          β
+          
+            k
+          
+        
+      
+    
+    displaystyle wknu kmathbf j tbeta k
+  
+where 
+  
+    
+      
+        
+          β
+          
+            k
+          
+        
+      
+    
+    displaystyle beta k
+   is a constant of integration in particular if the original generalized coordinate undergoes an oscillation or rotation of period 
+  
+    
+      
+        t
+      
+    
+    displaystyle t
+   the corresponding action angle 
+  
+    
+      
+        
+          w
+          
+            k
+          
+        
+      
+    
+    displaystyle wk
+   changes by 
+  
+    
+      
+        δ
+        
+          w
+          
+            k
+          
+        
+        
+        
+          ν
+          
+            k
+          
+        
+        
+        
+          j
+        
+        
+        t
+      
+    
+    displaystyle delta wknu kmathbf j t
+  
+these 
+  
+    
+      
+        
+          ν
+          
+            k
+          
+        
+        
+        
+          j
+        
+        
+      
+    
+    displaystyle nu kmathbf j 
+   are the frequencies of oscillationrotation for the original generalized coordinates 
+  
+    
+      
+        
+          q
+          
+            k
+          
+        
+      
+    
+    displaystyle qk
+   to show this we integrate the net change in the action angle 
+  
+    
+      
+        
+          w
+          
+            k
+          
+        
+      
+    
+    displaystyle wk
+   over exactly one complete variation ie oscillation or rotation of its generalized coordinates 
+  
+    
+      
+        
+          q
+          
+            k
+          
+        
+      
+    
+    displaystyle qk
+  
+
+  
+    
+      
+        δ
+        
+          w
+          
+            k
+          
+        
+        ≡
+        
+          
+            
+              ∮
+              
+            
+          
+          
+        
+        ⁡
+        
+          
+            
+              ∂
+              
+                w
+                
+                  k
+                
+              
+            
+            
+              ∂
+              
+                q
+                
+                  k
+                
+              
+            
+          
+        
+        
+        d
+        
+          q
+          
+            k
+          
+        
+        
+        
+          
+            
+              ∮
+              
+            
+          
+          
+        
+        ⁡
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              w
+            
+            
+              ∂
+              
+                j
+                
+                  k
+                
+              
+              
+              ∂
+              
+                q
+                
+                  k
+                
+              
+            
+          
+        
+        
+        d
+        
+          q
+          
+            k
+          
+        
+        
+        
+          
+            d
+            
+              d
+              
+                j
+                
+                  k
+                
+              
+            
+          
+        
+        
+          
+            
+              ∮
+              
+            
+          
+          
+        
+        ⁡
+        
+          
+            
+              ∂
+              w
+            
+            
+              ∂
+              
+                q
+                
+                  k
+                
+              
+            
+          
+        
+        
+        d
+        
+          q
+          
+            k
+          
+        
+        
+        
+          
+            d
+            
+              d
+              
+                j
+                
+                  k
+                
+              
+            
+          
+        
+        
+          
+            
+              ∮
+              
+            
+          
+          
+        
+        ⁡
+        
+          p
+          
+            k
+          
+        
+        
+        d
+        
+          q
+          
+            k
+          
+        
+        
+        
+          
+            
+              d
+              
+                j
+                
+                  k
+                
+              
+            
+            
+              d
+              
+                j
+                
+                  k
+                
+              
+            
+          
+        
+        
+        1
+      
+    
+    displaystyle delta wkequiv oint frac partial wkpartial qkdqkoint frac partial 2wpartial jkpartial qkdqkfrac ddjkoint frac partial wpartial qkdqkfrac ddjkoint pkdqkfrac djkdjk1
+  
+setting the two expressions for 
+  
+    
+      
+        δ
+        
+          w
+          
+            k
+          
+        
+      
+    
+    displaystyle delta wk
+   equal we obtain the desired equation
+
+  
+    
+      
+        
+          ν
+          
+            k
+          
+        
+        
+        
+          j
+        
+        
+        
+        
+          
+            1
+            t
+          
+        
+      
+    
+    displaystyle nu kmathbf j frac 1t
+  
+the action angles 
+  
+    
+      
+        
+          w
+        
+      
+    
+    displaystyle mathbf w 
+   are an independent set of generalized coordinates thus in the general case each original generalized coordinate 
+  
+    
+      
+        
+          q
+          
+            k
+          
+        
+      
+    
+    displaystyle qk
+   can be expressed as a fourier series in all the action angles
+
+  
+    
+      
+        
+          q
+          
+            k
+          
+        
+        
+        
+          ∑
+          
+            
+              s
+              
+                1
+              
+            
+            
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          ∑
+          
+            
+              s
+              
+                2
+              
+            
+            
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        ⋯
+        
+          ∑
+          
+            
+              s
+              
+                n
+              
+            
+            
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          a
+          
+            
+              s
+              
+                1
+              
+            
+            
+            
+              s
+              
+                2
+              
+            
+            
+            …
+            
+            
+              s
+              
+                n
+              
+            
+          
+          
+            k
+          
+        
+        
+          e
+          
+            i
+            2
+            π
+            
+              s
+              
+                1
+              
+            
+            
+              w
+              
+                1
+              
+            
+          
+        
+        
+          e
+          
+            i
+            2
+            π
+            
+              s
+              
+                2
+              
+            
+            
+              w
+              
+                2
+              
+            
+          
+        
+        ⋯
+        
+          e
+          
+            i
+            2
+            π
+            
+              s
+              
+                n
+              
+            
+            
+              w
+              
+                n
+              
+            
+          
+        
+      
+    
+    displaystyle qksum s1-infty infty sum s2-infty infty cdots sum sn-infty infty as1s2ldots snkei2pi s1w1ei2pi s2w2cdots ei2pi snwn
+  
+where 
+  
+    
+      
+        
+          a
+          
+            
+              s
+              
+                1
+              
+            
+            
+            
+              s
+              
+                2
+              
+            
+            
+            …
+            
+            
+              s
+              
+                n
+              
+            
+          
+          
+            k
+          
+        
+      
+    
+    displaystyle as1s2ldots snk
+   is the fourier series coefficient in most practical cases however an original generalized coordinate 
+  
+    
+      
+        
+          q
+          
+            k
+          
+        
+      
+    
+    displaystyle qk
+   will be expressible as a fourier series in only its own action angles 
+  
+    
+      
+        
+          w
+          
+            k
+          
+        
+      
+    
+    displaystyle wk
+  
+
+  
+    
+      
+        
+          q
+          
+            k
+          
+        
+        
+        
+          ∑
+          
+            
+              s
+              
+                k
+              
+            
+            
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            i
+            2
+            π
+            
+              s
+              
+                k
+              
+            
+            
+              w
+              
+                k
+              
+            
+          
+        
+      
+    
+    displaystyle qksum sk-infty infty ei2pi skwk
+  
+
+
+ summary of basic protocol 
+the general procedure has three steps
+calculate the new generalized momenta 
+  
+    
+      
+        
+          j
+          
+            k
+          
+        
+      
+    
+    displaystyle jk
+  
+express the original hamiltonian entirely in terms of these variables
+take the derivatives of the hamiltonian with respect to these momenta to obtain the frequencies 
+  
+    
+      
+        
+          ν
+          
+            k
+          
+        
+      
+    
+    displaystyle nu k
+  
+
+
+ degeneracy 
+in some cases the frequencies of two different generalized coordinates are identical ie 
+  
+    
+      
+        
+          ν
+          
+            k
+          
+        
+        
+        
+          ν
+          
+            l
+          
+        
+      
+    
+    displaystyle nu knu l
+   for 
+  
+    
+      
+        k
+        ≠
+        l
+      
+    
+    displaystyle kneq l
+   in such cases the motion is called degenerate
+degenerate motion signals that there are additional general conserved quantities for example the frequencies of the kepler problem are degenerate corresponding to the conservation of the laplace–runge–lenz vector
+degenerate motion also signals that the hamilton–jacobi equations are completely separable in more than one coordinate system for example the kepler problem is completely separable in both spherical coordinates and parabolic coordinates
+
+
+ see also 
+tautological one-form
+integrable system
+superintegrable hamiltonian system
+
+
+ references 
+l d landau and e m lifshitz 1976 mechanics 3rd ed pergamon press isbn 0-08-021022-8 hardcover and isbn 0-08-029141-4 softcover
+h goldstein 1980 classical mechanics 2nd ed addison-wesley isbn 0-201-02918-9
+g sardanashvily 2015 handbook of integrable hamiltonian systems urss isbn 978-5-396-00687-4

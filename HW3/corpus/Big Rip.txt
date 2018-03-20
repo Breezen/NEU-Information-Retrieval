@@ -1,0 +1,189 @@
+in physical cosmology the big rip is a hypothetical cosmological model concerning the ultimate fate of the universe in which the matter of the universe from stars and galaxies to atoms and subatomic particles and even spacetime itself is progressively torn apart by the expansion of the universe at a certain time in the future according to the hypothesis first published in 2003 the scale factor of the universe and with it all distances in the universe will become infinite at a finite time in the future the possibility of sudden singularities and crunch or rip singularities at late times occur only for hypothetical matter with implausible physical properties
+
+
+ overview 
+the hypothesis relies crucially on the type of dark energy in the universe the key value is the equation of state parameter 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+   the ratio between the dark energy pressure and its energy density if 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+    −1 this dynamical vacuum energy is known as phantom energy an extreme form of quintessence
+
+
+ expansion 
+
+a universe dominated by phantom energy is an accelerating universe expanding at an ever-increasing rate however this implies that the size of the observable universe is continually shrinking the distance to the edge of the observable universe which is moving away at the speed of light from any point moves ever closer when the size of the observable universe becomes smaller than any particular structure no interaction by any of the fundamental forces can occur between the most remote parts of the structure when these interactions become impossible the structure is ripped apart the model implies that after a finite time there will be a final singularity called the big rip in which all distances diverge to infinite values
+the authors of this hypothesis led by robert r caldwell of dartmouth college calculate the time from the present to the end of the universe as we know it for this form of energy to be
+
+  
+    
+      
+        
+          t
+          
+            r
+            i
+            p
+          
+        
+        −
+        
+          t
+          
+            0
+          
+        
+        ≈
+        
+          
+            2
+            
+              3
+              
+                
+              
+              1
+              
+              w
+              
+                
+              
+              
+                h
+                
+                  0
+                
+              
+              
+                
+                  1
+                  −
+                  
+                    ω
+                    
+                      m
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    displaystyle trip-t0approx frac 231wh0sqrt 1-omega m
+  
+where 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+   is defined above h0 is hubbles constant and ωm is the present value of the density of all the matter in the universe
+
+
+ authors example 
+in their paper the authors consider a hypothetical example with 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+    −1.5 h0  70 kmsmpc and ωm  0.3 in which case the big rip will happen approximately 22 billion years from the present
+for 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+    −1.5 the galaxies would first be separated from each other about 60 million years before the big rip gravity would be too weak to hold the milky way and other individual galaxies together galaxies would be destroyed as stars separate from the main black hole approximately three months before the big rip the solar system or systems similar to our own at this time as the fate of the solar system 22 billion years in the future is questionable would be gravitationally unbound planets would be detached from the star’s orbit in the last minutes stars and planets would be torn apart and an extremely short amount of time before the big rip atoms would be destroyed at the time the big rip occurs even spacetime itself will be ripped apart and the scale factor will be infinity
+
+
+ observed universe 
+evidence indicates 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+   to be very close to −1 in our universe which makes 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+   the dominating term in the equation the closer that 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+   is to −1 the closer the denominator is to zero and the further the big rip is in the future if 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+   were exactly equal to −1 the big rip could not happen regardless of the values of h0 or ωm
+according to the latest cosmological data available the uncertainties are still too large to discriminate among the three cases 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+    −1 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+    −1 and 
+  
+    
+      
+        w
+      
+    
+    displaystyle w
+    −1
+
+
+ see also 
+
+
+ references 
+
+
+ external links 
+overbye dennis 17 february 2004 from space a new view of doomsday the new york times 
+devlin hannah 3 july 2015 this is the way the world ends not with a bang but with a big rip the guardian 
+mastin luke 2009 the big crunch the big freeze and the big rip physics of the universe

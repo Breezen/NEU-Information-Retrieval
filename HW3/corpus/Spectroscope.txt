@@ -1,0 +1,180 @@
+spectroscopy  is the study of the interaction between matter and electromagnetic radiation historically spectroscopy originated through the study of visible light dispersed according to its wavelength by a prism later the concept was expanded greatly to include any interaction with radiative energy as a function of its wavelength or frequency spectroscopic data are often represented by an emission spectrum a plot of the response of interest as a function of wavelength or frequency
+
+
+ introduction 
+spectroscopy and spectrography are terms used to refer to the measurement of radiation intensity as a function of wavelength and are often used to describe experimental spectroscopic methods spectral measurement devices are referred to as spectrometers spectrophotometers spectrographs or spectral analyzers
+daily observations of color can be related to spectroscopy neon lighting is a direct application of atomic spectroscopy neon and other noble gases have characteristic emission frequencies colors neon lamps use collision of electrons with the gas to excite these emissions inks dyes and paints include chemical compounds selected for their spectral characteristics in order to generate specific colors and hues a commonly encountered molecular spectrum is that of nitrogen dioxide gaseous nitrogen dioxide has a characteristic red absorption feature and this gives air polluted with nitrogen dioxide a reddish-brown color rayleigh scattering is a spectroscopic scattering phenomenon that accounts for the color of the sky
+spectroscopic studies were central to the development of quantum mechanics and included max plancks explanation of blackbody radiation albert einsteins explanation of the photoelectric effect and niels bohrs explanation of atomic structure and spectra spectroscopy is used in physical and analytical chemistry because atoms and molecules have unique spectra as a result these spectra can be used to detect identify and quantify information about the atoms and molecules spectroscopy is also used in astronomy and remote sensing on earth most research telescopes have spectrographs the measured spectra are used to determine the chemical composition and physical properties of astronomical objects such as their temperature and velocity
+
+
+ theory 
+one of the central concepts in spectroscopy is a resonance and its corresponding resonant frequency resonances were first characterized in mechanical systems such as pendulums mechanical systems that vibrate or oscillate will experience large amplitude oscillations when they are driven at their resonant frequency a plot of amplitude vs excitation frequency will have a peak centered at the resonance frequency this plot is one type of spectrum with the peak often referred to as a spectral line and most spectral lines have a similar appearance
+in quantum mechanical systems the analogous resonance is a coupling of two quantum mechanical stationary states of one system such as an atom via an oscillatory source of energy such as a photon the coupling of the two states is strongest when the energy of the source matches the energy difference between the two states the energy 
+  
+    
+      
+        
+        e
+        
+      
+    
+    displaystyle e
+   of a photon is related to its frequency 
+  
+    
+      
+        
+        ν
+        
+      
+    
+    displaystyle nu 
+   by 
+  
+    
+      
+        e
+        
+        h
+        ν
+      
+    
+    displaystyle ehnu 
+   where 
+  
+    
+      
+        h
+      
+    
+    displaystyle h
+   is plancks constant and so a spectrum of the system response vs photon frequency will peak at the resonant frequency or energy particles such as electrons and neutrons have a comparable relationship the de broglie relations between their kinetic energy and their wavelength and frequency and therefore can also excite resonant interactions
+spectra of atoms and molecules often consist of a series of spectral lines each one representing a resonance between two different quantum states the explanation of these series and the spectral patterns associated with them were one of the experimental enigmas that drove the development and acceptance of quantum mechanics the hydrogen spectral series in particular was first successfully explained by the rutherford-bohr quantum model of the hydrogen atom in some cases spectral lines are well separated and distinguishable but spectral lines can also overlap and appear to be a single transition if the density of energy states is high enough named series of lines include the principal sharp diffuse and fundamental series
+
+
+ classification of methods 
+
+spectroscopy is a sufficiently broad field that many sub-disciplines exist each with numerous implementations of specific spectroscopic techniques the various implementations and techniques can be classified in several ways
+
+
+ type of radiative energy 
+types of spectroscopy are distinguished by the type of radiative energy involved in the interaction in many applications the spectrum is determined by measuring changes in the intensity or frequency of this energy the types of radiative energy studied include
+electromagnetic radiation was the first source of energy used for spectroscopic studies techniques that employ electromagnetic radiation are typically classified by the wavelength region of the spectrum and include microwave terahertz infrared near infrared visible and ultraviolet x-ray and gamma spectroscopy
+particles due to their de broglie wavelength can also be a source of radiative energy and both electrons and neutrons are commonly used for a particle its kinetic energy determines its wavelength
+acoustic spectroscopy involves radiated pressure waves
+mechanical methods can be employed to impart radiating energy similar to acoustic waves to solid materials
+
+
+ nature of the interaction 
+types of spectroscopy can also be distinguished by the nature of the interaction between the energy and the material these interactions include
+absorption occurs when energy from the radiative source is absorbed by the material absorption is often determined by measuring the fraction of energy transmitted through the material absorption will decrease the transmitted portion
+emission indicates that radiative energy is released by the material a materials blackbody spectrum is a spontaneous emission spectrum determined by its temperature this feature can be measured in the infrared by instruments such as the atmospheric emitted radiance interferometer aeri emission can also be induced by other sources of energy such as flames or sparks or electromagnetic radiation in the case of fluorescence
+elastic scattering and reflection spectroscopy determine how incident radiation is reflected or scattered by a material crystallography employs the scattering of high energy radiation such as x-rays and electrons to examine the arrangement of atoms in proteins and solid crystals
+impedance spectroscopy studies the ability of a medium to impede or slow the transmittance of energy for optical applications this is characterized by the index of refraction
+inelastic scattering phenomena involve an exchange of energy between the radiation and the matter that shifts the wavelength of the scattered radiation these include raman and compton scattering
+coherent or resonance spectroscopy are techniques where the radiative energy couples two quantum states of the material in a coherent interaction that is sustained by the radiating field the coherence can be disrupted by other interactions such as particle collisions and energy transfer and so often require high intensity radiation to be sustained nuclear magnetic resonance nmr spectroscopy is a widely used resonance method and ultrafast laser methods are also now possible in the infrared and visible spectral regions
+
+
+ type of material 
+spectroscopic studies are designed so that the radiant energy interacts with specific types of matter
+
+
+ atoms 
+atomic spectroscopy was the first application of spectroscopy developed atomic absorption spectroscopy aas and atomic emission spectroscopy aes involve visible and ultraviolet light these absorptions and emissions often referred to as atomic spectral lines are due to electronic transitions of outer shell electrons as they rise and fall from one electron orbit to another atoms also have distinct x-ray spectra that are attributable to the excitation of inner shell electrons to excited states
+atoms of different elements have distinct spectra and therefore atomic spectroscopy allows for the identification and quantitation of a samples elemental composition robert bunsen and gustav kirchhoff discovered new elements by observing their emission spectra atomic absorption lines are observed in the solar spectrum and referred to as fraunhofer lines after their discoverer a comprehensive explanation of the hydrogen spectrum was an early success of quantum mechanics and explained the lamb shift observed in the hydrogen spectrum which further led to the development of quantum electrodynamics
+modern implementations of atomic spectroscopy for studying visible and ultraviolet transitions include flame emission spectroscopy inductively coupled plasma atomic emission spectroscopy glow discharge spectroscopy microwave induced plasma spectroscopy and spark or arc emission spectroscopy techniques for studying x-ray spectra include x-ray spectroscopy and x-ray fluorescence xrf
+
+
+ molecules 
+the combination of atoms into molecules leads to the creation of unique types of energetic states and therefore unique spectra of the transitions between these states molecular spectra can be obtained due to electron spin states electron paramagnetic resonance molecular rotations molecular vibration and electronic states rotations are collective motions of the atomic nuclei and typically lead to spectra in the microwave and millimeter-wave spectral regions rotational spectroscopy and microwave spectroscopy are synonymous vibrations are relative motions of the atomic nuclei and are studied by both infrared and raman spectroscopy electronic excitations are studied using visible and ultraviolet spectroscopy as well as fluorescence spectroscopy
+studies in molecular spectroscopy led to the development of the first maser and contributed to the subsequent development of the laser
+
+
+ crystals and extended materials 
+the combination of atoms or molecules into crystals or other extended forms leads to the creation of additional energetic states these states are numerous and therefore have a high density of states this high density often makes the spectra weaker and less distinct ie broader for instance blackbody radiation is due to the thermal motions of atoms and molecules within a material acoustic and mechanical responses are due to collective motions as well pure crystals though can have distinct spectral transitions and the crystal arrangement also has an effect on the observed molecular spectra the regular lattice structure of crystals also scatters x-rays electrons or neutrons allowing for crystallographic studies
+
+
+ nuclei 
+nuclei also have distinct energy states that are widely separated and lead to gamma ray spectra distinct nuclear spin states can have their energy separated by a magnetic field and this allows for nmr spectroscopy
+
+
+ other types 
+other types of spectroscopy are distinguished by specific applications or implementations
+acoustic resonance spectroscopy is based on sound waves primarily in the audible and ultrasonic regions
+auger spectroscopy is a method used to study surfaces of materials on a micro-scale it is often used in connection with electron microscopy
+cavity ring down spectroscopy
+circular dichroism spectroscopy
+coherent anti-stokes raman spectroscopy cars is a recent technique that has high sensitivity and powerful applications for in vivo spectroscopy and imaging
+cold vapour atomic fluorescence spectroscopy
+correlation spectroscopy encompasses several types of two-dimensional nmr spectroscopy
+deep-level transient spectroscopy measures concentration and analyzes parameters of electrically active defects in semiconducting materials
+dual polarisation interferometry measures the real and imaginary components of the complex refractive index
+electron energy loss spectroscopy eels in transmission electron microscopy
+electron phenomenological spectroscopy measures physicochemical properties and characteristics of electronic structure of multicomponent and complex molecular systems
+epr spectroscopy
+force spectroscopy
+fourier transform spectroscopy is an efficient method for processing spectra data obtained using interferometers fourier transform infrared spectroscopy ftir is a common implementation of infrared spectroscopy nmr also employs fourier transforms
+hadron spectroscopy studies the energymass spectrum of hadrons according to spin parity and other particle properties baryon spectroscopy and meson spectroscopy are both types of hadron spectroscopy
+hyperspectral imaging is a method to create a complete picture of the environment or various objects each pixel containing a full visible vnir nir or infrared spectrum
+inelastic electron tunneling spectroscopy iets uses the changes in current due to inelastic electron-vibration interaction at specific energies that can also measure optically forbidden transitions
+inelastic neutron scattering is similar to raman spectroscopy but uses neutrons instead of photons
+laser-induced breakdown spectroscopy libs also called laser-induced plasma spectrometry lips
+laser spectroscopy uses tunable lasers and other types of coherent emission sources such as optical parametric oscillators for selective excitation of atomic or molecular species
+mass spectroscopy is a historical term used to refer to mass spectrometry current recommendations are to use the latter term use of the term mass spectroscopy originated in the use of phosphor screens to detect ions
+mössbauer spectroscopy probes the properties of specific isotopic nuclei in different atomic environments by analyzing the resonant absorption of gamma-rays see also mössbauer effect
+multivariate optical computing is an all optical compressed sensing technique generally used in harsh environments that directly calculates chemical information from a spectrum as analogue output
+neutron spin echo spectroscopy measures internal dynamics in proteins and other soft matter systems
+photoacoustic spectroscopy measures the sound waves produced upon the absorption of radiation
+photoemission spectroscopy
+photothermal spectroscopy measures heat evolved upon absorption of radiation
+pump-probe spectroscopy can use ultrafast laser pulses to measure reaction intermediates in the femtosecond timescale
+raman optical activity spectroscopy exploits raman scattering and optical activity effects to reveal detailed information on chiral centers in molecules
+raman spectroscopy
+saturated spectroscopy
+scanning tunneling spectroscopy
+spectrophotometry
+spin noise spectroscopy traces spontaneous fluctuations of electronic and nuclear spins
+time-resolved spectroscopy measures the decay rates of excited states using various spectroscopic methods
+time-stretch spectroscopy
+thermal infrared spectroscopy measures thermal radiation emitted from materials and surfaces and is used to determine the type of bonds present in a sample as well as their lattice environment the techniques are widely used by organic chemists mineralogists and planetary scientists
+transient grating spectroscopy measures quasiparticle propagation it can track changes in metallic materials as they are irradiated
+ultraviolet photoelectron spectroscopy ups
+ultraviolet–visible spectroscopy
+vibrational circular dichroism spectroscopy
+video spectroscopy
+x-ray photoelectron spectroscopy xps
+
+
+ applications 
+
+cure monitoring of composites using optical fibers
+estimate weathered wood exposure times using near infrared spectroscopy
+measurement of different compounds in food samples by absorption spectroscopy both in visible and infrared spectrum
+measurement of toxic compounds in blood samples
+
+
+ history 
+
+the history of spectroscopy began with isaac newtons optics experiments 1666–1672 newton applied the word spectrum to describe the rainbow of colors that combine to form white light and that are revealed when the white light is passed through a prism during the early 1800s joseph von fraunhofer made experimental advances with dispersive spectrometers that enabled spectroscopy to become a more precise and quantitative scientific technique since then spectroscopy has played and continues to play a significant role in chemistry physics and astronomy
+in 1672 in the first paper that he submitted to the royal society sir isaac newton described an experiment in which he permitted sunlight to pass through a small hole and then through a prism newton found that sunlight which looks white to us is actually made up of a mixture of all the colors of the rainbow 
+in 1802 william hyde wollaston built an improved spectrometer that included a lens to focus the sun’s spectrum on a screen upon use wollaston realized that the colors were not spread uniformly but instead had missing patches of colors which appeared as dark bands in the spectrum later in 1815 german physicist joseph fraunhofer also examined the solar spectrum and found about 600 such dark lines missing colors which are now known as fraunhofer lines or absorption lines 
+
+
+ see also 
+
+
+ notes 
+
+
+ references 
+john m chalmers peter griffiths eds 2006 handbook of vibrational spectroscopy 5 volume set new york wiley doi10.1002/0470027320 isbn 0-471-98847-2 
+jerry workman art springsteen eds 1998 applied spectroscopy boston academic press isbn 978-0-08-052749-9 
+peter m skrabal 2012 spectroscopy - an interdisciplinary integral description of spectroscopy from uv to nmr e-book eth zurich vdf hochschulverlag ag doi10.3218/3385-4 isbn 978-3-7281-3385-4 
+
+
+ external links 
+spectroscopy links at curlie based on dmoz
+amateur spectroscopy links at curlie based on dmoz
+nist atomic spectroscopy databases
+mit spectroscopy labs history of spectroscopy
+timeline of spectroscopy

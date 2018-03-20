@@ -1,0 +1,1785 @@
+bells theorem is a no-go theorem that draws an important distinction between quantum mechanics and the world as described by classical mechanics this theorem is named after john stewart bell
+in its simplest form bells theorem states
+
+no physical theory of local hidden variables can ever reproduce all of the predictions of quantum mechanics
+
+cornell solid-state physicist david mermin has described the appraisals of the importance of bells theorem in the physics community as ranging from indifference to wild extravagance lawrence berkeley particle physicist henry stapp declared bells theorem is the most profound discovery of science
+bells theorem rules out local hidden variables as a viable explanation of quantum mechanics though it still leaves the door open for non-local hidden variables bell concluded
+
+in a theory in which parameters are added to quantum mechanics to determine the results of individual measurements without changing the statistical predictions there must be a mechanism whereby the setting of one measuring device can influence the reading of another instrument however remote moreover the signal involved must propagate instantaneously so that such a theory could not be lorentz invariant
+
+bell summarized one of the least popular ways to address the theorem superdeterminism in a 1985 bbc radio interview
+
+there is a way to escape the inference of superluminal speeds and spooky action at a distance but it involves absolute determinism in the universe the complete absence of free will suppose the world is super-deterministic with not just inanimate nature running on behind-the-scenes clockwork but with our behavior including our belief that we are free to choose to do one experiment rather than another absolutely predetermined including the decision by the experimenter to carry out one set of measurements rather than another the difficulty disappears there is no need for a faster-than-light signal to tell particle a what measurement has been carried out on particle b because the universe including particle a already knows what that measurement and its outcome will be
+
+
+ historical background 
+in the early 1930s the philosophical implications of the current interpretations of quantum theory troubled many prominent physicists of the day including albert einstein in a well-known 1935 paper boris podolsky and co-authors einstein and nathan rosen collectively epr sought to demonstrate by the epr paradox that quantum mechanics was incomplete this provided hope that a more complete and less troubling theory might one day be discovered but that conclusion rested on the seemingly reasonable assumptions of locality and realism together called local realism or local hidden variables often interchangeably in the vernacular of einstein locality meant no instantaneous spooky action at a distance realism meant the moon is there even when not being observed these assumptions were hotly debated in the physics community notably between einstein and niels bohr
+in his groundbreaking 1964 paper on the einstein podolsky rosen paradox physicist john stewart bell presented an analogy based on spin measurements on pairs of entangled electrons to eprs hypothetical paradox using their reasoning he said a choice of measurement setting here should not affect the outcome of a measurement there and vice versa after providing a mathematical formulation of locality and realism based on this he showed specific cases where this would be inconsistent with the predictions of quantum mechanics theory
+in experimental tests following bells example now using quantum entanglement of photons instead of electrons john clauser and stuart freedman 1972 and alain aspect et al 1981 demonstrated that the predictions of quantum mechanics are correct in this regard although relying on additional unverifiable assumptions that open loopholes for local realism
+in october 2015 hensen and co-workers reported that they performed a loophole-free bell test which might force one to reject at least one of the principles of locality realism or freedom-of-choice the last could lead to alternative superdeterministic theories two of these logical possibilities non-locality and non-realism correspond to well-developed interpretations of quantum mechanics and have many supporters this is not the case for the third logical possibility non-freedom conclusive experimental evidence of the violation of bells inequality would drastically reduce the class of acceptable deterministic theories but would not falsify absolute determinism which was described by bell himself as not just inanimate nature running on behind-the-scenes clockwork but with our behaviour including our belief that we are free to choose to do one experiment rather than another absolutely predetermined however bell himself considered absolute determinism an implausible solution
+
+
+ overview 
+bells theorem states that any physical theory that incorporates local realism cannot reproduce all the predictions of quantum mechanical theory because numerous experiments agree with the predictions of quantum mechanical theory and show differences between correlations that could not be explained by local hidden variables the experimental results have been taken by many as refuting the concept of local realism as an explanation of the physical phenomena under test for a hidden variable theory if bells conditions are correct the results that agree with quantum mechanical theory appear to indicate superluminal faster-than-light effects in contradiction to the principle of locality
+these three key concepts – locality realism freedom – are highly technical and much debated in particular the concept of realism is now somewhat different from what it was in discussions in the 1930s it is more precisely called counterfactual definiteness it means that we may think of outcomes of measurements that were not actually performed as being just as much part of reality as those that were made locality is short for local relativistic causality currently accepted quantum field theories are local in the terminology of the lagrangian formalism and axiomatic approach freedom refers to the physical possibility of determining settings on measurement devices independently of the internal state of the physical system being measured
+
+the theorem is usually proved by consideration of a quantum system of two entangled qubits the most common examples concern systems of particles that are entangled in spin or polarization quantum mechanics allows predictions of correlations that would be observed if these two particles have their spin or polarization measured in different directions bell showed that if a local hidden variable theory holds then these correlations would have to satisfy certain constraints called bell inequalities however for the quantum correlations arising in the specific example considered those constraints are not satisfied hence the phenomenon being studied cannot be explained by a local hidden variables theory
+following the argument in the einstein–podolsky–rosen epr paradox paper but using the example of spin as in david bohms version of the epr argument bell considered an experiment in which there are a pair of spin one-half particles formed somehow in the singlet spin state and moving freely in opposite directions the two particles travel away from each other to two distant locations at which measurements of spin are performed along axes that are independently chosen each measurement yields a result of either spin-up  or spin-down − it means spin in the positive or negative direction of the chosen axis
+the probability of the same result being obtained at the two locations depends on the relative angles at which the two spin measurements are made and is strictly between zero and one for all relative angles other than perfectly parallel or antiparallel alignments 0° or 180° since total angular momentum is conserved and since the total spin is zero in the singlet state the probability of the same result with parallel antiparallel alignment is 0 1 this last prediction is true classically as well as quantum mechanically
+bells theorem is concerned with correlations defined in terms of averages taken over very many trials of the experiment the correlation of two binary variables is usually defined in quantum physics as the average of the products of the pairs of measurements note that this is different from the usual definition of correlation in statistics the quantum physicists correlation is the statisticians raw uncentered unnormalized product moment they are similar in that with either definition if the pairs of outcomes are always the same the correlation is +1 if the pairs of outcomes are always opposite the correlation is -1 and if the pairs of outcomes agree 50% of the time then the correlation is 0 the correlation is related in a simple way to the probability of equal outcomes namely it is equal to twice the probability of equal outcomes minus one
+measuring the spin of these entangled particles along anti-parallel directions—ie along the same axis but in opposite directions the set of all results is perfectly correlated on the other hand if measurements are performed along parallel directions they always yield opposite results and the set of measurements shows perfect anti-correlation this is in accord with the above stated probabilities of measuring the same result in these two cases finally measurement at perpendicular directions has a 50% chance of matching and the total set of measurements is uncorrelated these basic cases are illustrated in the table below columns should be read as examples of pairs of values that could be recorded by alice and bob with time increasing going to the right
+
+with the measurements oriented at intermediate angles between these basic cases the existence of local hidden variables could agree withwould be consistent with a linear dependence of the correlation in the angle but according to bells inequality see below could not agree with the dependence predicted by quantum mechanical theory namely that the correlation is the negative cosine of the angle experimental results match the curve predicted by quantum mechanics
+over the years bells theorem has undergone a wide variety of experimental tests however various common deficiencies in the testing of the theorem have been identified including the detection loophole and the communication loophole over the years experiments have been gradually improved to better address these loopholes in 2015 the first experiment to simultaneously address all of the loopholes was performed
+to date bells theorem is generally regarded as supported by a substantial body of evidence and there are few supporters of local hidden variables though the theorem is continually the subject of study criticism and refinement
+
+
+ importance 
+bells theorem derived in his seminal 1964 paper titled on the einstein podolsky rosen paradox has been called on the assumption that the theory is correct the most profound in science perhaps of equal importance is bells deliberate effort to encourage and bring legitimacy to work on the completeness issues which had fallen into disrepute later in his life bell expressed his hope that such work would continue to inspire those who suspect that what is proved by the impossibility proofs is lack of imagination
+the title of bells seminal article refers to the 1935 paper by einstein podolsky and rosen that challenged the completeness of quantum mechanics in his paper bell started from the same two assumptions as did epr namely i reality that microscopic objects have real properties determining the outcomes of quantum mechanical measurements and ii locality that reality in one location is not influenced by measurements performed simultaneously at a distant location bell was able to derive from those two assumptions an important result namely bells inequality the theoretical and later experimental violation of this inequality implies that at least one of the two assumptions must be false
+in two respects bells 1964 paper was a step forward compared to the epr paper firstly it considered more hidden variables than merely the element of physical reality in the epr paper and bells inequality was in part experimentally testable thus raising the possibility of testing the local realism hypothesis limitations on such tests to date are noted below whereas bells paper deals only with deterministic hidden variable theories bells theorem was later generalized to stochastic theories as well and it was also realised that the theorem is not so much about hidden variables as about the outcomes of measurements that could have been taken instead of the one actually taken existence of these variables is called the assumption of realism or the assumption of counterfactual definiteness
+after the epr paper quantum mechanics was in an unsatisfactory position either it was incomplete in the sense that it failed to account for some elements of physical reality or it violated the principle of a finite propagation speed of physical effects in a modified version of the epr thought experiment two hypothetical observers now commonly referred to as alice and bob perform independent measurements of spin on a pair of electrons prepared at a source in a special state called a spin singlet state it is the conclusion of epr that once alice measures spin in one direction eg on the x axis bobs measurement in that direction is determined with certainty as being the opposite outcome to that of alice whereas immediately before alices measurement bobs outcome was only statistically determined ie was only a probability not a certainty thus either the spin in each direction is an element of physical reality or the effects travel from alice to bob instantly
+in qm predictions are formulated in terms of probabilities — for example the probability that an electron will be detected in a particular place or the probability that its spin is up or down the idea persisted however that the electron in fact has a definite position and spin and that qms weakness is its inability to predict those values precisely the possibility existed that some unknown theory such as a hidden variables theory might be able to predict those quantities exactly while at the same time also being in complete agreement with the probabilities predicted by qm if such a hidden variables theory exists then because the hidden variables are not described by qm the latter would be an incomplete theory
+
+
+ local realism 
+the concept of local realism is formalized to state and prove bells theorem and generalizations a common approach is the following
+there is a probability space λ and the observed outcomes by both alice and bob result by random sampling of the unknown hidden parameter λ ∈ λ
+the values observed by alice or bob are functions of the local detector settings and the hidden parameter only thus there are functions ab  s2 × λ → -1 +1  where a detector setting is modeled as a location on the unit sphere s2 such that
+the value observed by alice with detector setting a is aa λ
+the value observed by bob with detector setting b is bb λ
+
+perfect anti-correlation would require bc λ  −ac λ c ∈ s2 implicit in assumption 1 above the hidden parameter space λ has a probability measure μ and the expectation of a random variable x on λ with respect to μ is written
+
+  
+    
+      
+        e
+        ⁡
+        
+        x
+        
+        
+        
+          ∫
+          
+            λ
+          
+        
+        x
+        
+        λ
+        
+        p
+        
+        λ
+        
+        d
+        λ
+        
+      
+    
+    displaystyle operatorname e xint lambda xlambda plambda dlambda 
+  
+where for accessibility of notation we assume that the probability measure has a probability density p that therefore is nonnegative and integrates to 1 the hidden parameter is often thought of as being associated with the source but it can just as well also contain components associated with the two measurement devices
+
+
+ bell inequalities 
+bell inequalities concern measurements made by observers on pairs of particles that have interacted and then separated assuming local realism certain constraints must hold on the relationships between the correlations between subsequent measurements of the particles under various possible measurement settings let a and b be as above define for the present purposes three correlation functions
+let cea b denote the experimentally measured correlation defined by
+
+  
+    
+      
+        
+          c
+          
+            e
+          
+        
+        
+        a
+        
+        b
+        
+        
+        
+          
+            
+              
+                n
+                
+                  
+                  
+                
+              
+              
+              
+                n
+                
+                  −
+                  −
+                
+              
+              −
+              
+                n
+                
+                  
+                  −
+                
+              
+              −
+              
+                n
+                
+                  −
+                  
+                
+              
+            
+            
+              
+                n
+                
+                  
+                  
+                
+              
+              
+              
+                n
+                
+                  −
+                  −
+                
+              
+              
+              
+                n
+                
+                  
+                  −
+                
+              
+              
+              
+                n
+                
+                  −
+                  
+                
+              
+            
+          
+        
+        
+      
+    
+    displaystyle ceabfrac nn---n--n-nn--n-n-
+  
+
+where n is the number of measurements yielding spin up in the direction of a measured by alice first subscript  and spin up in the direction of b measured by bob the other occurrences of n are analogously defined
+let cqa b denote the correlation as predicted by quantum mechanics this is given by the expression
+
+  
+    
+      
+        
+          c
+          
+            q
+          
+        
+        
+        a
+        
+        b
+        
+        
+        
+          ⟨
+          
+            a
+            
+              
+            
+            
+            
+              σ
+            
+            ⋅
+            
+              b
+            
+            
+              
+              
+                
+                2
+                
+              
+            
+            
+            
+              σ
+            
+            ⋅
+            
+              a
+            
+            
+              
+              
+                
+                1
+                
+              
+            
+            
+              
+            
+            a
+          
+          ⟩
+        
+        
+      
+    
+    displaystyle cqableftlangle aboldsymbol sigma cdot mathbf b 2boldsymbol sigma cdot mathbf a 1arightrangle 
+  
+
+where a is the antisymmetric spin wave function this value is calculated to be
+
+  
+    
+      
+        
+          c
+          
+            q
+          
+        
+        
+        a
+        
+        b
+        
+        
+        −
+        
+          a
+        
+        ⋅
+        
+          b
+        
+        
+      
+    
+    displaystyle cqab-mathbf a cdot mathbf b 
+  
+
+let cha b denote the correlation as predicted by any hidden variable theory in the formalization of above this is
+
+  
+    
+      
+        
+          c
+          
+            h
+          
+        
+        
+        a
+        
+        b
+        
+        
+        e
+        
+        a
+        
+        
+          a
+        
+        
+        λ
+        
+        
+        b
+        
+        
+          b
+        
+        
+        λ
+        
+        
+        
+        
+          ∫
+          
+            λ
+          
+        
+        a
+        
+        
+          a
+        
+        
+        λ
+        
+        b
+        
+        
+          b
+        
+        
+        λ
+        
+        p
+        
+        λ
+        
+        d
+        λ
+        
+      
+    
+    displaystyle chabeamathbf a lambda bmathbf b lambda int lambda amathbf a lambda bmathbf b lambda plambda dlambda 
+  
+
+with this notation a concise summary of what follows can be made
+theoretically there exists a b such that
+
+  
+    
+      
+        
+          c
+          
+            q
+          
+        
+        ≠
+        
+          c
+          
+            h
+          
+        
+        
+      
+    
+    displaystyle cqneq ch
+  
+
+whatever are the particular characteristics of the hidden variable theory as long as it abides to the rules of local realism as defined above that is to say no local hidden variable theory can make the same predictions as quantum mechanics
+experimentally instances of
+
+  
+    
+      
+        
+          c
+          
+            e
+          
+        
+        ≠
+        
+          c
+          
+            h
+          
+        
+      
+    
+    displaystyle ceneq ch
+  
+
+have been found whatever the hidden variable theory but
+
+  
+    
+      
+        
+          c
+          
+            e
+          
+        
+        ≠
+        
+          c
+          
+            q
+          
+        
+        
+        
+          not found
+        
+      
+    
+    displaystyle ceneq cqquad textnot found
+  
+
+has never been found that is to say predictions of quantum mechanics have never been falsified by experiment these experiments include such that can rule out local hidden variable theories but see below on possible loopholes
+
+
+ original bells inequality 
+the inequality that bell derived can then be written as
+
+  
+    
+      
+        
+          c
+          
+            h
+          
+        
+        
+        a
+        
+        c
+        
+        −
+        
+          c
+          
+            h
+          
+        
+        
+        b
+        
+        a
+        
+        −
+        
+          c
+          
+            h
+          
+        
+        
+        b
+        
+        c
+        
+        ≤
+        1
+        
+      
+    
+    displaystyle chac-chba-chbcleq 1
+  
+where a b and c refer to three arbitrary settings of the two analysers this inequality is however restricted in its application to the rather special case in which the outcomes on both sides of the experiment are always exactly anticorrelated whenever the analysers are parallel the advantage of restricting attention to this special case is the resulting simplicity of the derivation in experimental work the inequality is not very useful because it is hard if not impossible to create perfect anti-correlation
+this simple form has an intuitive explanation however it is equivalent to the following elementary result from probability theory consider three highly correlated and possibly biased coin-flips x y and z with the property that
+x and y give the same outcome both heads or both tails 99% of the time
+y and z also give the same outcome 99% of the time
+then x and z must also yield the same outcome at least 98% of the time the number of mismatches between x and y 1/100 plus the number of mismatches between y and z 1/100 are together the maximum possible number of mismatches between x and z a simple boole–fréchet inequality
+imagine a pair of particles that can be measured at distant locations suppose that the measurement devices have settings which are angles—eg the devices measure something called spin in some direction the experimenter chooses the directions one for each particle separately suppose the measurement outcome is binary eg spin up spin down suppose the two particles are perfectly anti-correlated—in the sense that whenever both measured in the same direction one gets identically opposite outcomes when both measured in opposite directions they always give the same outcome the only way to imagine how this works is that both particles leave their common source with somehow the outcomes they will deliver when measured in any possible direction how else could particle 1 know how to deliver the same answer as particle 2 when measured in the same direction they dont know in advance how they are going to be measured the measurement on particle 2 after switching its sign can be thought of as telling us what the same measurement on particle 1 would have given
+start with one setting exactly opposite to the other all the pairs of particles give the same outcome each pair is either both spin up or both spin down now shift alices setting by one degree relative to bobs they are now one degree off being exactly opposite to one another a small fraction of the pairs say f now give different outcomes if instead we had left alices setting unchanged but shifted bobs by one degree in the opposite direction then again a fraction f of the pairs of particles turns out to give different outcomes finally consider what happens when both shifts are implemented at the same time the two settings are now exactly two degrees away from being opposite to one another by the mismatch argument the chance of a mismatch at two degrees cant be more than twice the chance of a mismatch at one degree it cannot be more than 2f
+compare this with the predictions from quantum mechanics for the singlet state for a small angle θ measured in radians the chance of a different outcome is approximately 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        
+        
+          θ
+          
+            2
+          
+        
+        
+          
+        
+        2
+      
+    
+    displaystyle f1theta 22
+   as explained by small-angle approximation at two times this small angle the chance of a mismatch is therefore about 4 times larger since 
+  
+    
+      
+        
+          f
+          
+            2
+          
+        
+        
+        
+        2
+        θ
+        
+          
+          
+            2
+          
+        
+        
+          
+        
+        2
+        
+        
+          2
+          
+            2
+          
+        
+        
+          θ
+          
+            2
+          
+        
+        
+          
+        
+        2
+        ≈
+        4
+        
+          f
+          
+            1
+          
+        
+      
+    
+    displaystyle f22theta 2222theta 22approx 4f1
+   but we just argued that it cannot be more than 2 times as large
+this intuitive formulation is due to david mermin the small-angle limit is discussed in bells original article and therefore goes right back to the origin of the bell inequalities
+
+
+ chsh inequality 
+
+generalizing bells original inequality john clauser michael horne abner shimony and r a holt introduced the chsh inequality which puts classical limits on the set of four correlations in alice and bobs experiment without any assumption of perfect correlations or anti-correlations at equal settings
+
+  
+    
+      
+        
+        1
+        
+        
+        
+          c
+          
+            h
+          
+        
+        
+        a
+        
+        b
+        
+        
+        
+          c
+          
+            h
+          
+        
+        
+        a
+        
+        
+          b
+          ′
+        
+        
+        
+        
+          c
+          
+            h
+          
+        
+        
+        
+          a
+          ′
+        
+        
+        b
+        
+        −
+        
+          c
+          
+            h
+          
+        
+        
+        
+          a
+          ′
+        
+        
+        
+          b
+          ′
+        
+        
+        ≤
+        2
+      
+    
+    displaystyle 1quad chabchabchab-chableq 2
+  
+making the special choice 
+  
+    
+      
+        
+          a
+          ′
+        
+        
+        b
+        
+        π
+      
+    
+    displaystyle abpi 
+   denoting 
+  
+    
+      
+        
+          b
+          ′
+        
+        
+        c
+      
+    
+    displaystyle bc
+   and assuming perfect anti-correlation at equal settings perfect correlation at opposite settings therefore 
+  
+    
+      
+        ρ
+        
+        a
+        
+        a
+        
+        π
+        
+        
+        1
+      
+    
+    displaystyle rho aapi 1
+   and 
+  
+    
+      
+        ρ
+        
+        b
+        
+        a
+        
+        π
+        
+        
+        −
+        ρ
+        
+        b
+        
+        a
+        
+      
+    
+    displaystyle rho bapi -rho ba
+   the chsh inequality reduces to the original bell inequality nowadays 1 is also often simply called the bell inequality but sometimes more completely the bell-chsh inequality
+
+
+ derivation 
+with abbreviated notation
+
+  
+    
+      
+        a
+        
+        a
+        
+        a
+        
+        λ
+        
+        
+        
+          a
+          ′
+        
+        
+        a
+        
+        
+          a
+          ′
+        
+        
+        λ
+        
+        
+        b
+        
+        b
+        
+        b
+        
+        λ
+        
+        
+        
+          b
+          ′
+        
+        
+        b
+        
+        
+          b
+          ′
+        
+        
+        λ
+        
+        
+      
+    
+    displaystyle aaalambda aaalambda bbblambda bbblambda 
+  
+the chsh inequality can be derived as follows each of the four quantities is ±1 and each depends on λ it follows that for any λ ∈ λ one of b  b′ and b − b′ is zero and the other is ±2 from this it follows that
+
+  
+    
+      
+        a
+        b
+        
+        a
+        
+          b
+          ′
+        
+        
+        
+          a
+          ′
+        
+        b
+        −
+        
+          a
+          ′
+        
+        
+          b
+          ′
+        
+        
+        a
+        
+        b
+        
+        
+          b
+          ′
+        
+        
+        
+        
+          a
+          ′
+        
+        
+        b
+        −
+        
+          b
+          ′
+        
+        
+        ≤
+        2
+        
+      
+    
+    displaystyle ababab-ababbab-bleq 2
+  
+and therefore
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  c
+                  
+                    h
+                  
+                
+                
+                a
+                
+                b
+                
+                
+                
+                  c
+                  
+                    h
+                  
+                
+                
+                a
+                
+                
+                  b
+                  ′
+                
+                
+                
+                
+                  c
+                  
+                    h
+                  
+                
+                
+                
+                  a
+                  ′
+                
+                
+                b
+                
+                −
+                
+                  c
+                  
+                    h
+                  
+                
+                
+                
+                  a
+                  ′
+                
+                
+                
+                  b
+                  ′
+                
+                
+              
+              
+                
+                
+                
+                  ∫
+                  
+                    λ
+                  
+                
+                a
+                b
+                p
+                d
+                λ
+                
+                
+                  ∫
+                  
+                    λ
+                  
+                
+                a
+                
+                  b
+                  ′
+                
+                p
+                d
+                λ
+                
+                
+                  ∫
+                  
+                    λ
+                  
+                
+                
+                  a
+                  ′
+                
+                b
+                p
+                d
+                λ
+                −
+                
+                  ∫
+                  
+                    λ
+                  
+                
+                
+                  a
+                  ′
+                
+                
+                  b
+                  ′
+                
+                p
+                d
+                λ
+              
+            
+            
+              
+              
+                
+                
+                
+                  ∫
+                  
+                    λ
+                  
+                
+                
+                a
+                b
+                
+                a
+                
+                  b
+                  ′
+                
+                
+                
+                  a
+                  ′
+                
+                b
+                −
+                
+                  a
+                  ′
+                
+                
+                  b
+                  ′
+                
+                
+                p
+                d
+                λ
+              
+            
+            
+              
+              
+                
+                
+                
+                  ∫
+                  
+                    λ
+                  
+                
+                
+                a
+                
+                b
+                
+                
+                  b
+                  ′
+                
+                
+                
+                
+                  a
+                  ′
+                
+                
+                b
+                −
+                
+                  b
+                  ′
+                
+                
+                
+                p
+                d
+                λ
+                ≤
+                2
+              
+            
+          
+        
+      
+    
+    displaystyle beginalignedchabchabchab-chabint lambda abpdlambda int lambda abpdlambda int lambda abpdlambda -int lambda abpdlambda int lambda ababab-abpdlambda int lambda abbab-bpdlambda leq 2endaligned
+  
+at the heart of this derivation is a simple algebraic inequality concerning four variables a a′ b b′ which take the values ±1 only
+
+  
+    
+      
+        a
+        b
+        
+        a
+        
+          b
+          ′
+        
+        
+        
+          a
+          ′
+        
+        b
+        −
+        
+          a
+          ′
+        
+        
+          b
+          ′
+        
+        
+        a
+        
+        b
+        
+        
+          b
+          ′
+        
+        
+        
+        
+          a
+          ′
+        
+        
+        b
+        −
+        
+          b
+          ′
+        
+        
+        ≤
+        2
+      
+    
+    displaystyle ababab-ababbab-bleq 2
+  
+the chsh inequality is seen to depend only on the following three key features of a local hidden variables theory 1 realism alongside of the outcomes of actually performed measurements the outcomes of potentially performed measurements also exist at the same time 2 locality the outcomes of measurements on alices particle dont depend on which measurement bob chooses to perform on the other particle 3 freedom alice and bob can indeed choose freely which measurements to perform
+the realism assumption is actually somewhat idealistic and bells theorem only proves non-locality with respect to variables that only exist for metaphysical reasons however before the discovery of quantum mechanics both realism and locality were completely uncontroversial features of physical theories
+
+
+ bell inequalities are violated by quantum mechanical predictions 
+the measurements performed by alice and bob are spin measurements on electrons alice can choose between two detector settings labeled a and a′ these settings correspond to measurement of spin along the z or the x axis bob can choose between two detector settings labeled b and b′ these correspond to measurement of spin along the z′ or x′ axis where the x′ − z′ coordinate system is rotated 135° relative to the x − z coordinate system the spin observables are represented by the 2 × 2 self-adjoint matrices
+
+  
+    
+      
+        
+          s
+          
+            x
+          
+        
+        
+        
+          
+            
+            
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+              
+                
+                  1
+                
+                
+                  0
+                
+              
+            
+            
+          
+        
+        
+        
+        
+          s
+          
+            z
+          
+        
+        
+        
+          
+            
+            
+              
+                
+                  1
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  −
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    displaystyle sxbeginbmatrix0110endbmatrixquad szbeginbmatrix100-1endbmatrix
+  
+these are the pauli spin matrices normalized so that the corresponding eigenvalues are ±1 as is customary we use the bra–ket notation to denote the eigenvectors of sx by
+
+  
+    
+      
+        
+          
+          
+            
+            x
+          
+          ⟩
+        
+        
+        
+        
+          
+          
+            −
+            x
+          
+          ⟩
+        
+        
+      
+    
+    displaystyle leftxrightrangle quad left-xrightrangle 
+  
+let 
+  
+    
+      
+        φ
+      
+    
+    displaystyle phi 
+   be the spin singlet state for a pair of electrons discussed in the epr paradox this is a specially constructed state described by the following vector in the tensor product
+
+  
+    
+      
+        
+          
+        
+        φ
+        ⟩
+        
+        
+          
+            1
+            
+              2
+            
+          
+        
+        
+          
+          
+            
+            
+              
+              
+                
+                x
+              
+              ⟩
+            
+            ⊗
+            
+              
+              
+                −
+                x
+              
+              ⟩
+            
+            −
+            
+              
+              
+                −
+                x
+              
+              ⟩
+            
+            ⊗
+            
+              
+              
+                
+                x
+              
+              ⟩
+            
+            
+          
+          
+        
+      
+    
+    displaystyle phi rangle frac 1sqrt 2leftleftxrightrangle otimes left-xrightrangle -left-xrightrangle otimes leftxrightrangle right
+  
+now let us apply the chsh formalism to the measurements that can be performed by alice and bob
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                
+                a
+                
+              
+              
+                
+                
+                
+                  s
+                  
+                    z
+                  
+                
+                ⊗
+                i
+              
+            
+            
+              
+                a
+                
+                
+                  a
+                  ′
+                
+                
+              
+              
+                
+                
+                
+                  s
+                  
+                    x
+                  
+                
+                ⊗
+                i
+              
+            
+            
+              
+                b
+                
+                b
+                
+              
+              
+                
+                
+                −
+                
+                  
+                    1
+                    
+                      2
+                    
+                  
+                
+                 
+                i
+                ⊗
+                
+                
+                  s
+                  
+                    z
+                  
+                
+                
+                
+                  s
+                  
+                    x
+                  
+                
+                
+              
+            
+            
+              
+                b
+                
+                
+                  b
+                  ′
+                
+                
+              
+              
+                
+                
+                
+                  
+                    1
+                    
+                      2
+                    
+                  
+                
+                 
+                i
+                ⊗
+                
+                
+                  s
+                  
+                    z
+                  
+                
+                −
+                
+                  s
+                  
+                    x
+                  
+                
+                
+              
+            
+          
+        
+      
+    
+    displaystyle beginalignedaaszotimes iaasxotimes ibb-frac 1sqrt 2 iotimes szsxbbfrac 1sqrt 2 iotimes sz-sxendaligned
+  
+the operators 
+  
+    
+      
+        
+          b
+          
+          
+            b
+            ′
+          
+          
+          
+          b
+          
+          b
+          
+        
+      
+    
+    displaystyle scriptstyle bbbb
+   correspond to bobs spin measurements along x′ and z′ note that the a operators commute with the b operators so we can apply our calculation for the correlation in this case we can show that the chsh inequality fails in fact a straightforward calculation shows that
+
+  
+    
+      
+        ⟨
+        a
+        
+        a
+        
+        b
+        
+        b
+        
+        ⟩
+        
+        ⟨
+        a
+        
+        
+          a
+          ′
+        
+        
+        b
+        
+        b
+        
+        ⟩
+        
+        ⟨
+        a
+        
+        
+          a
+          ′
+        
+        
+        b
+        
+        
+          b
+          ′
+        
+        
+        ⟩
+        
+        
+          
+            
+              1
+              
+                2
+              
+            
+          
+        
+      
+    
+    displaystyle langle aabbrangle langle aabbrangle langle aabbrangle tfrac 1sqrt 2
+  
+
+  
+    
+      
+        ⟨
+        a
+        
+        a
+        
+        b
+        
+        
+          b
+          ′
+        
+        
+        ⟩
+        
+        −
+        
+          
+            
+              1
+              
+                2
+              
+            
+          
+        
+      
+    
+    displaystyle langle aabbrangle -tfrac 1sqrt 2
+  
+so that
+
+  
+    
+      
+        ⟨
+        a
+        
+        a
+        
+        b
+        
+        b
+        
+        ⟩
+        
+        ⟨
+        a
+        
+        
+          a
+          ′
+        
+        
+        b
+        
+        
+          b
+          ′
+        
+        
+        ⟩
+        
+        ⟨
+        a
+        
+        
+          a
+          ′
+        
+        
+        b
+        
+        b
+        
+        ⟩
+        −
+        ⟨
+        a
+        
+        a
+        
+        b
+        
+        
+          b
+          ′
+        
+        
+        ⟩
+        
+        
+          
+            
+              4
+              
+                2
+              
+            
+          
+        
+        
+        2
+        
+          
+            2
+          
+        
+        
+        2
+      
+    
+    displaystyle langle aabbrangle langle aabbrangle langle aabbrangle -langle aabbrangle tfrac 4sqrt 22sqrt 22
+  
+bells theorem if the quantum mechanical formalism is correct then the system consisting of a pair of entangled electrons cannot satisfy the principle of local realism note that 2√2 is indeed the upper bound for quantum mechanics called tsirelsons bound the operators giving this maximal value are always isomorphic to the pauli matrices
+
+
+ testing by practical experiments 
+
+experimental tests can determine whether the bell inequalities required by local realism hold up to the empirical evidence
+actually most experiments have been performed using polarization of photons rather than spin of electrons or other spin-half particles the quantum state of the pair of entangled photons is not the singlet state and the correspondence between angles and outcomes is different from that in the spin-half set-up the polarization of a photon is measured in a pair of perpendicular directions relative to a given orientation polarization is either vertical denoted by v or by  or horizontal denoted by h or by - the photon pairs are generated in the quantum state
+
+  
+    
+      
+        
+          
+            
+              1
+              
+                2
+              
+            
+          
+        
+        
+          
+          
+            
+              
+            
+            v
+            ⟩
+            ⊗
+            
+              
+            
+            v
+            ⟩
+            
+            
+              
+            
+            h
+            ⟩
+            ⊗
+            
+              
+            
+            h
+            ⟩
+          
+          
+        
+      
+    
+    displaystyle tfrac 1sqrt 2leftvrangle otimes vrangle hrangle otimes hrangle right
+  
+where 
+  
+    
+      
+        
+          
+        
+        v
+        ⟩
+      
+    
+    displaystyle vrangle 
+   and 
+  
+    
+      
+        
+          
+        
+        h
+        ⟩
+      
+    
+    displaystyle hrangle 
+   denotes the state of a single vertically or horizontally polarized photon respectively relative to a fixed and common reference direction for both particles
+when the polarization of both photons is measured in the same direction both give the same outcome perfect correlation when measured at directions making an angle 45 degrees with one another the outcomes are completely random uncorrelated measuring at directions at 90 degrees to one another the two are perfectly anti-correlated in general when the polarizers are at an angle θ to one another the correlation is cos2θ so relative to the correlation function for the singlet state of spin half particles we have a positive rather than a negative cosine function and angles are halved the correlation is periodic with period π instead of 2π
+bells inequalities are tested by coincidence counts from a bell test experiment such as the optical one shown in the diagram pairs of particles are emitted as a result of a quantum process analysed with respect to some key property such as polarisation direction then detected the setting orientations of the analysers are selected by the experimenter
+bell test experiments to date overwhelmingly violate bells inequality
+
+
+ two classes of bell inequalities 
+the fair sampling problem was faced openly in the 1970s in early designs of their 1973 experiment freedman and clauser used fair sampling in the form of the clauser–horne–shimony–holt chsh hypothesis however shortly afterwards clauser and horne made the important distinction between inhomogeneous ibi and homogeneous hbi bell inequalities testing an ibi requires that we compare certain coincidence rates in two separated detectors with the singles rates of the two detectors nobody needed to perform the experiment because singles rates with all detectors in the 1970s were at least ten times all the coincidence rates so taking into account this low detector efficiency the qm prediction actually satisfied the ibi to arrive at an experimental design in which the qm prediction violates ibi we require detectors whose efficiency exceeds 82.8% for singlet states but have very low dark rate and short dead and resolving times this is now within reach
+
+
+ practical challenges 
+
+because at that time even the best detectors didnt detect a large fraction of all photons clauser and horne recognized that testing bells inequality required some extra assumptions they introduced the no enhancement hypothesis neh
+
+a light signal originating in an atomic cascade for example has a certain probability of activating a detector then if a polarizer is interposed between the cascade and the detector the detection probability cannot increase
+
+given this assumption there is a bell inequality between the coincidence rates with polarizers and coincidence rates without polarizers
+the experiment was performed by freedman and clauser who found that the bells inequality was violated so the no-enhancement hypothesis cannot be true in a local hidden variables model
+while early experiments used atomic cascades later experiments have used parametric down-conversion following a suggestion by reid and walls giving improved generation and detection properties as a result the most recent experiments with photons no longer suffer from the detection loophole see bell test experiments this makes the photon the first experimental system for which all main experimental loopholes have been surmounted albeit presently only in separate experiments giustina et al 2013 bell violation using entangled photons without the fair-sampling assumption nature 497 227–230 bg christensen et al 2013 detection-loophole-free test of quantum nonlocality and applications arxiv1306.5772
+
+
+ metaphysical aspects 
+most advocates of the hidden-variables idea believe that experiments have ruled out local hidden variables they are ready to give up locality explaining the violation of bells inequality by means of a non-local hidden variable theory in which the particles exchange information about their states this is the basis of the bohm interpretation of quantum mechanics which requires that all particles in the universe be able to instantaneously exchange information with all others a 2007 experiment ruled out a large class of non-bohmian non-local hidden variable theories
+if the hidden variables can communicate with each other faster than light bells inequality can easily be violated once one particle is measured it can communicate the necessary correlations to the other particle since in relativity the notion of simultaneity is not absolute this is unattractive one idea is to replace instantaneous communication with a process that travels backwards in time along the past light cone this is the idea behind a transactional interpretation of quantum mechanics which interprets the statistical emergence of a quantum history as a gradual coming to agreement between histories that go both forward and backward in time
+a few advocates of deterministic models have not given up on local hidden variables for example gerard t hooft has argued that the superdeterminism loophole cannot be dismissed
+a possible but not universally accepted solution is offered by the many worlds theory of quantum mechanics according to this not only is collapse of the wave function illusory but the apparent random branching of possible futures when quantum systems interact with the macroscopic world is also an illusion measurement does not lead to a random choice of possible outcome rather the only ingredient of quantum mechanics is the unitary evolution of the wave function all possibilities co-exist forever and the only reality is the quantum mechanical wave function according to this view two distant observers both split into superpositions when measuring a spin the bell inequality violations are no longer counterintuitive because it is not clear which copy of the observer b will be seen by observer a when they compare notes if reality includes all the different outcomes locality in physical space not outcome space places no restrictions on how the split observers can meet up
+this point underlines the fact that the argument that realism is incompatible with quantum mechanics and locality depends on a particular formalization of the concept of realism in its weakest form the assumption underpinning that particular formalization is called counterfactual definiteness this is the assumption that outcomes of measurements that are not performed are just as real as those of measurements that were performed counterfactual definiteness is an uncontroversial property of all classical physical theories prior to quantum theory due to their determinism many worlds interpretations are not only counterfactually indefinite but are also factually indefinite the results of all experiments even ones that have been performed are not uniquely determined
+if one chooses to reject counterfactual definiteness reality has been made smaller and there is no non-locality problem on the other hand one is thereby introducing irreducible or intrinsic randomness into our picture of the world randomness that cannot be explained as merely the reflection of our ignorance of underlying variable physical quantities non-determinism becomes a fundamental property of nature
+assuming counterfactual definiteness reality has been enlarged and there is a non-locality problem on the other hand in the many-worlds interpretation of quantum mechanics reality consists only of a deterministically evolving wave function and non-locality is a non-issue
+there have also been repeated claims that bells arguments are irrelevant because they depend on hidden assumptions that in fact are questionable for example e t jaynes claimed in 1989 that there are two hidden assumptions in bells theorem that could limit its generality according to him
+bell interpreted conditional probability pxy as a causal inference ie y exerted a causal inference on x in reality however pxy actually only means logical inference induction causes cannot travel faster than light or backward in time but deduction can
+bells inequality does not apply to some possible hidden variable theories it only applies to a certain class of local hidden variable theories in fact it might have just missed the kind of hidden variable theories that einstein is most interested in
+however richard d gill has argued that jaynes misunderstood bells analysis gill points out that in the same conference volume in which jaynes argues against bell jaynes confesses to being extremely impressed by a short proof by steve gull presented at the same conference that the singlet correlations could not be reproduced by a computer simulation of a local hidden variables theory according to jaynes writing nearly 30 years after bells landmark contributions it would probably take us another 30 years to fully appreciate gulls stunning result
+a recent flurry of activity about implications for determinism arose with the paper the free will theorem which stated the response of a spin 1 particle to a triple experiment is free—that is to say is not a function of properties of that part of the universe that is earlier than this response with respect to any given inertial frame this theorem raised awareness of a tension between determinism fully governing an experiment on the one hand and alice and bob being free to choose any settings they like for their observations on the other the philosopher david hodgson supports this theorem as showing that determinism is unscientific and that quantum mechanics allows observers at least in some instances the freedom to make observations of their choosing thereby leaving the door open for free will
+
+
+ general remarks 
+the violations of bells inequalities due to quantum entanglement provide near definitive demonstrations of something that was already strongly suspected that quantum physics cannot be represented by any version of the classical picture of physics some earlier elements that had seemed incompatible with classical pictures included complementarity and wavefunction collapse the bell violations show that no resolution of such issues can avoid the ultimate strangeness of quantum behavior
+the epr paper pinpointed the unusual properties of the entangled states eg the above-mentioned singlet state which is the foundation for present-day applications of quantum physics such as quantum cryptography one application involves the measurement of quantum entanglement as a physical source of bits for rabins oblivious transfer protocol this non-locality was originally supposed to be illusory because the standard interpretation could easily do away with action-at-a-distance by simply assigning to each particle definite spin-states for all possible spin directions the epr argument was therefore these definite states exist therefore quantum theory is incomplete since they do not appear in the theory bells theorem showed that the entangledness prediction of quantum mechanics has a degree of non-locality that cannot be explained away by any local theory
+what is powerful about bells theorem is that it doesnt refer to any particular physical theory it shows that nature violates the most general assumptions behind classical pictures not just details of some particular models no combination of local deterministic and local random variables can reproduce the phenomena predicted by quantum mechanics and repeatedly observed in experiments
+
+
+ see also 
+
+
+ notes 
+
+
+ references 
+
+
+ further reading 
+the following are intended for general audiences
+amir d aczel entanglement the greatest mystery in physics four walls eight windows new york 2001
+a afriat and f selleri the einstein podolsky and rosen paradox plenum press new york and london 1999
+j baggott the meaning of quantum theory oxford university press 1992
+n david mermin is the moon there when nobody looks reality and the quantum theory in physics today april 1985 pp 38–47
+louisa gilder the age of entanglement when quantum physics was reborn new york alfred a knopf 2008
+brian greene the fabric of the cosmos vintage 2004 isbn 0-375-72720-5
+nick herbert quantum reality beyond the new physics anchor 1987 isbn 0-385-23569-0
+d wick the infamous boundary seven decades of controversy in quantum physics birkhauser boston 1995
+r anton wilson prometheus rising new falcon publications 1997 isbn 1-56184-056-4
+gary zukav the dancing wu li masters perennial classics 2001 isbn 0-06-095968-1
+goldstein sheldon et al bells theorem scholarpedia 6 10 8378 bibcode2011schpj.6.8378g doi10.4249scholarpedia.8378 
+
+
+ external links 
+on the einstein podolsky rosen paradox bells original paper
+another version of bells paper
+an explanation of bells theorem based on n d mermins article mermin n d 1981 bringing home the atomic world quantum mysteries for anybody american journal of physics 49 10 940 bibcode1981amjph.49.940m doi10.1119/1.12594 
+mermin spooky actions at a distance oppenheimer lecture
+quantum entanglement by dr andrew h thomas
+bells theorem with easy math by david r schneider another simple explanation of bells inequality
+bells theorem on arxivorg
+interactive experiments with single photons entanglement and bell´s theorem
+article on bells theorem at stanford encyclopedia of philosophy by abner shimony
+discussion using a recent framework introduced by gill
+bells theorem internet encyclopedia of philosophy 
+hazewinkel michiel ed 2001 1994 bell inequalities encyclopedia of mathematics springer sciencebusiness media bv  kluwer academic publishers isbn 978-1-55608-010-4 
+spooky action at a distance an explanation of bells theorem

@@ -1,0 +1,406 @@
+in physical cosmology big bang nucleosynthesis abbreviated bbn also known as primordial nucleosynthesis archaeonucleosynthesis archonucleosynthesis protonucleosynthesis and palaeonucleosynthesis refers to the production of nuclei other than those of the lightest isotope of hydrogen hydrogen-1 1h having a single proton as a nucleus during the early phases of the universe primordial nucleosynthesis is believed by most cosmologists to have taken place in the interval from roughly 10 seconds to 20 minutes after the big bang and is calculated to be responsible for the formation of most of the universes helium as the isotope helium-4 4he along with small amounts of the hydrogen isotope deuterium 2h or d the helium isotope helium-3 3he and a very small amount of the lithium isotope lithium-7 7li in addition to these stable nuclei two unstable or radioactive isotopes were also produced the heavy hydrogen isotope tritium 3h or t and the beryllium isotope beryllium-7 7be but these unstable isotopes later decayed into 3he and 7li as above
+essentially all of the elements that are heavier than lithium were created much later by stellar nucleosynthesis in evolving and exploding stars
+
+
+ characteristics 
+there are several important characteristics of big bang nucleosynthesis bbn
+the initial conditions neutron-proton ratio were set in the first second after the big bang
+the universe was very close to homogeneous at this time and strongly radiation-dominated
+the fusion of nuclei occurred between roughly 10 seconds to 20 minutes after the big bang this corresponds to the temperature range when the universe was cool enough for deuterium to survive but hot and dense enough for fusion reactions to occur at a significant rate
+it was widespread encompassing the entire observable universe
+the key parameter which allows one to calculate the effects of bbn is the baryonphoton number ratio which is a small number of order 6 × 10−10 this parameter corresponds to the baryon density and controls the rate at which nucleons collide and react from this it is possible to calculate element abundances after nucleosynthesis ends although the baryon per photon ratio is important in determining element abundances the precise value makes little difference to the overall picture without major changes to the big bang theory itself bbn will result in mass abundances of about 75% of hydrogen-1 about 25% helium-4 about 0.01% of deuterium and helium-3 trace amounts on the order of 10−10 of lithium and negligible heavier elements that the observed abundances in the universe are generally consistent with these abundance numbers is considered strong evidence for the big bang theory
+in this field for historical reasons it is customary to quote the helium-4 fraction by mass symbol y so that 25% helium-4 means that helium-4 atoms account for 25% of the mass but less than 8% of the nuclei would be helium-4 nuclei other trace nuclei are usually expressed as number ratios to hydrogen
+
+
+ important parameters 
+the creation of light elements during bbn was dependent on a number of parameters among those was the neutron-proton ratio calculable from standard model physics and the baryon-photon ratio
+
+
+ neutron–proton ratio 
+the neutron-proton ratio was set by standard model physics before the nucleosynthesis era essentially within the first 1-second after the big bang neutrons can react with positrons or electron neutrinos to create protons and other products in one of the following reactions
+
+  
+    
+      
+        n
+        
+        
+          e
+          
+            
+          
+        
+        ⇋
+        
+          
+            
+              ν
+              ¯
+            
+          
+          
+            e
+          
+        
+        
+        p
+      
+    
+    displaystyle neleftrightharpoons overline nu ep
+  
+
+  
+    
+      
+        n
+        
+        
+          ν
+          
+            e
+          
+        
+        ⇋
+        p
+        
+        
+          e
+          
+            −
+          
+        
+      
+    
+    displaystyle nnu eleftrightharpoons pe-
+  
+at times much earlier than 1 sec these reactions were fast and maintained the np ratio close to 11 as the temperature dropped the equilibrium shifted in favour of protons due to their slightly lower mass and the np ratio smoothly decreased these reactions continued until the decreasing temperature and density caused the reactions to become too slow which occurred at about t  0.7 mev time around 1 second and is called the freeze out temperature at freeze out the neutron-proton ratio was about 1/6 however free neutrons are unstable with a mean life of 880 sec some neutrons decayed in the next few minutes before fusing into any nucleus so the ratio of total neutrons to protons after nucleosynthesis ends is about 1/7 almost all neutrons that fused instead of decaying ended up combined into helium-4 due to the fact that helium-4 has the highest binding energy per nucleon among light elements this predicts that about 8% of all atoms should be helium-4 leading to a mass fraction of helium-4 of about 25 which is in line with observations small traces of deuterium and helium-3 remained as there was insufficient time and density for them to react and form helium-4
+
+
+ baryon–photon ratio 
+the baryon–photon ratio η is the key parameter determining the abundances of light elements after nucleosynthesis ends baryons and light elements can fuse in the following main reactions
+
+  
+    
+      
+        p
+        
+        n
+        →
+        
+          
+            
+            
+              2
+            
+          
+          
+            h
+          
+        
+        
+        γ
+      
+    
+    displaystyle pnrightarrow 2texthgamma 
+  
+
+  
+    
+      
+        p
+        
+        
+          
+            
+            
+              2
+            
+          
+          
+            h
+          
+        
+        →
+        
+          
+            
+            
+              3
+            
+          
+          
+            he
+          
+        
+        
+        γ
+      
+    
+    displaystyle p2texthrightarrow 3texthegamma 
+  
+
+  
+    
+      
+        
+          
+            
+            
+              2
+            
+          
+          
+            h
+          
+        
+        
+        
+          
+            
+            
+              2
+            
+          
+          
+            h
+          
+        
+        →
+        
+          
+            
+            
+              3
+            
+          
+          
+            he
+          
+        
+        
+        n
+      
+    
+    displaystyle 2texth2texthrightarrow 3texthen
+  
+
+  
+    
+      
+        
+          
+            
+            
+              2
+            
+          
+          
+            h
+          
+        
+        
+        
+          
+            
+            
+              2
+            
+          
+          
+            h
+          
+        
+        →
+        
+          
+            
+            
+              3
+            
+          
+          
+            h
+          
+        
+        
+        p
+      
+    
+    displaystyle 2texth2texthrightarrow 3texthp
+  
+
+  
+    
+      
+        
+          
+            
+            
+              3
+            
+          
+          
+            he
+          
+        
+        
+        
+          
+            
+            
+              2
+            
+          
+          
+            h
+          
+        
+        →
+        
+          
+            
+            
+              4
+            
+          
+          
+            he
+          
+        
+        
+        p
+      
+    
+    displaystyle 3texthe2texthrightarrow 4texthep
+  
+
+  
+    
+      
+        
+          
+            
+            
+              3
+            
+          
+          
+            h
+          
+        
+        
+        
+          
+            
+            
+              2
+            
+          
+          
+            h
+          
+        
+        →
+        
+          
+            
+            
+              4
+            
+          
+          
+            he
+          
+        
+        
+        n
+      
+    
+    displaystyle 3texth2texthrightarrow 4texthen
+  
+along with some other low-probability reactions leading to 7li or 7be an important feature is that there are no stable nuclei with mass 5 or 8 which implies that reactions adding one baryon to 4he or fusing two 4he do not occur most fusion chains during bbn ultimately terminate in 4he helium-4 while incomplete reaction chains lead to small amounts of left-over 2h or 3he the amount of these decreases with increasing baryon-photon ratio that is the larger the baryon-photon ratio the more reactions there will be and the more efficiently deuterium will be eventually transformed into helium-4 this result makes deuterium a very useful tool in measuring the baryon-to-photon ratio
+
+
+ sequence 
+
+big bang nucleosynthesis began roughly 10 seconds after the big bang when the universe had cooled sufficiently to allow deuterium nuclei to survive disruption by high-energy photons note that the neutron-proton freeze-out time was earlier this time is essentially independent of dark matter content since the universe was highly radiation dominated until much later and this dominant component controls the temperaturetime relation at this time there were about six protons for every neutron but a small fraction of the neutrons decay before fusing in the next few hundred seconds so at the end of nucleosynthesis there are about seven protons to every neutron and almost all the neutrons are in helium-4 nuclei the sequence of these reaction chains is shown on the image
+one feature of bbn is that the physical laws and constants that govern the behavior of matter at these energies are very well understood and hence bbn lacks some of the speculative uncertainties that characterize earlier periods in the life of the universe another feature is that the process of nucleosynthesis is determined by conditions at the start of this phase of the life of the universe and proceeds independently of what happened before
+as the universe expands it cools free neutrons are less stable than helium nuclei and the protons and neutrons have a strong tendency to form helium-4 however forming helium-4 requires the intermediate step of forming deuterium before nucleosynthesis began the temperature was high enough for many photons to have energy greater than the binding energy of deuterium therefore any deuterium that was formed was immediately destroyed a situation known as the deuterium bottleneck hence the formation of helium-4 is delayed until the universe became cool enough for deuterium to survive at about t  0.1 mev after which there was a sudden burst of element formation however very shortly thereafter around twenty minutes after the big bang the temperature and density became too low for any significant fusion to occur at this point the elemental abundances were nearly fixed and the only changes were the result of the radioactive decay of the two major unstable products of bbn tritium and beryllium-7
+
+
+ history of theory 
+the history of big bang nucleosynthesis began with the calculations of ralph alpher in the 1940s alpher published the alpher–bethe–gamow paper that outlined the theory of light-element production in the early universe
+during the 1970s there was a major puzzle in that the density of baryons as calculated by big bang nucleosynthesis was much less than the observed mass of the universe based on measurements of galaxy rotation curves and galaxy cluster dynamics this puzzle was resolved in large part by postulating the existence of dark matter
+
+
+ heavy elements 
+
+big bang nucleosynthesis produced very few nuclei of elements heavier than lithium due to a bottleneck the absence of a stable nucleus with 8 or 5 nucleons this deficit of larger atoms also limited the amounts of lithium-7 produced during bbn in stars the bottleneck is passed by triple collisions of helium-4 nuclei producing carbon the triple-alpha process however this process is very slow and requires much higher densities taking tens of thousands of years to convert a significant amount of helium to carbon in stars and therefore it made a negligible contribution in the minutes following the big bang
+the predicted abundance of cno isotopes produced in big bang nucleosynthesis is expected to be on the order of 10−15 that of h making them essentially undetectable and negligible indeed none of these primordial isotopes of the elements from lithium to oxygen have yet been detected although those of beryllium and boron may be able to be detected in the future so far the only stable nuclides known experimentally to have been made before or during big bang nucleosynthesis are protium deuterium helium-3 helium-4 and lithium-7
+
+
+ helium-4 
+
+big bang nucleosynthesis predicts a primordial abundance of about 25% helium-4 by mass irrespective of the initial conditions of the universe as long as the universe was hot enough for protons and neutrons to transform into each other easily their ratio determined solely by their relative masses was about 1 neutron to 7 protons allowing for some decay of neutrons into protons once it was cool enough the neutrons quickly bound with an equal number of protons to form first deuterium then helium-4 helium-4 is very stable and is nearly the end of this chain if it runs for only a short time since helium neither decays nor combines easily to form heavier nuclei since there are no stable nuclei with mass numbers of 5 or 8 helium does not combine easily with either protons or with itself once temperatures are lowered out of every 16 nucleons 2 neutrons and 14 protons 4 of these 25% of the total particles and total mass combine quickly into one helium-4 nucleus this produces one helium for every 12 hydrogens resulting in a universe that is a little over 8% helium by number of atoms and 25% helium by mass
+one analogy is to think of helium-4 as ash and the amount of ash that one forms when one completely burns a piece of wood is insensitive to how one burns it the resort to the bbn theory of the helium-4 abundance is necessary as there is far more helium-4 in the universe than can be explained by stellar nucleosynthesis in addition it provides an important test for the big bang theory if the observed helium abundance is significantly different from 25 then this would pose a serious challenge to the theory this would particularly be the case if the early helium-4 abundance was much smaller than 25% because it is hard to destroy helium-4 for a few years during the mid-1990s observations suggested that this might be the case causing astrophysicists to talk about a big bang nucleosynthetic crisis but further observations were consistent with the big bang theory
+
+
+ deuterium 
+
+deuterium is in some ways the opposite of helium-4 in that while helium-4 is very stable and difficult to destroy deuterium is only marginally stable and easy to destroy the temperatures time and densities were sufficient to combine a substantial fraction of the deuterium nuclei to form helium-4 but insufficient to carry the process further using helium-4 in the next fusion step bbn did not convert all of the deuterium in the universe to helium-4 due to the expansion that cooled the universe and reduced the density and so cut that conversion short before it could proceed any further one consequence of this is that unlike helium-4 the amount of deuterium is very sensitive to initial conditions the denser the initial universe was the more deuterium would be converted to helium-4 before time ran out and the less deuterium would remain
+there are no known post-big bang processes which can produce significant amounts of deuterium hence observations about deuterium abundance suggest that the universe is not infinitely old which is in accordance with the big bang theory
+during the 1970s there were major efforts to find processes that could produce deuterium but those revealed ways of producing isotopes other than deuterium the problem was that while the concentration of deuterium in the universe is consistent with the big bang model as a whole it is too high to be consistent with a model that presumes that most of the universe is composed of protons and neutrons if one assumes that all of the universe consists of protons and neutrons the density of the universe is such that much of the currently observed deuterium would have been burned into helium-4 the standard explanation now used for the abundance of deuterium is that the universe does not consist mostly of baryons but that non-baryonic matter also known as dark matter makes up most of the mass of the universe this explanation is also consistent with calculations that show that a universe made mostly of protons and neutrons would be far more clumpy than is observed
+it is very hard to come up with another process that would produce deuterium other than by nuclear fusion such a process would require that the temperature be hot enough to produce deuterium but not hot enough to produce helium-4 and that this process should immediately cool to non-nuclear temperatures after no more than a few minutes it would also be necessary for the deuterium to be swept away before it reoccurs
+producing deuterium by fission is also difficult the problem here again is that deuterium is very unlikely due to nuclear processes and that collisions between atomic nuclei are likely to result either in the fusion of the nuclei or in the release of free neutrons or alpha particles during the 1970s cosmic ray spallation was proposed as a source of deuterium that theory failed to account for the abundance of deuterium but led to explanations of the source of other light elements
+
+
+ measurements and status of theory 
+the theory of bbn gives a detailed mathematical description of the production of the light elements deuterium helium-3 helium-4 and lithium-7 specifically the theory yields precise quantitative predictions for the mixture of these elements that is the primordial abundances at the end of the big-bang
+in order to test these predictions it is necessary to reconstruct the primordial abundances as faithfully as possible for instance by observing astronomical objects in which very little stellar nucleosynthesis has taken place such as certain dwarf galaxies or by observing objects that are very far away and thus can be seen in a very early stage of their evolution such as distant quasars
+as noted above in the standard picture of bbn all of the light element abundances depend on the amount of ordinary matter baryons relative to radiation photons since the universe is presumed to be homogeneous it has one unique value of the baryon-to-photon ratio for a long time this meant that to test bbn theory against observations one had to ask can all of the light element observations be explained with a single value of the baryon-to-photon ratio or more precisely allowing for the finite precision of both the predictions and the observations one asks is there some range of baryon-to-photon values which can account for all of the observations
+more recently the question has changed precision observations of the cosmic microwave background radiation with the wilkinson microwave anisotropy probe wmap and planck give an independent value for the baryon-to-photon ratio using this value are the bbn predictions for the abundances of light elements in agreement with the observations
+the present measurement of helium-4 indicates good agreement and yet better agreement for helium-3 but for lithium-7 there is a significant discrepancy between bbn and wmapplanck and the abundance derived from population ii stars the discrepancy is a factor of 2.4―4.3 below the theoretically predicted value and is considered a problem for the original models that have resulted in revised calculations of the standard bbn based on new nuclear data and to various reevaluation proposals for primordial proton-proton nuclear reactions especially the abundances of 7be  n → 7li  p versus 7be  2h → 8be  p
+
+
+ non-standard scenarios 
+in addition to the standard bbn scenario there are numerous non-standard bbn scenarios these should not be confused with non-standard cosmology a non-standard bbn scenario assumes that the big bang occurred but inserts additional physics in order to see how this affects elemental abundances these pieces of additional physics include relaxing or removing the assumption of homogeneity or inserting new particles such as massive neutrinos
+there have been and continue to be various reasons for researching non-standard bbn the first which is largely of historical interest is to resolve inconsistencies between bbn predictions and observations this has proved to be of limited usefulness in that the inconsistencies were resolved by better observations and in most cases trying to change bbn resulted in abundances that were more inconsistent with observations rather than less the second reason for researching non-standard bbn and largely the focus of non-standard bbn in the early 21st century is to use bbn to place limits on unknown or speculative physics for example standard bbn assumes that no exotic hypothetical particles were involved in bbn one can insert a hypothetical particle such as a massive neutrino and see what has to happen before bbn predicts abundances that are very different from observations this has been done to put limits on the mass of a stable tau neutrino
+
+
+ see also 
+
+big bang
+chronology of the universe
+nucleosynthesis
+stellar nucleosynthesis
+ultimate fate of the universe
+relic abundance
+
+
+ references 
+
+
+ external links 
+
+
+ for a general audience 
+weiss achim big bang nucleosynthesis cooking up the first light elements einstein online archived from the original on 8 february 2007 retrieved 2007-02-24 
+white martin overview of bbn
+wright ned bbn cosmology tutorial
+big bang nucleosynthesis on arxivorg
+burles scott nollett kenneth m turner michael s 1999-03-19 big-bang nucleosynthesis linking inner space and outer space arxivastro-ph9903300  
+
+
+ academic articles 
+cyburt richard h fields brian d olive keith a yeh tsung-han february 2016 big bang nucleosynthesis 2015 rev mod phys 88 1 015004 arxiv1505.01076  bibcode2016rvmp.88a5004c doi10.1103revmodphys.88.015004 
+burles scott kenneth m nollett michael s turner 2001 what is the bbn prediction for the baryon density and how reliable is it phys rev d 63 6 063512 arxivastro-ph0008495  bibcode2001phrvd.63f3512b doi10.1103physrevd.63.063512  report-no fermilab-pub-00-239-a
+jedamzik karsten non-standard big bang nucleosynthesis scenarios max-planck-institut für astrophysik garching
+steigman gary primordial nucleosynthesis successes and challenges arxivastro-ph0511534 forensic cosmology probing baryons and neutrinos with bbn and the cbr arxivhep-ph0309347 and big bang nucleosynthesis probing the first 20 minutes arxivastro-ph0307244
+r a alpher h a bethe g gamow the origin of chemical elements physical review 73 1948 803 the so-called αβγ paper in which alpher and gamow suggested that the light elements were created by hydrogen ions capturing neutrons in the hot dense early universe bethes name was added for symmetry
+gamow g 1948 the origin of elements and the separation of galaxies physical review 74 505–506 bibcode1948phrv.74.505g doi10.1103physrev.74.505.2  these two 1948 papers of gamow laid the foundation for our present understanding of big-bang nucleosynthesis
+gamow g 1948 the evolution of the universe nature 162 680–2 bibcode1948natur.162.680g doi10.1038/162680a0 pmid 18893719 
+alpher r a 1948 a neutron-capture theory of the formation and relative abundance of the elements physical review 74 1737–1742 bibcode1948phrv.74.1737a doi10.1103physrev.74.1737 
+r a alpher and r herman on the relative abundance of the elements physical review 74 1948 1577 this paper contains the first estimate of the present temperature of the universe
+alpher r a herman r gamow g 1948 evolution of the universe nature 162 774–775 bibcode1948natur.162.774a doi10.1038/162774b0 
+java big bang element abundance calculator
+c pitrou a coc j-p uzan e vangioni precision big bang nucleosynthesis with improved helium-4 predictions arxiv1801.08023

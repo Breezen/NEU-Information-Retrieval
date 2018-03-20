@@ -1,0 +1,75 @@
+aether theories also known as ether theories in physics propose the existence of a medium the aether also spelled ether from the greek word αἰθήρ meaning upper air or pure fresh air a space-filling substance or field thought to be necessary as a transmission medium for the propagation of electromagnetic or gravitational forces the assorted aether theories embody the various conceptions of this medium and substance this early modern aether has little in common with the aether of classical elements from which the name was borrowed since the development of special relativity theories using a substantial aether fell out of use in modern physics and were replaced by more abstract models
+
+
+ historical models 
+
+
+ luminiferous aether 
+
+isaac newton suggests the existence of an aether in the third book of opticks 1718 doth not this aethereal medium in passing out of water glass crystal and other compact and dense bodies in empty spaces grow denser and denser by degrees and by that means refract the rays of light not in a point but by bending them gradually in curve lines is not this medium much rarer within the dense bodies of the sun stars planets and comets than in the empty celestial space between them and in passing from them to great distances doth it not grow denser and denser perpetually and thereby cause the gravity of those great bodies towards one another and of their parts towards the bodies every body endeavouring to go from the denser parts of the medium towards the rarer
+in the 19th century luminiferous aether or ether meaning light-bearing aether was a theorized medium for the propagation of light electromagnetic radiation however a series of increasingly complex experiments had been carried out in the late 1800s like the michelson-morley experiment in an attempt to detect the motion of earth through the aether and had failed to do so a range of proposed aether-dragging theories could explain the null result but these were more complex and tended to use arbitrary-looking coefficients and physical assumptions joseph larmor discussed the aether in terms of a moving magnetic field caused by the acceleration of electrons
+james clerk maxwell said of the aether in several parts of this treatise an attempt has been made to explain electromagnetic phenomena by means of mechanical action transmitted from one body to another by means of a medium occupying the space between them the undulatory theory of light also assumes the existence of a medium we have now to show that the properties of the electromagnetic medium are identical with those of the luminiferous medium
+hendrik lorentz and george francis fitzgerald offered within the framework of lorentz ether theory a more elegant solution to how the motion of an absolute aether could be undetectable length contraction but if their equations were correct albert einsteins 1905 special theory of relativity could generate the same mathematics without referring to an aether at all this led most physicists to conclude that this early modern notion of a luminiferous aether was not a useful concept einstein however stated that this consideration was too radical and too anticipatory and that his theory of relativity still needed the presence of a medium with certain properties
+
+
+ mechanical gravitational aether 
+
+from the 16th until the late 19th century gravitational phenomena had also been modelled utilizing an aether the most well-known formulation is le sages theory of gravitation although other models were proposed by isaac newton bernhard riemann and lord kelvin none of those concepts is considered to be viable by the scientific community today
+
+
+ non-standard interpretations in modern physics 
+
+
+ general relativity 
+
+einstein sometimes used the word aether for the gravitational field within general relativity but this terminology never gained widespread support
+
+we may say that according to the general theory of relativity space is endowed with physical qualities in this sense therefore there exists an aether according to the general theory of relativity space without aether is unthinkable for in such space there not only would be no propagation of light but also no possibility of existence for standards of space and time measuring-rods and clocks nor therefore any space-time intervals in the physical sense but this aether may not be thought of as endowed with the quality characteristic of ponderable media as consisting of parts which may be tracked through time the idea of motion may not be applied to it
+
+
+ quantum vacuum 
+quantum mechanics can be used to describe spacetime as being non-empty at extremely small scales fluctuating and generating particle pairs that appear and disappear incredibly quickly it has been suggested by some such as paul dirac that this quantum vacuum may be the equivalent in modern physics of a particulate aether however diracs aether hypothesis was motivated by his dissatisfaction with quantum electrodynamics and it never gained support from the mainstream scientific community
+robert b laughlin nobel laureate in physics endowed chair in physics stanford university had this to say about ether in contemporary theoretical physics
+
+it is ironic that einsteins most creative work the general theory of relativity should boil down to conceptualizing space as a medium when his original premise in special relativity was that no such medium existed  the word ether has extremely negative connotations in theoretical physics because of its past association with opposition to relativity this is unfortunate because stripped of these connotations it rather nicely captures the way most physicists actually think about the vacuum    relativity actually says nothing about the existence or nonexistence of matter pervading the universe only that any such matter must have relativistic symmetry  it turns out that such matter exists about the time relativity was becoming accepted studies of radioactivity began showing that the empty vacuum of space had spectroscopic structure similar to that of ordinary quantum solids and fluids subsequent studies with large particle accelerators have now led us to understand that space is more like a piece of window glass than ideal newtonian emptiness it is filled with stuff that is normally transparent but can be made visible by hitting it sufficiently hard to knock out a part the modern concept of the vacuum of space confirmed every day by experiment is a relativistic ether but we do not call it this because it is taboo
+
+
+ pilot waves 
+
+louis de broglie stated any particle ever isolated has to be imagined as in continuous energetic contact with a hidden medium
+
+
+ conjectures and proposals 
+according to the philosophical point of view of einstein dirac bell polyakov ’t hooft laughlin de broglie maxwell newton and other theorists there might be a medium with physical properties filling empty space an aether enabling the observed physical processes
+albert einstein in 1894 or 1895 the velocity of a wave is proportional to the square root of the elastic forces which cause its propagation and inversely proportional to the mass of the aether moved by these forces
+albert einstein in 1920 we may say that according to the general theory of relativity space is endowed with physical qualities in this sense therefore there exists an aether according to the general theory of relativity space without aether is unthinkable for in such space there not only would be no propagation of light but also no possibility of existence for standards of space and time measuring-rods and clocks nor therefore any space-time intervals in the physical sense but this aether may not be thought of as endowed with the quality characteristic of ponderable media as consisting of parts which may be tracked through time the idea of motion may not be applied to it
+paul dirac wrote in 1951 physical knowledge has advanced much since 1905 notably by the arrival of quantum mechanics and the situation about the scientific plausibility of aether has again changed if one examines the question in the light of present-day knowledge one finds that the aether is no longer ruled out by relativity and good reasons can now be advanced for postulating an aether  we have now the velocity at all points of space-time playing a fundamental part in electrodynamics it is natural to regard it as the velocity of some real physical thing thus with the new theory of electrodynamics vacuum filled with virtual particles we are rather forced to have an aether
+john bell in 1986 interviewed by paul davies in the ghost in the atom has suggested that an aether theory might help resolve the epr paradox by allowing a reference frame in which signals go faster than light he suggests lorentz contraction is perfectly coherent not inconsistent with relativity and could produce an aether theory perfectly consistent with the michelson-morley experiment bell suggests the aether was wrongly rejected on purely philosophical grounds what is unobservable does not exist p 49 einstein found the non-aether theory simpler and more elegant but bell suggests that doesnt rule it out besides the arguments based on his interpretation of quantum mechanics bell also suggests resurrecting the aether because it is a useful pedagogical device that is many problems are solved more easily by imagining the existence of an aether
+einstein remarked god does not play dice with the universe and those agreeing with him are looking for a classical deterministic aether theory that would imply quantum-mechanical predictions as a statistical approximation a hidden variable theory in particular gerard t hooft conjectured that we should not forget that quantum mechanics does not really describe what kind of dynamical phenomena are actually going on but rather gives us probabilistic results to me it seems extremely plausible that any reasonable theory for the dynamics at the planck scale would lead to processes that are so complicated to describe that one should expect apparently stochastic fluctuations in any approximation theory describing the effects of all of this at much larger scales it seems quite reasonable first to try a classical deterministic theory for the planck domain one might speculate then that what we call quantum mechanics today may be nothing else than an ingenious technique to handle this dynamics statistically in their paper blasone jizba and kleinert have attempted to substantiate the recent proposal of g ’t hooft in which quantum theory is viewed as not a complete field theory but is in fact an emergent phenomenon arising from a deeper level of dynamics the underlying dynamics are taken to be classical mechanics with singular lagrangians supplied with an appropriate information loss condition with plausible assumptions about the actual nature of the constraint dynamics quantum theory is shown to emerge when the classical dirac-bergmann algorithm for constrained dynamics is applied to the classical path integral 
+louis de broglie if a hidden sub-quantum medium is assumed knowledge of its nature would seem desirable it certainly is of quite complex character it could not serve as a universal reference medium as this would be contrary to relativity theory
+in 1982 ioan-iovitz popescu a romanian physicist wrote that the aether is a form of existence of the matter but it differs qualitatively from the common atomic and molecular substance or radiation photons the fluid aether is governed by the principle of inertia and its presence produces a modification of the space-time geometry built upon le sages ultra-mundane corpuscles popescus theory posits a finite universe filled with some particles of exceedingly small mass traveling chaotically at speed of light and material bodies made up of such particles called etherons
+sid deutsch a professor of electrical engineering and bioengineerig conjectures that a spherical spinning aether particle must exist in order to carry electromagnetic waves and derives its diameter and mass using the density of dark matter
+a degenerate fermi fluid model composed primarily of electrons and positrons that has the consequence of a speed of light decreasing with time on the scale of the age of the universe was proposed by allen rothwarf in a cosmological extension the model was extended to predict a decelerating expansion of the universe
+
+
+ see also 
+aether classical element
+absolute space and time
+apeiron cosmology
+luminiferous aether
+
+
+ references 
+
+
+ further reading 
+whittaker edmund taylor 1910 a history of the theories of aether and electricity 1st ed dublin longman green and co 
+schaffner kenneth f 1972 nineteenth-century aether theories oxford pergamon press isbn 0-08-015674-6 
+darrigol olivier 2000 electrodynamics from ampére to einstein oxford clarendon press isbn 0-19-850594-9 
+maxwell james clerk 1878 ether encyclopædia britannica ninth edition 8 568–572 
+harman ph 1982 energy force and matter the conceptual development of nineteenth century physics cambridge cambridge university press isbn 0-521-28812-6 
+decaen christopher a 2004 aristotles aether and contemporary science the thomist 68 375–429 retrieved 2011-03-05 
+ larmor joseph 1911 aether encyclopædia britannica 1 11th ed pp 292–297 
+oliver lodge ether encyclopædia britannica thirteenth edition 1926
+a ridiculously brief history of electricity and magnetism mostly from e t whittaker’s a history of the theories of aether and electricity pdf format
+epple m 1998 topology matter and space i topological notions in 19th-century natural philosophy archive for history of exact sciences 52 297–392

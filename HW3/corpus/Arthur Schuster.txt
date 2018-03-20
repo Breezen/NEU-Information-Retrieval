@@ -1,0 +1,53 @@
+sir franz arthur friedrich schuster frs frse 12 september 1851 – 17 october 1934 was a german-born british physicist known for his work in spectroscopy electrochemistry optics x-radiography and the application of harmonic analysis to physics schusters integral is named after him he contributed to making the university of manchester a centre for the study of physics
+
+
+ early years 
+arthur schuster was born in frankfurt am main germany into a family of merchants and bankers
+schusters parents were married in 1849 converted from judaism to christianity and brought up their children in that faith in 1869 his father moved to manchester where the family textile business was based arthur who had been to school in frankfurt and was studying in geneva joined his parents in 1870 and he and the other children became british citizens in 1875 edgar schuster 1897–1969 was his nephew
+from his childhood schuster had been interested in science and after working for a year for schuster brothers he persuaded his father to let him study at owens college he studied mathematics under thomas barker and physics under balfour stewart and began research with henry roscoe on the spectra of hydrogen and nitrogen he spent a year with gustav kirchhoff at the university of heidelberg and having gained his phd returned to owens as an unpaid demonstrator in physics schuster later used his familys wealth to buy material and equipment and to endow readerships in mathematical physics at manchester and meteorology at the university of cambridge he also contributed to the royal society and the international union for co-operation in solar research
+after a further period of study in germany with wilhelm eduard weber and hermann von helmholtz he returned to england where his knowledge of spectrum analysis led to him being appointed to lead an expedition to siam to photograph the coronal spectrum during the total solar eclipse of 6 april 1875 this was an important appointment for such a junior scientist on the way he wrote a letter dated 21 february 1875 to nature describing his observation of the green flash phenomenon
+
+
+ career 
+
+on his return to manchester he began research on electricity and then went on to spend five years at the cavendish laboratory of the university of cambridge his status there was quite unofficial he was neither a student nor a fellow he worked with james clerk maxwell and with rayleigh in 1881 he was appointed to the beyer chair of applied mathematics at owens by now one of the colleges of the new victoria university he succeeded his teacher balfour stewart as professor of physics in 1888 this appointment gave him the opportunity to establish a large active teaching and research department in 1900 a new laboratory for which he had fought and which he had designed was officially opened it was the fourth largest in the world the laboratory quickly became a serious rival to the cavendish see manchester science hall of fame much of this later fame was associated with ernest rutherford who succeeded schuster as langworthy professor in 1907 schuster resigned from the chair partly for health reasons and partly to promote the cause of international science he ensured that rutherford would succeed him
+schuster is credited with coining the concept of antimatter in two letters to nature in 1898 he hypothesized antiatoms and whole antimatter solar systems which would yield energy if the atoms combined with atoms of normal matter his hypothesis was given a mathematical foundation by the work of paul dirac in 1928 which predicted antiparticles and later led to their discovery
+schuster is perhaps most widely remembered for his periodogram analysis a technique which was long the main practical tool for identifying statistically important frequencies present in a time series of observations he first used this form of harmonic analysis in 1897 to disprove c g knotts claim of periodicity in earthquake occurrences he went on to apply the technique to analysing sunspot activity this was an old interest in 1875 stewarts friend and roscoes cousin the economist jevons reported mr a schuster of owens college has ingeniously pointed out that the periods of good vintage in western europe have occurred at intervals somewhat approximating to eleven years the average length of the principal sun-spot cycle
+schuster is credited by chandrasekhar to have given a fresh start to the radiative transfer problem schuster formulated in 1905 a problem in radiative transfer in an attempt to explain the appearance of absorption and emission lines in stellar spectra this was the first use of the two-stream approximation that underpins the treatment of radiative transfer in virtually all weather and climate models
+following the outbreak of world war i in 1914 the schuster family was subjected to anti-german prejudice in the press and in arthurs case in some quarters of the royal society his brother sir felix schuster had to issue a statement pointing out the familys loyalty to britain and that they all had sons serving in the british army on the day arthur gave his presidential address to the 1915 british association meeting he learned that his son had been wounded
+schuster was regarded by his contemporaries as a mathematical physicist of exceptional ability but also as a capable administrator and teacher and an advocate for the role of science in education and industry
+
+
+ honours and awards 
+schuster was elected a fellow of the royal society frs in 1879 and knighted in the 1920 new year honours other honours include doctorates from the universities of calcutta 1908 geneva 1909 st andrews 1911 and oxford 1917 and the award of the royal rumford and copley medals of the royal society 1893 1926 and 1931  lld calcutta 1876
+schuster served as secretary of the royal society and was elected vice-president 1919–20 and foreign secretary 1920–24 he also served as secretary of the international research council 1919–28 and on the management committees for the meteorological office 1905–32 and national physical laboratory 1899–1902 1920–25
+the university of manchesters schuster laboratory home to the school of physics and astronomy is named after him
+
+
+ bibliography 
+the progress of physics 1910 four lectures delivered to the university of calcutta during march 1908 which give cautious provisional approval of einsteins special relativity and max plancks initial ideas about quanta
+an introduction to the theory of optics 1904 there are two subsequent editions to this book and schuster is the author edition two was published in 1909 and edition three appears to have two publication dates of 1924 and 1928
+
+
+ gallery 
+
+
+ references 
+
+
+ further reading 
+beginning in 1871 schuster contributed many articles to the royal society journals these articles are available online at jstor and at gallica
+arthur schuster biographical fragments london macmillan 1932 – an attractive collection of reminiscences about schusters education and his expeditions with recollections of the scientists he knew
+the physical laboratories of the university of manchester – professor arthur schuster biographical and bibliographical notes manchester manchester university press 1906 pp 39–60 
+
+
+ external links 
+works by or about arthur schuster at internet archive
+arthur schuster papers at john rylands library manchester
+arthur schuster on lunar and solar periodicities of earthquakes  proceedings of the royal society of london vol 61 1897 pp 455–465 – schusters first paper on the use of the technique he later called the periodogram
+arthur schuster on the periodicities of sunspots philosophical transactions of the royal society of london series a vol 206 1906 pp 69–100 – schusters later paper on sunspots
+schusters royal society citation signed by maxwell joule and others
+obituary notices  fellows- schuster sir arthur monthly notices of the royal astronomical society vol 95 p.326
+there is a photograph of schuster at the science and society picture library and many more as well as the x ray photographs he took at wellcome images
+the story of schuster and the medical use of x-rays is told at sir arthur schuster a pioneer in the use of x-rays
+the position of schuster at the cavendish is described in cavendish laboratory the first ten years

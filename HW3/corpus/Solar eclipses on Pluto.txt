@@ -1,0 +1,167 @@
+the dwarf planet pluto has five moons down to a detection limit of about 1 km in diameter in order of distance from pluto they are charon styx nix kerberos and hydra charon the largest of the five moons is mutually tidally locked with pluto and is massive enough that pluto–charon is sometimes considered a double dwarf planet
+
+
+ history 
+the innermost and largest moon charon was discovered by james christy on 22 june 1978 nearly half a century after pluto was discovered this led to a substantial revision in estimates of plutos size which had previously assumed that the observed mass and reflected light of the system were all attributable to pluto alone
+two additional moons were imaged by astronomers of the pluto companion search team preparing for the new horizons mission and working with the hubble space telescope on 15 may 2005 which received the provisional designations s2005 p 1 and s2005 p 2 the international astronomical union officially named these moons nix or pluto ii the inner of the two moons formerly p 2 and hydra pluto iii the outer moon formerly p 1 on 21 june 2006 kerberos announced on 20 july 2011 was discovered while searching for plutonian rings styx announced on 7 july 2012 was discovered while looking for potential hazards for new horizons
+
+
+ charon 
+
+charon is about half the diameter of pluto and is so massive nearly one eighth of the mass of pluto that the systems barycenter lies between them approximately 960 km above plutos surface charon and pluto are also tidally locked so that they always present the same face toward each other the iau general assembly in august 2006 considered a proposal that pluto and charon be reclassified as a double planet but the proposal was abandoned
+
+
+ small moons 
+
+plutos four small moons orbit pluto at two to four times the distance of charon ranging from styx at 42,700 kilometres to hydra at 64,800 kilometres from the barycenter of the system they have nearly circular prograde orbits in the same orbital plane as charon
+all are much smaller than charon nix and hydra the two larger are roughly 42 and 55 kilometers on their longest axis respectively and styx and kerberos are 7 and 12 kilometers respectively all four are irregularly shaped
+
+
+ characteristics 
+
+the pluto system is highly compact and largely empty moons could potentially orbit pluto at up to 53% or 69 if retrograde of the hill radius the stable gravitational zone of plutos influence for example psamathe orbits neptune at 40% of the hill radius in the case of pluto only the inner 3% of the region where prograde orbits would be stable is occupied by satellites and the region from styx to hydra is packed so tightly that there is little room for further moons with stable orbits an intense search conducted by new horizons confirmed that no moons larger than 4.5 km in diameter exist at the distances up to 180,000 km from pluto for smaller distances this threshold is still smaller
+the orbits of the moons are confirmed to be circular and coplanar with inclinations differing less than 0.4° and eccentricities less than 0.005 as seen from earth these circular orbits appear foreshortened into ellipses depending on plutos position
+the discovery of nix and hydra suggested that pluto could have a ring system small-body impacts can create debris that can form into a ring system however data from a deep-optical survey by the advanced camera for surveys on the hubble space telescope by occultation studies and later by new horizons suggest that no ring system is present
+
+
+ resonances 
+styx nix and hydra are thought to be in a 3-body orbital resonance with orbital periods in a ratio of 182233 the respective ratio of orbits is 1196 the ratios should be exact when orbital precession is taken into account hydra and nix are in a simple 23 resonance styx and nix are in a 119 resonance while the resonance between styx and hydra has a ratio of 116 this means that in a recurring cycle there are 11 orbits of styx for every 9 of nix and 6 of hydra the ratios of synodic periods are then such that there are 5 styx–hydra conjunctions and 3 nix–hydra conjunctions for every 2 conjunctions of styx and nix if 
+  
+    
+      
+        λ
+      
+    
+    displaystyle lambda 
+   denotes the mean longitude and 
+  
+    
+      
+        φ
+      
+    
+    displaystyle phi 
+   the libration angle then the resonance can be formulated as 
+  
+    
+      
+        φ
+        
+        3
+        ⋅
+        
+          λ
+          
+            
+              s
+              t
+              y
+              x
+            
+          
+        
+        −
+        5
+        ⋅
+        
+          λ
+          
+            
+              n
+              i
+              x
+            
+          
+        
+        
+        2
+        ⋅
+        
+          λ
+          
+            
+              h
+              y
+              d
+              r
+              a
+            
+          
+        
+        
+        
+          180
+          
+            ∘
+          
+        
+      
+    
+    displaystyle phi 3cdot lambda rm styx-5cdot lambda rm nix+2cdot lambda rm hydra180circ 
+   as with the laplace resonance of the galilean satellites of jupiter triple conjunctions never occur 
+  
+    
+      
+        φ
+      
+    
+    displaystyle phi 
+   librates about 180° with an amplitude of at least 10°
+all of the outer circumbinary moons are also close to mean motion resonance with the charon–pluto orbital period styx nix kerberos and hydra are in a 13456 sequence of near resonances with styx approximately 5.4% from its resonance nix approximately 2.7 kerberos approximately 0.6 and hydra approximately 0.3 it may be that these orbits originated as forced resonances when charon was tidally boosted into its current synchronous orbit and then released from resonance as charons orbital eccentricity was tidally damped the pluto–charon pair creates strong tidal forces with the gravitational field at the outer moons varying by 15% peak to peak
+however it was calculated that a resonance with charon could boost either nix or hydra into its current orbit but not both boosting hydra would have required a near-zero charonian eccentricity of 0.024 whereas boosting nix would have required a larger eccentricity of at least 0.05 this suggests that nix and hydra were instead captured material formed around pluto–charon and migrated inward until they were trapped in resonance with charon the existence of kerberos and styx may support this idea
+
+
+ rotation 
+
+nix hydra styx and kerberos rotate chaotically according to mark r showalter nix can flip its entire pole it could actually be possible to spend a day on nix in which the sun rises in the east and sets in the north it is almost random-looking in the way it rotates this is because they are in a dynamically changing gravitational field caused by pluto and charon orbiting each other the variable gravitational field creates torques that make nix and hydra tumble the torques are increased because the moons are elongated and not spherical only one other moon saturns moon hyperion is known to tumble though it is likely that haumeas moons do so as well
+
+
+ origin 
+
+it is suspected that plutos satellite system was created by a massive collision similar to the big whack thought to have created the moon in both cases the high angular momenta of the moons can only be explained by such a scenario the nearly circular orbits of the smaller moons suggests that they were also formed in this collision rather than being captured kuiper belt objects this and their near orbital resonances with charon see below suggest that they formed closer to pluto than they are at present and migrated outward as charon reached its current orbit their grey color is different from that of pluto one of the reddest bodies in the solar system this is thought to be due to a loss of volatiles during the impact or subsequent coalescence leaving the surfaces of the moons dominated by water ice however such an impact should have created additional debris more moons yet no moons or rings were discovered by new horizons ruling out any more moons of significant size orbiting pluto
+
+
+ list 
+plutos moons are listed here by orbital period from shortest to longest charon which is massive enough to have collapsed into a spheroid at some point in its history is highlighted in light purple pluto has been added for comparison
+the maximum distance between the centers of pluto and charon is 19,571 ± 4 km
+
+
+ scale model of the pluto system 
+
+
+ mutual events 
+
+transits occur when one of plutos moons passes between pluto and the sun this occurs when one of the satellites orbital nodes the points where their orbits cross plutos ecliptic lines up with pluto and the sun this can only occur at two points in plutos orbit coincidently these points are near plutos perihelion and aphelion occultations occur when pluto passes in front of and blocks one of plutos satellites
+charon has an angular diameter of 4 degrees of arc as seen from the surface of pluto the sun appears much smaller only 39 to 65 arcseconds charons proximity further ensures that a large proportion of plutos surface can experience an eclipse because pluto always presents the same face towards charon due to tidal locking only the charon-facing hemisphere experiences solar eclipses by charon
+the smaller moons can cast shadows elsewhere the angular diameters of the four smaller moons as seen from pluto are uncertain nixs is 3–9 minutes of arc and hydras is 2–7 minutes these are much larger than the suns angular diameter so total solar eclipses are caused by these moons
+eclipses by styx and kerberos are more difficult to estimate as both moons are very irregular with angular dimensions of 76.9 x 38.5 to 77.8 x 38.9 arcseconds for styx and 67.6 x 32.0 to 68.0 x 32.2 for kerberos as such styx has no annular eclipses its widest axis being more than 10 arcseconds larger than the sun at its largest however kerberos although slightly larger cannot make total eclipses as its largest minor axis is a mere 32 arcseconds eclipses by kerberos and styx will entirely consist of partial and hybrid eclipses with total eclipses being extremely rare
+the next period of mutual events due to charon will begin in october 2103 peak in 2110 and end in january 2117 during this period solar eclipses will occur once each plutonian day with a maximum duration of 90 minutes
+
+
+ exploration 
+the pluto system was visited by the new horizons spacecraft in july 2015 images with resolutions of up to 330 meters per pixel were returned of nix and up to 1.1 kilometers per pixel of hydra lower-resolution images were returned of styx and kerberos
+
+
+ notes 
+
+
+ references 
+
+
+ sources 
+sa stern ha weaver aj steffl mj mutchler wj merline mw buie ef young la young  jr spencer 2006 characteristics and origin of the quadruple system at pluto nature submitted preprint
+steffl a j mutchler m j weaver h a stern s a durda d d terrell d merline w j young l a young e f buie m w spencer j r 2006 new constraints on additional satellites of the pluto system the astronomical journal 132 2 614–619 arxivastro-ph0511837  bibcode2006aj.132.614s doi10.1086/505424 
+buie mw grundy wm young ef young la stern sa 2005 orbits and photometry of plutos satellites charon s2005 p1 and s2005 p2 submitted preprint
+brozovic m showalter m r jacobson r a  buie m w 2015 the orbits and masses of satellites of pluto icarus 246 317 doi10.1016jicarus.2014.03.015 bibcode 2015icar.246.317b
+iau circular no 8625 describing the discovery of 2005 p1 and p2
+iau circular no 8686 reporting a more neutral color for 2005 p2
+iau circular no 8723 announcing the names of nix and hydra
+background information regarding our two newly discovered satellites of pluto – the website of the discoverers of nix and hydra
+
+
+ external links 
+plutos known satellites
+animation of the plutonian system
+hubble spots possible new moons around pluto nasa
+two more moons discovered orbiting pluto spacecom
+new horizons mission site

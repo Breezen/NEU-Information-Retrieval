@@ -1,21 +1,42 @@
-import wikipedia
+import string, wikipedia
 
 class CorpusGenerator:
     def __init__(self, wikiTitle):
         self.title = wikiTitle
-        self.content = wikipedia.page(wikiTitle).content
+        page = wikipedia.page(wikiTitle)
+        self.content = page.content
+
+    def usefulForDigits(self, c, last, next):
+        if next is None or next == ' ':
+            if last in string.digits:
+                return c in "!%"
+            return False
+        if next in string.digits and last in string.digits:
+            return c in ",./~"
+        if next in string.digits:
+            return c in "+-."
+        return False
 
     def parse(self, caseFolding=True, removePunc=True):
         if caseFolding:
             self.content = self.content.casefold()
         if removePunc:
-            pass
+            parsed = ""
+            for i, c in enumerate(self.content):
+                if c in string.punctuation and c != '-' \
+                    and not self.usefulForDigits(c, self.content[i - 1], self.content[i + 1] if i + 1 < len(self.content) else None):
+                    continue
+                parsed += c
+            self.content = parsed
 
     def save(self):
         with open("corpus/" + self.title + ".txt", "w+") as fout:
             fout.write(self.content)
 
 if __name__ == "__main__":
-    cg = CorpusGenerator("Solar_eclipse")
-    cg.parse()
-    cg.save()
+    with open("BFS.txt", "r") as fin:
+        for title in fin:
+            title = title.rstrip('\n')
+            cg = CorpusGenerator(title)
+            cg.parse()
+            cg.save()

@@ -1,0 +1,1887 @@
+brownian motion or pedesis from ancient greek πήδησισ pέːdεːsis leaping is the random motion of particles suspended in a fluid a liquid or a gas resulting from their collision with the fast-moving molecules in the fluid
+this pattern of motion typically alternates random fluctuations in a particles position inside a fluid sub-domain with a relocation to another sub-domain each relocation is followed by more fluctuations within the new closed volume this pattern describes a fluid at thermal equilibrium defined by a given temperature within such fluid there exists no preferential direction of flow as in transport phenomena more specifically the fluids overall linear and angular momenta remain null over time it is important also to note that the kinetic energies of the molecular brownian motions together with those of molecular rotations and vibrations sum up to the caloric component of a fluid’s internal energy
+this motion is named after robert brown botanist born 1773 in 1827 while looking through a microscope at particles trapped in cavities inside pollen grains in water he noted that the particles moved through the water but he was not able to determine the mechanisms that caused this motion atoms and molecules had long been theorized as the constituents of matter and albert einstein published a paper in 1905 that explained in precise detail how the motion that brown had observed was a result of the pollen being moved by individual water molecules making one of his first big contributions to science this explanation of brownian motion served as convincing evidence that atoms and molecules exist and was further verified experimentally by jean perrin in 1908 perrin was awarded the nobel prize in physics in 1926 for his work on the discontinuous structure of matter the direction of the force of atomic bombardment is constantly changing and at different times the particle is hit more on one side than another leading to the seemingly random nature of the motion
+the many-body interactions that yield the brownian pattern cannot be solved by a model accounting for every involved molecule in consequence only probabilistic models applied to molecular populations can be employed to describe it two such models of the statistical mechanics due to einstein and smoluchowski are presented below another pure probabilistic class of models is the class of the stochastic process models there exist both simpler and more complicated stochastic processes which in extreme taken to the limit may describe the brownian motion see random walk and donskers theorem
+
+
+ history 
+the roman lucretiuss scientific poem on the nature of things c 60 bc has a remarkable description of brownian motion of dust particles in verses 113–140 from book ii he uses this as a proof of the existence of atoms
+
+observe what happens when sunbeams are admitted into a building and shed light on its shadowy places you will see a multitude of tiny particles mingling in a multitude of ways their dancing is an actual indication of underlying movements of matter that are hidden from our sight it originates with the atoms which move of themselves ie spontaneously then those small compound bodies that are least removed from the impetus of the atoms are set in motion by the impact of their invisible blows and in turn cannon against slightly larger bodies so the movement mounts up from the atoms and gradually emerges to the level of our senses so that those bodies are in motion that we see in sunbeams moved by blows that remain invisible
+although the mingling motion of dust particles is caused largely by air currents the glittering tumbling motion of small dust particles is indeed caused chiefly by true brownian dynamics
+while jan ingenhousz described the irregular motion of coal dust particles on the surface of alcohol in 1785 the discovery of this phenomenon is often credited to the botanist robert brown in 1827 brown was studying pollen grains of the plant clarkia pulchella suspended in water under a microscope when he observed minute particles ejected by the pollen grains executing a jittery motion by repeating the experiment with particles of inorganic matter he was able to rule out that the motion was life-related although its origin was yet to be explained
+the first person to describe the mathematics behind brownian motion was thorvald n thiele in a paper on the method of least squares published in 1880 this was followed independently by louis bachelier in 1900 in his phd thesis the theory of speculation in which he presented a stochastic analysis of the stock and option markets the brownian motion model of the stock market is often cited but benoit mandelbrot rejected its applicability to stock price movements in part because these are discontinuous
+albert einstein in one of his 1905 papers and marian smoluchowski 1906 brought the solution of the problem to the attention of physicists and presented it as a way to indirectly confirm the existence of atoms and molecules their equations describing brownian motion were subsequently verified by the experimental work of jean baptiste perrin in 1908
+
+
+ statistical mechanics theories 
+
+
+ einsteins theory 
+there are two parts to einsteins theory the first part consists in the formulation of a diffusion equation for brownian particles in which the diffusion coefficient is related to the mean squared displacement of a brownian particle while the second part consists in relating the diffusion coefficient to measurable physical quantities in this way einstein was able to determine the size of atoms and how many atoms there are in a mole or the molecular weight in grams of a gas in accordance to avogadros law this volume is the same for all ideal gases which is 22.414 liters at standard temperature and pressure the number of atoms contained in this volume is referred to as avogadros constant and the determination of this number is tantamount to the knowledge of the mass of an atom since the latter is obtained by dividing the mass of a mole of the gas by avogadros constant
+
+the first part of einsteins argument was to determine how far a brownian particle travels in a given time interval classical mechanics is unable to determine this distance because of the enormous number of bombardments a brownian particle will undergo roughly of the order of 1014 collisions per second thus einstein was led to consider the collective motion of brownian particles
+he regarded the increment of particle positions in unrestricted one dimensional x domain as a random variable 
+  
+    
+      
+        δ
+      
+    
+    displaystyle delta 
+   or x under coordinate transformation so that the origin lies at the initial position of the particle with some probability density function 
+  
+    
+      
+        φ
+        
+        δ
+        
+      
+    
+    displaystyle varphi delta 
+   further assuming conservation of particle number he expanded the density number of particles per unit volume change in a taylor series
+
+  
+    
+      
+        
+          
+            
+              
+                ρ
+                
+                x
+                
+                t
+                
+                
+                τ
+                
+                  
+                    
+                      ∂
+                      ρ
+                      
+                      x
+                      
+                    
+                    
+                      ∂
+                      t
+                    
+                  
+                
+                
+                ⋯
+                
+                ρ
+                
+                x
+                
+                t
+                
+                τ
+                
+                
+                
+
+                
+              
+              
+                
+                
+                  ∫
+                  
+                    −
+                    ∞
+                  
+                  
+                    
+                    ∞
+                  
+                
+                ρ
+                
+                x
+                
+                δ
+                
+                t
+                
+                ⋅
+                φ
+                
+                δ
+                
+                
+                
+                  d
+                
+                δ
+              
+            
+            
+              
+                
+                
+
+                
+              
+              
+                ρ
+                
+                x
+                
+                t
+                
+                ⋅
+                
+                  ∫
+                  
+                    −
+                    ∞
+                  
+                  
+                    
+                    ∞
+                  
+                
+                φ
+                
+                δ
+                
+                
+                d
+                δ
+                
+                
+                  
+                    
+                      ∂
+                      ρ
+                    
+                    
+                      ∂
+                      x
+                    
+                  
+                
+                ⋅
+                
+                  ∫
+                  
+                    −
+                    ∞
+                  
+                  
+                    
+                    ∞
+                  
+                
+                δ
+                ⋅
+                φ
+                
+                δ
+                
+                
+                
+                  d
+                
+                δ
+              
+            
+            
+              
+              
+                
+                
+
+                
+                
+                
+                  
+                    
+                      
+                        ∂
+                        
+                          2
+                        
+                      
+                      ρ
+                    
+                    
+                      ∂
+                      
+                        x
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                ⋅
+                
+                  ∫
+                  
+                    −
+                    ∞
+                  
+                  
+                    
+                    ∞
+                  
+                
+                
+                  
+                    
+                      δ
+                      
+                        2
+                      
+                    
+                    2
+                  
+                
+                ⋅
+                φ
+                
+                δ
+                
+                
+                
+                  d
+                
+                δ
+                
+                ⋯
+              
+            
+            
+              
+                
+                
+
+                
+              
+              
+                ρ
+                
+                x
+                
+                t
+                
+                ⋅
+                1
+                
+                0
+                
+                
+                  
+                    
+                      
+                        ∂
+                        
+                          2
+                        
+                      
+                      ρ
+                    
+                    
+                      ∂
+                      
+                        x
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                ⋅
+                
+                  ∫
+                  
+                    −
+                    ∞
+                  
+                  
+                    
+                    ∞
+                  
+                
+                
+                  
+                    
+                      δ
+                      
+                        2
+                      
+                    
+                    2
+                  
+                
+                ⋅
+                φ
+                
+                δ
+                
+                
+                
+                  d
+                
+                δ
+                
+                ⋯
+              
+            
+          
+        
+      
+    
+    displaystyle beginalignedrho xttau frac partial rho xpartial tcdots rho xttau int -infty infty rho xdelta tcdot varphi delta mathrm d delta rho xtcdot int -infty infty varphi delta ddelta frac partial rho partial xcdot int -infty infty delta cdot varphi delta mathrm d delta frac partial 2rho partial x2cdot int -infty infty frac delta 22cdot varphi delta mathrm d delta cdots rho xtcdot 10frac partial 2rho partial x2cdot int -infty infty frac delta 22cdot varphi delta mathrm d delta cdots endaligned
+  
+where the second equality in the first line is by definition of 
+  
+    
+      
+        φ
+      
+    
+    displaystyle varphi 
+   the integral in the first term is equal to one by the definition of probability and the second and other even terms ie first and other odd moments vanish because of space symmetry what is left gives rise to the following relation
+
+  
+    
+      
+        
+          
+            
+              ∂
+              ρ
+            
+            
+              ∂
+              t
+            
+          
+        
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              ρ
+            
+            
+              ∂
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        ⋅
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            
+            ∞
+          
+        
+        
+          
+            
+              δ
+              
+                2
+              
+            
+            
+              2
+              
+              τ
+            
+          
+        
+        ⋅
+        φ
+        
+        δ
+        
+        
+        
+          d
+        
+        δ
+        
+        
+          higher-order even moments
+        
+      
+    
+    displaystyle frac partial rho partial tfrac partial 2rho partial x2cdot int -infty infty frac delta 22tau cdot varphi delta mathrm d delta texthigher-order even moments
+  
+where the coefficient before the laplacian the second moment of probability of displacement 
+  
+    
+      
+        δ
+      
+    
+    displaystyle delta 
+   is interpreted as mass diffusivity d
+
+  
+    
+      
+        d
+        
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            
+            ∞
+          
+        
+        
+          
+            
+              δ
+              
+                2
+              
+            
+            
+              2
+              
+              τ
+            
+          
+        
+        ⋅
+        φ
+        
+        δ
+        
+        
+        
+          d
+        
+        δ
+      
+    
+    displaystyle dint -infty infty frac delta 22tau cdot varphi delta mathrm d delta 
+  
+then the density of brownian particles ρ at point x at time t satisfies the diffusion equation
+
+  
+    
+      
+        
+          
+            
+              ∂
+              ρ
+            
+            
+              ∂
+              t
+            
+          
+        
+        
+        d
+        ⋅
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              ρ
+            
+            
+              ∂
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        
+      
+    
+    displaystyle frac partial rho partial tdcdot frac partial 2rho partial x2
+  
+assuming that n particles start from the origin at the initial time t0 the diffusion equation has the solution
+
+  
+    
+      
+        ρ
+        
+        x
+        
+        t
+        
+        
+        
+          
+            n
+            
+              4
+              π
+              d
+              t
+            
+          
+        
+        
+          e
+          
+            −
+            
+              
+                
+                  x
+                  
+                    2
+                  
+                
+                
+                  4
+                  d
+                  t
+                
+              
+            
+          
+        
+        
+      
+    
+    displaystyle rho xtfrac nsqrt 4pi dte-frac x24dt
+  
+this expression which is a normal distribution with the mean 
+  
+    
+      
+        μ
+        
+        0
+      
+    
+    displaystyle mu 0
+   and variance 
+  
+    
+      
+        
+          σ
+          
+            2
+          
+        
+        
+        2
+        d
+        t
+      
+    
+    displaystyle sigma 22dt
+   usually called brownian motion 
+  
+    
+      
+        
+          b
+          
+            t
+          
+        
+      
+    
+    displaystyle bt
+   allowed einstein to calculate the moments directly the first moment is seen to vanish meaning that the brownian particle is equally likely to move to the left as it is to move to the right the second moment is however non-vanishing being given by
+
+  
+    
+      
+        
+          
+            
+              x
+              
+                2
+              
+            
+            ¯
+          
+        
+        
+        2
+        
+        d
+        
+        t
+        
+      
+    
+    displaystyle overline x22dt
+  
+this expresses the mean squared displacement in terms of the time elapsed and the diffusivity from this expression einstein argued that the displacement of a brownian particle is not proportional to the elapsed time but rather to its square root his argument is based on a conceptual switch from the ensemble of brownian particles to the single brownian particle we can speak of the relative number of particles at a single instant just as well as of the time it takes a brownian particle to reach a given point
+the second part of einsteins theory relates the diffusion constant to physically measurable quantities such as the mean squared displacement of a particle in a given time interval this result enables the experimental determination of avogadros number and therefore the size of molecules einstein analyzed a dynamic equilibrium being established between opposing forces the beauty of his argument is that the final result does not depend upon which forces are involved in setting up the dynamic equilibrium
+in his original treatment einstein considered an osmotic pressure experiment but the same conclusion can be reached in other ways
+consider for instance particles suspended in a viscous fluid in a gravitational field gravity tends to make the particles settle whereas diffusion acts to homogenize them driving them into regions of smaller concentration under the action of gravity a particle acquires a downward speed of v  μmg where m is the mass of the particle g is the acceleration due to gravity and μ is the particles mobility in the fluid george stokes had shown that the mobility for a spherical particle with radius r is 
+  
+    
+      
+        μ
+        
+        
+          
+            
+              1
+              
+                6
+                π
+                η
+                r
+              
+            
+          
+        
+      
+    
+    displaystyle mu tfrac 16pi eta r
+   where η is the dynamic viscosity of the fluid in a state of dynamic equilibrium and under the hypothesis of isothermal fluid the particles are distributed according to the barometric distribution
+
+  
+    
+      
+        ρ
+        
+        
+          ρ
+          
+            0
+          
+        
+        
+          e
+          
+            −
+            
+              
+                
+                  m
+                  g
+                  h
+                
+                
+                  
+                    k
+                    
+                      b
+                    
+                  
+                  t
+                
+              
+            
+          
+        
+        
+      
+    
+    displaystyle rho rho 0e-frac mghkbt
+  
+where ρ−ρ0 is the difference in density of particles separated by a height difference of h kb is boltzmanns constant namely the ratio of the universal gas constant r to avogadros number n and t is the absolute temperature it is avogadros number that is to be determined
+
+dynamic equilibrium is established because the more that particles are pulled down by gravity the greater is the tendency for the particles to migrate to regions of lower concentration the flux is given by ficks law
+
+  
+    
+      
+        j
+        
+        −
+        d
+        
+          
+            
+              d
+              ρ
+            
+            
+              d
+              h
+            
+          
+        
+        
+      
+    
+    displaystyle j-dfrac drho dh
+  
+where j  ρv introducing the formula for ρ we find that
+
+  
+    
+      
+        v
+        
+        
+          
+            
+              d
+              m
+              g
+            
+            
+              
+                k
+                
+                  b
+                
+              
+              t
+            
+          
+        
+        
+      
+    
+    displaystyle vfrac dmgkbt
+  
+in a state of dynamical equilibrium this speed must also be equal to v  μmg notice that both expressions for v are proportional to mg reflecting how the derivation is independent of the type of forces considered equating these two expressions yields a formula for the diffusivity
+
+  
+    
+      
+        
+          
+            
+              
+                x
+                
+                  2
+                
+              
+              ¯
+            
+            
+              2
+              t
+            
+          
+        
+        
+        d
+        
+        μ
+        
+          k
+          
+            b
+          
+        
+        t
+        
+        
+          
+            
+              μ
+              r
+              t
+            
+            n
+          
+        
+        
+        
+          
+            
+              r
+              t
+            
+            
+              6
+              π
+              η
+              r
+              n
+            
+          
+        
+        
+      
+    
+    displaystyle frac overline x22tdmu kbtfrac mu rtnfrac rt6pi eta rn
+  
+here the first equality follows from the first part of einsteins theory the third equality follows from the definition of boltzmanns constant as kb  r  n and the fourth equality follows from stokess formula for the mobility by measuring the mean squared displacement over a time interval along with the universal gas constant r the temperature t the viscosity η and the particle radius r avogadros number n can be determined
+the type of dynamical equilibrium proposed by einstein was not new it had been pointed out previously by j j thomson in his series of lectures at yale university in may 1903 that the dynamic equilibrium between the velocity generated by a concentration gradient given by ficks law and the velocity due to the variation of the partial pressure caused when ions are set in motion gives us a method of determining avogadros constant which is independent of any hypothesis as to the shape or size of molecules or of the way in which they act upon each other
+an identical expression to einsteins formula for the diffusion coefficient was also found by walther nernst in 1888 in which he expressed the diffusion coefficient as the ratio of the osmotic pressure to the ratio of the frictional force and the velocity to which it gives rise the former was equated to the law of van t hoff while the latter was given by stokess law he writes 
+  
+    
+      
+        
+          k
+          ′
+        
+        
+        
+          p
+          
+            0
+          
+        
+        
+          
+        
+        k
+      
+    
+    displaystyle kp0k
+   for the diffusion coefficient k′ where 
+  
+    
+      
+        
+          p
+          
+            0
+          
+        
+      
+    
+    displaystyle p0
+   is the osmotic pressure and k is the ratio of the frictional force to the molecular viscosity which he assumes is given by stokess formula for the viscosity introducing the ideal gas law per unit volume for the osmotic pressure the formula becomes identical to that of einsteins the use of stokess law in nernsts case as well as in einstein and smoluchowski is not strictly applicable since it does not apply to the case where the radius of the sphere is small in comparison with the mean free path
+at first the predictions of einsteins formula were seemingly refuted by a series of experiments by svedberg in 1906 and 1907 which gave displacements of the particles as 4 to 6 times the predicted value and by henri in 1908 who found displacements 3 times greater than einsteins formula predicted but einsteins predictions were finally confirmed in a series of experiments carried out by chaudesaigues in 1908 and perrin in 1909 the confirmation of einsteins theory constituted empirical progress for the kinetic theory of heat in essence einstein showed that the motion can be predicted directly from the kinetic model of thermal equilibrium the importance of the theory lay in the fact that it confirmed the kinetic theorys account of the second law of thermodynamics as being an essentially statistical law
+
+
+ smoluchowski model 
+smoluchowskis theory of brownian motion starts from the same premise as that of einstein and derives the same probability distribution ρx t for the displacement of a brownian particle along the x in time t he therefore gets the same expression for the mean squared displacement 
+  
+    
+      
+        
+          
+            
+              
+              δ
+              x
+              
+                
+                
+                  2
+                
+              
+            
+            ¯
+          
+        
+      
+    
+    displaystyle overline delta x2
+   however when he relates it to a particle of mass m moving at a velocity u which is the result of a frictional force governed by stokess law he finds
+
+  
+    
+      
+        
+          
+            
+              
+              δ
+              x
+              
+                
+                
+                  2
+                
+              
+            
+            ¯
+          
+        
+        
+        2
+        d
+        t
+        
+        t
+        
+          
+            32
+            81
+          
+        
+        
+          
+            
+              μ
+              
+                2
+              
+            
+            
+              π
+              μ
+              a
+            
+          
+        
+        
+        t
+        
+          
+            64
+            27
+          
+        
+        
+          
+            
+              
+                
+                  1
+                  2
+                
+              
+              
+                μ
+                
+                  2
+                
+              
+            
+            
+              3
+              π
+              μ
+              a
+            
+          
+        
+        
+      
+    
+    displaystyle overline delta x22dttfrac 3281frac mu 2pi mu atfrac 6427frac frac 12mu 23pi mu a
+  
+where μ is the viscosity coefficient and a is the radius of the particle associating the kinetic energy 
+  
+    
+      
+        
+          μ
+          
+            2
+          
+        
+        
+          
+        
+        2
+      
+    
+    displaystyle mu 22
+   with the thermal energy rtn the expression for the mean squared displacement is 64/27 times that found by einstein the fraction 27/64 was commented on by arnold sommerfeld in his necrology on smoluchowski the numerical coefficient of einstein which differs from smoluchowski by 27/64 can only be put in doubt
+smoluchowski attempts to answer the question of why a brownian particle should be displaced by bombardments of smaller particles when the probabilities for striking it in the forward and rear directions are equal in order to do so he uses unknowingly the ballot theorem first proved by wa whitworth in 1878 the ballot theorem states that if a candidate a scores m votes and candidate b scores n − m that the probability throughout the counting that a will have more votes than b is
+
+  
+    
+      
+        
+          
+            
+              
+              m
+              −
+              
+              n
+              −
+              m
+              
+              
+            
+            
+              
+              m
+              
+              n
+              −
+              m
+              
+            
+          
+        
+        
+        
+          
+            
+              2
+              m
+              −
+              n
+            
+            n
+          
+        
+        
+      
+    
+    displaystyle frac m-n-mmn-mfrac 2m-nn
+  
+no matter how large the total number of votes n may be in other words if one candidate has an edge on the other candidate he will tend to keep that edge even though there is nothing favoring either candidate on a ballot extraction
+if the probability of m gains and n − m losses follows a binomial distribution
+
+  
+    
+      
+        
+          p
+          
+            m
+            
+            n
+          
+        
+        
+        
+          
+            
+              
+            
+            
+              n
+              m
+            
+            
+              
+            
+          
+        
+        
+          2
+          
+            −
+            n
+          
+        
+        
+      
+    
+    displaystyle pmnbinom nm2-n
+  
+with equal a priori probabilities of 1/2 the mean total gain is
+
+  
+    
+      
+        
+          
+            
+              2
+              m
+              −
+              n
+            
+            ¯
+          
+        
+        
+        
+          ∑
+          
+            m
+            
+            
+              
+                n
+                2
+              
+            
+          
+          
+            n
+          
+        
+        
+        2
+        m
+        −
+        n
+        
+        
+          p
+          
+            m
+            
+            n
+          
+        
+        
+        
+          
+            
+              n
+              n
+              
+            
+            
+              
+                2
+                
+                  n
+                
+              
+              
+                
+                  
+                  
+                    
+                      
+                      
+                        
+                          n
+                          2
+                        
+                      
+                      
+                    
+                    
+                  
+                  
+                
+                
+                  2
+                
+              
+            
+          
+        
+        
+      
+    
+    displaystyle overline 2m-nsum mfrac n2n2m-npmnfrac nn2nleftleftfrac n2rightright2
+  
+if n is large enough so that stirlings approximation can be used in the form
+
+  
+    
+      
+        n
+        
+        ≈
+        
+          
+            
+            
+              
+                n
+                e
+              
+            
+            
+          
+          
+            n
+          
+        
+        
+          
+            2
+            π
+            n
+          
+        
+        
+      
+    
+    displaystyle napprox leftfrac nerightnsqrt 2pi n
+  
+then the expected total gain will be
+
+  
+    
+      
+        
+          
+            
+              2
+              m
+              −
+              n
+            
+            ¯
+          
+        
+        ≈
+        
+          
+            
+              
+                2
+                n
+              
+              π
+            
+          
+        
+        
+      
+    
+    displaystyle overline 2m-napprox sqrt frac 2npi 
+  
+showing that it increases as the square root of the total population
+suppose that a brownian particle of mass m is surrounded by lighter particles of mass m which are traveling at a speed u then reasons smoluchowski in any collision between a surrounding and brownian particles the velocity transmitted to the latter will be mum this ratio is of the order of 10−7 cms but we also have to take into consideration that in a gas there will be more than 1016 collisions in a second and even greater in a liquid where we expect that there will be 1020 collision in one second some of these collisions will tend to accelerate the brownian particle others will tend to decelerate it if there is a mean excess of one kind of collision or the other to be of the order of 108 to 1010 collisions in one second then velocity of the brownian particle may be anywhere between 10 and 1000 cms thus even though there are equal probabilities for forward and backward collisions there will be a net tendency to keep the brownian particle in motion just as the ballot theorem predicts
+these orders of magnitude are not exact because they dont take into consideration the velocity of the brownian particle u which depends on the collisions that tend to accelerate and decelerate it the larger u is the greater will be the collisions that will retard it so that the velocity of a brownian particle can never increase without limit could such a process occur it would be tantamount to a perpetual motion of the second type and since equipartition of energy applies the kinetic energy of the brownian particle 
+  
+    
+      
+        m
+        
+          u
+          
+            2
+          
+        
+        
+          
+        
+        2
+      
+    
+    displaystyle mu22
+   will be equal on the average to the kinetic energy of the surrounding fluid particle 
+  
+    
+      
+        m
+        
+          u
+          
+            2
+          
+        
+        
+          
+        
+        2
+      
+    
+    displaystyle mu22
+  
+in 1906 smoluchowski published a one-dimensional model to describe a particle undergoing brownian motion the model assumes collisions with m ≫ m where m is the test particles mass and m the mass of one of the individual particles composing the fluid it is assumed that the particle collisions are confined to one dimension and that it is equally probable for the test particle to be hit from the left as from the right it is also assumed that every collision always imparts the same magnitude of δv if nr is the number of collisions from the right and nl the number of collisions from the left then after n collisions the particles velocity will have changed by δv2nr − n the multiplicity is then simply given by
+
+  
+    
+      
+        
+          
+            
+              
+            
+            
+              n
+              
+                n
+                
+                  r
+                
+              
+            
+            
+              
+            
+          
+        
+        
+        
+          
+            
+              n
+              
+            
+            
+              
+                n
+                
+                  r
+                
+              
+              
+              
+              n
+              −
+              
+                n
+                
+                  r
+                
+              
+              
+              
+            
+          
+        
+      
+    
+    displaystyle binom nnrfrac nnrn-nr
+  
+and the total number of possible states is given by 2n therefore the probability of the particle being hit from the right nr times is
+
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+        
+        
+          n
+          
+            r
+          
+        
+        
+        
+        
+          
+            
+              n
+              
+            
+            
+              
+                2
+                
+                  n
+                
+              
+              
+                n
+                
+                  r
+                
+              
+              
+              
+              n
+              −
+              
+                n
+                
+                  r
+                
+              
+              
+              
+            
+          
+        
+      
+    
+    displaystyle pnnrfrac n2nnrn-nr
+  
+as a result of its simplicity smoluchowskis 1d model can only qualitatively describe brownian motion for a realistic particle undergoing brownian motion in a fluid many of the assumptions cannot be made for example the assumption that on average there occurs an equal number of collisions from the right as from the left falls apart once the particle is in motion also there would be a distribution of different possible δvs instead of always just one in a realistic situation
+
+
+ other physics models using partial differential equations 
+the diffusion equation yields an approximation of the time evolution of the probability density function associated to the position of the particle going under a brownian movement under the physical definition the approximation is valid on short timescales
+the time evolution of the position of the brownian particle itself is best described using langevin equation an equation which involves a random force field representing the effect of the thermal fluctuations of the solvent on the particle
+the displacement of a particle undergoing brownian motion is obtained by solving the diffusion equation under appropriate boundary conditions and finding the rms of the solution this shows that the displacement varies as the square root of the time not linearly which explains why previous experimental results concerning the velocity of brownian particles gave nonsensical results a linear time dependence was incorrectly assumed
+at very short time scales however the motion of a particle is dominated by its inertia and its displacement will be linearly dependent on time δx  vδt so the instantaneous velocity of the brownian motion can be measured as v  δxδt when δt  τ where τ is the momentum relaxation time in 2010 the instantaneous velocity of a brownian particle a glass microsphere trapped in air with an optical tweezer was measured successfully the velocity data verified the maxwell–boltzmann velocity distribution and the equipartition theorem for a brownian particle
+
+
+ astrophysics star motion within galaxies 
+in stellar dynamics a massive body star black hole etc can experience brownian motion as it responds to gravitational forces from surrounding stars the rms velocity v of the massive object of mass m is related to the rms velocity 
+  
+    
+      
+        
+          v
+          
+            ⋆
+          
+        
+      
+    
+    displaystyle vstar 
+   of the background stars by
+
+  
+    
+      
+        m
+        
+          v
+          
+            2
+          
+        
+        ≈
+        m
+        
+          v
+          
+            ⋆
+          
+          
+            2
+          
+        
+      
+    
+    displaystyle mv2approx mvstar 2
+  
+where 
+  
+    
+      
+        m
+        ≪
+        m
+      
+    
+    displaystyle mll m
+   is the mass of the background stars the gravitational force from the massive object causes nearby stars to move faster than they otherwise would increasing both 
+  
+    
+      
+        
+          v
+          
+            ⋆
+          
+        
+      
+    
+    displaystyle vstar 
+   and v the brownian velocity of sgr a the supermassive black hole at the center of the milky way galaxy is predicted from this formula to be less than 1 km s−1
+
+
+ mathematics 
+
+in mathematics brownian motion is described by the wiener process a continuous-time stochastic process named in honor of norbert wiener it is one of the best known lévy processes càdlàg stochastic processes with stationary independent increments and occurs frequently in pure and applied mathematics economics and physics
+
+the wiener process wt is characterised by four facts
+w0  0
+wt is almost surely continuous
+wt has independent increments
+
+  
+    
+      
+        
+          w
+          
+            t
+          
+        
+        −
+        
+          w
+          
+            s
+          
+        
+        ∼
+        
+          
+            n
+          
+        
+        
+        0
+        
+        t
+        −
+        s
+        
+      
+    
+    displaystyle wt-wssim mathcal n0t-s
+   for 
+  
+    
+      
+        0
+        ≤
+        s
+        ≤
+        t
+      
+    
+    displaystyle 0leq sleq t
+  
+
+  
+    
+      
+        
+          
+            n
+          
+        
+        
+        μ
+        
+        
+          σ
+          
+            2
+          
+        
+        
+      
+    
+    displaystyle mathcal nmu sigma 2
+   denotes the normal distribution with expected value μ and variance σ2 the condition that it has independent increments means that if 
+  
+    
+      
+        0
+        ≤
+        
+          s
+          
+            1
+          
+        
+        
+        
+          t
+          
+            1
+          
+        
+        ≤
+        
+          s
+          
+            2
+          
+        
+        
+        
+          t
+          
+            2
+          
+        
+      
+    
+    displaystyle 0leq s1t1leq s2t2
+   then 
+  
+    
+      
+        
+          w
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        −
+        
+          w
+          
+            
+              s
+              
+                1
+              
+            
+          
+        
+      
+    
+    displaystyle wt1-ws1
+   and 
+  
+    
+      
+        
+          w
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+        −
+        
+          w
+          
+            
+              s
+              
+                2
+              
+            
+          
+        
+      
+    
+    displaystyle wt2-ws2
+   are independent random variables
+an alternative characterisation of the wiener process is the so-called lévy characterisation that says that the wiener process is an almost surely continuous martingale with w0  0 and quadratic variation 
+  
+    
+      
+        
+        
+          w
+          
+            t
+          
+        
+        
+        
+          w
+          
+            t
+          
+        
+        
+        
+        t
+      
+    
+    displaystyle wtwtt
+  
+a third characterisation is that the wiener process has a spectral representation as a sine series whose coefficients are independent 
+  
+    
+      
+        
+          
+            n
+          
+        
+        
+        0
+        
+        1
+        
+      
+    
+    displaystyle mathcal n0,1
+   random variables this representation can be obtained using the karhunen–loève theorem
+the wiener process can be constructed as the scaling limit of a random walk or other discrete-time stochastic processes with stationary independent increments this is known as donskers theorem like the random walk the wiener process is recurrent in one or two dimensions meaning that it returns almost surely to any fixed neighborhood of the origin infinitely often whereas it is not recurrent in dimensions three and higher unlike the random walk it is scale invariant
+the time evolution of the position of the brownian particle itself can be described approximately by a langevin equation an equation which involves a random force field representing the effect of the thermal fluctuations of the solvent on the brownian particle on long timescales the mathematical brownian motion is well described by a langevin equation on small timescales inertial effects are prevalent in the langevin equation however the mathematical brownian motion is exempt of such inertial effects note that inertial effects have to be considered in the langevin equation otherwise the equation becomes singular so that simply removing the inertia term from this equation would not yield an exact description but rather a singular behavior in which the particle doesnt move at all
+
+
+ statistics 
+the brownian motion can be modeled by a random walk random walks in porous media or fractals are anomalous
+in the general case brownian motion is a non-markov random process and described by stochastic integral equations
+
+
+ lévy characterisation 
+the french mathematician paul lévy proved the following theorem which gives a necessary and sufficient condition for a continuous rn-valued stochastic process x to actually be n-dimensional brownian motion hence lévys condition can actually be used as an alternative definition of brownian motion
+let x  x1  xn be a continuous stochastic process on a probability space ω σ p taking values in rn then the following are equivalent
+x is a brownian motion with respect to p ie the law of x with respect to p is the same as the law of an n-dimensional brownian motion ie the push-forward measure x∗p is classical wiener measure on c00 ∞ rn
+both
+x is a martingale with respect to p and its own natural filtration and
+for all 1 ≤ i j ≤ n xitxjt −δijt is a martingale with respect to p and its own natural filtration where δij denotes the kronecker delta
+
+
+ riemannian manifold 
+
+the infinitesimal generator and hence characteristic operator of a brownian motion on rn is easily calculated to be ½δ where δ denotes the laplace operator in image processing and computer vision the laplacian operator has been used for various tasks such as blob and edge detection this observation is useful in defining brownian motion on an m-dimensional riemannian manifold m g a brownian motion on m is defined to be a diffusion on m whose characteristic operator 
+  
+    
+      
+        
+          
+            a
+          
+        
+      
+    
+    displaystyle mathcal a
+   in local coordinates xi 1 ≤ i ≤ m is given by ½δlb where δlb is the laplace–beltrami operator given in local coordinates by
+
+  
+    
+      
+        
+          δ
+          
+            
+              l
+              b
+            
+          
+        
+        
+        
+          
+            1
+            
+              det
+              
+              g
+              
+            
+          
+        
+        
+          ∑
+          
+            i
+            
+            1
+          
+          
+            m
+          
+        
+        
+          
+            ∂
+            
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+          
+        
+        
+          
+          
+            
+              
+                det
+                
+                g
+                
+              
+            
+            
+              ∑
+              
+                j
+                
+                1
+              
+              
+                m
+              
+            
+            
+              g
+              
+                i
+                j
+              
+            
+            
+              
+                ∂
+                
+                  ∂
+                  
+                    x
+                    
+                      j
+                    
+                  
+                
+              
+            
+          
+          
+        
+        
+      
+    
+    displaystyle delta mathrm lb frac 1sqrt detgsum i1mfrac partial partial xileftsqrt detgsum j1mgijfrac partial partial xjright
+  
+where gij  gij−1 in the sense of the inverse of a square matrix
+
+
+ narrow escape 
+the narrow escape problem is a ubiquitous problem in biology biophysics and cellular biology which has the following formulation a brownian particle ion molecule or protein is confined to a bounded domain a compartment or a cell by a reflecting boundary except for a small window through which it can escape the narrow escape problem is that of calculating the mean escape time this time diverges as the window shrinks thus rendering the calculation a singular perturbation problem
+
+
+ see also 
+
+
+ references 
+
+lester eli dubins  gideon schwarz 1965 on continuous martingales proceedings of the national academy of sciences
+
+
+ further reading 
+brown robert 1828 a brief account of microscopical observations made in the months of june july and august 1827 on the particles contained in the pollen of plants and on the general existence of active molecules in organic and inorganic bodies pdf philosophical magazine 4 161–173  also includes a subsequent defense by brown of his original observations additional remarks on active molecules
+chaudesaigues m 1908 le mouvement brownien et la formule deinstein brownian motion and einsteins formula comptes rendus in french 147 1044–6 
+clark p 1976 atomism versus thermodynamics in howson colin method and appraisal in the physical sciences cambridge university press isbn 0521211107 
+cohen ruben d 1986 self similarity in brownian motion and other ergodic phenomena pdf journal of chemical education 63 11 933–934 bibcode1986jched.63.933c doi10.1021ed063p933 
+einstein a 1905 über die von der molekularkinetischen theorie der wärme geforderte bewegung von in ruhenden flüssigkeiten suspendierten teilchen pdf annalen der physik in german 322 8 549–560 bibcode1905anp.322.549e doi10.1002andp.19053220806 
+einstein a 1956 investigations on the theory of brownian movement pdf new york dover isbn 0-486-60304-0 
+henri v 1908 études cinématographique du mouvement brownien cinematographic studies of brownian motion comptes rendus in french 146 1024–6 
+lucretius on the nature of things translated by william ellery leonard on-line version from project gutenberg see the heading atomic motions this translation differs slightly from the one quoted
+nelson edward 1967 dynamical theories of brownian motion pdf version of this out-of-print book from the authors webpage this is primarily a mathematical work but the first four chapters discuss the history of the topic in the era from brown to einstein
+pearle p collett b bart k bilderback d newman d samuels s 2010 what brown saw and you can too american journal of physics 78 12 1278–1289 arxiv1008.0039  bibcode2010amjph.78.1278p doi10.1119/1.3475685 
+perrin j 1909 mouvement brownien et réalité moléculaire brownian movement and molecular reality annales de chimie et de physique 8th series 18 5–114 
+see also perrins book les atomes 1914
+
+von smoluchowski m 1906 zur kinetischen theorie der brownschen molekularbewegung und der suspensionen annalen der physik 21 14 756–780 bibcode1906anp.326.756v doi10.1002andp.19063261405 
+svedberg t 1907 studien zur lehre von den kolloiden losungen 
+theile t n
+danish version om anvendelse af mindste kvadraters methode i nogle tilfælde hvor en komplikation af visse slags uensartede tilfældige fejlkilder giver fejlene en ‘systematisk’ karakter
+french version sur la compensation de quelques erreurs quasi-systématiques par la méthodes de moindre carrés published simultaneously in vidensk selsk skr 5 rk naturvid og mat afd 12381–408 1880
+
+
+ external links 
+brownian motion java simulation
+a single-molecule brownian motion diffusion simulator
+article for the school-going child
+einstein on brownian motion
+brownian motion diverse and undulating
+discusses history botany and physics of browns original observations with videos
+einsteins prediction finally witnessed one century later  a test to observe the velocity of brownian motion
+café math  brownian motion part 1  a blog article describing brownian motion definition symmetries simulation

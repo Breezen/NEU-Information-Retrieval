@@ -1,0 +1,200 @@
+arthur holly compton september 10 1892 – march 15 1962 was an american physicist who won the nobel prize in physics in 1927 for his 1923 discovery of the compton effect which demonstrated the particle nature of electromagnetic radiation it was a sensational discovery at the time the wave nature of light had been well-demonstrated but the idea that light had both wave and particle properties was not easily accepted he is also known for his leadership of the manhattan projects metallurgical laboratory and served as chancellor of washington university in st louis from 1945 to 1953
+in 1919 compton was awarded one of the first two national research council fellowships that allowed students to study abroad he chose to go to cambridge universitys cavendish laboratory in england where he studied the scattering and absorption of gamma rays further research along these lines led to the discovery of the compton effect he used x-rays to investigate ferromagnetism concluding that it was a result of the alignment of electron spins and studied cosmic rays discovering that they were made up principally of positively charged particles
+during world war ii compton was a key figure in the manhattan project that developed the first nuclear weapons his reports were important in launching the project in 1942 he became head of the metallurgical laboratory with responsibility for producing nuclear reactors to convert uranium into plutonium finding ways to separate the plutonium from the uranium and to design an atomic bomb compton oversaw enrico fermis creation of chicago pile-1 the first nuclear reactor which went critical on december 2 1942 the metallurgical laboratory was also responsible for the design and operation of the x-10 graphite reactor at oak ridge tennessee plutonium began being produced in the hanford site reactors in 1945
+after the war compton became chancellor of washington university in st louis during his tenure the university formally desegregated its undergraduate divisions named its first female full professor and enrolled a record number of students after wartime veterans returned to the united states
+
+
+ early life 
+
+arthur compton was born on september 10 1892 in wooster ohio the son of elias and otelia catherine née augspurger compton who was named american mother of the year in 1939 they were an academic family elias was dean of the university of wooster later the college of wooster which arthur also attended arthurs eldest brother karl who also attended wooster earned a phd in physics from princeton university in 1912 and was president of mit from 1930 to 1948 his second brother wilson likewise attended wooster earned his phd in economics from princeton in 1916 and was president of the state college of washington later washington state university from 1944 to 1951 all three brothers were members of the alpha tau omega fraternity
+compton was initially interested in astronomy and took a photograph of halleys comet in 1910 around 1913 he described an experiment where an examination of the motion of water in a circular tube demonstrated the rotation of the earth that year he graduated from wooster with a bachelor of science degree and entered princeton where he received his master of arts degree in 1914 compton then studied for his phd in physics under the supervision of hereward l cooke writing his dissertation on the intensity of x-ray reflection and the distribution of the electrons in atoms
+when arthur compton earned his phd in 1916 he karl and wilson became the first group of three brothers to earn phds from princeton later they would become the first such trio to simultaneously head american colleges their sister mary married a missionary c herbert rice who became the principal of forman christian college in lahore in june 1916 compton married betty charity mccloskey a wooster classmate and fellow graduate they had two sons arthur alan and john joseph compton
+compton spent a year as a physics instructor at the university of minnesota in 1916–17 then two years as a research engineer with the westinghouse lamp company in pittsburgh where he worked on the development of the sodium-vapor lamp during world war i he developed aircraft instrumentation for the signal corps
+in 1919 compton was awarded one of the first two national research council fellowships that allowed students to study abroad he chose to go to cambridge universitys cavendish laboratory in england working with george paget thomson the son of j j thomson compton studied the scattering and absorption of gamma rays he observed that the scattered rays were more easily absorbed than the original source compton was greatly impressed by the cavendish scientists especially ernest rutherford charles galton darwin and arthur eddington and he ultimately named his second son after j j thomson
+for a time compton was a deacon at a baptist church science can have no quarrel he said with a religion which postulates a god to whom men are as his children
+
+
+ physics professor 
+
+
+ compton effect 
+returning to the united states compton was appointed wayman crow professor of physics and head of the department of physics at washington university in st louis in 1920 in 1922 he found that x-ray quanta scattered by free electrons had longer wavelengths and in accordance with plancks relation less energy than the incoming x-rays the surplus energy having been transferred to the electrons this discovery known as the compton effect or compton scattering demonstrated the particle concept of electromagnetic radiation
+in 1923 compton published a paper in the physical review that explained the x-ray shift by attributing particle-like momentum to photons something einstein had invoked for his 1905 nobel prize–winning explanation of the photo-electric effect first postulated by max planck in 1900 these were conceptualized as elements of light quantized by containing a specific amount of energy depending only on the frequency of the light in his paper compton derived the mathematical relationship between the shift in wavelength and the scattering angle of the x-rays by assuming that each scattered x-ray photon interacted with only one electron his paper concludes by reporting on experiments that verified his derived relation
+
+  
+    
+      
+        
+          λ
+          ′
+        
+        −
+        λ
+        
+        
+          
+            h
+            
+              
+                m
+                
+                  e
+                
+              
+              c
+            
+          
+        
+        
+        1
+        −
+        cos
+        ⁡
+        
+          θ
+        
+        
+        
+      
+    
+    displaystyle lambda -lambda frac hmec1-cos theta 
+  
+where
+
+  
+    
+      
+        λ
+      
+    
+    displaystyle lambda 
+   is the initial wavelength
+
+  
+    
+      
+        
+          λ
+          ′
+        
+      
+    
+    displaystyle lambda 
+   is the wavelength after scattering
+
+  
+    
+      
+        h
+      
+    
+    displaystyle h
+   is the planck constant
+
+  
+    
+      
+        
+          m
+          
+            e
+          
+        
+      
+    
+    displaystyle me
+   is the electron rest mass
+
+  
+    
+      
+        c
+      
+    
+    displaystyle c
+   is the speed of light and
+
+  
+    
+      
+        θ
+      
+    
+    displaystyle theta 
+   is the scattering angle
+the quantity ​h⁄mec is known as the compton wavelength of the electron it is equal to 2.43×10−12 m the wavelength shift λ′ − λ lies between zero for θ  0° and twice the compton wavelength of the electron for θ  180° he found that some x-rays experienced no wavelength shift despite being scattered through large angles in each of these cases the photon failed to eject an electron thus the magnitude of the shift is related not to the compton wavelength of the electron but to the compton wavelength of the entire atom which can be upwards of 10,000 times smaller
+when i presented my results at a meeting of the american physical society in 1923 compton later recalled it initiated the most hotly contested scientific controversy that i have ever known the wave nature of light had been well demonstrated and the idea that it could have a dual nature was not easily accepted it was particularly telling that diffraction in a crystal lattice could only be explained with reference to its wave nature it earned compton the nobel prize in physics in 1927 compton and alfred w simon developed the method for observing at the same instant individual scattered x-ray photons and the recoil electrons in germany walther bothe and hans geiger independently developed a similar method
+
+
+ x-rays 
+
+in 1923 compton moved to the university of chicago as professor of physics a position he would occupy for the next 22 years in 1925 he demonstrated that the scattering of 130,000-volt x-rays from the first sixteen elements in the periodic table hydrogen through sulfur were polarized a result predicted by j j thomson william duane from harvard university spearheaded an effort to prove that comptons interpretation of the compton effect was wrong duane carried out a series of experiments to disprove compton but instead found evidence that compton was correct in 1924 duane conceded that this was the case
+compton investigated the effect of x-rays on the sodium and chlorine nuclei in salt he used x-rays to investigate ferromagnetism concluding that it was a result of the alignment of electron spins in 1926 he became a consultant for the lamp department at general electric in 1934 he returned to england as eastman visiting professor at oxford university while there general electric asked him to report on activities at general electric company plcs research laboratory at wembley compton was intrigued by the possibilities of the research there into fluorescent lamps his report prompted a research program in america that developed it
+comptons first book x-rays and electrons was published in 1926 in it he showed how to calculate the densities of diffracting materials from their x-ray diffraction patterns he revised his book with the help of samuel k allison to produce x-rays in theory and experiment 1935 this work remained a standard reference for the next three decades
+
+
+ cosmic rays 
+by the early 1930s compton had become interested in cosmic rays at the time their existence was known but their origin and nature remained speculative their presence could be detected using a spherical bomb containing compressed air or argon gas and measuring its electrical conductivity trips to europe india mexico peru and australia gave compton the opportunity to measure cosmic rays at different altitudes and latitudes along with other groups who made observations around the globe they found that cosmic rays were 15 per cent more intense at the poles than at the equator compton attributed this to the effect of cosmic rays being made up principally of charged particles rather than photons as robert millikan had suggested with the latitude effect being due to earths magnetic field
+
+
+ manhattan project 
+
+in april 1941 vannevar bush head of the wartime national defense research committee ndrc created a special committee headed by compton to report on the ndrc uranium program comptons report which was submitted in may 1941 foresaw the prospects of developing radiological weapons nuclear propulsion for ships and nuclear weapons using uranium-235 or the recently discovered plutonium in october he wrote another report on the practicality of an atomic bomb for this report he worked with enrico fermi on calculations of the critical mass of uranium-235 conservatively estimating it to be between 20 kilograms 44 lb and 2 tonnes 2.0 long tons 2.2 short tons he also discussed the prospects for uranium enrichment with harold urey spoke with eugene wigner about how plutonium might be produced in a nuclear reactor and with robert serber about how the plutonium produced in a reactor might be separated from uranium his report submitted in november stated that a bomb was feasible although he was more conservative about its destructive power than mark oliphant and his british colleagues
+the final draft of comptons november report made no mention of using plutonium but after discussing the latest research with ernest lawrence compton became convinced that a plutonium bomb was also feasible in december compton was placed in charge of the plutonium project he hoped to achieve a controlled chain reaction by january 1943 and to have a bomb by january 1945 to tackle the problem he had the different research groups working on plutonium and nuclear reactor design at columbia university princeton university and the university of california berkeley concentrated together as the metallurgical laboratory in chicago its objectives were to produce reactors to convert uranium to plutonium to find ways to chemically separate the plutonium from the uranium and to design and build an atomic bomb
+in june 1942 the united states army corps of engineers assumed control of the nuclear weapons program and comptons metallurgical laboratory became part of the manhattan project that month compton gave robert oppenheimer responsibility for bomb design it fell to compton to decide which of the different types of reactor designs that the metallurgical laboratory scientists had devised should be pursued even though a successful reactor had not yet been built
+when labor disputes delayed construction of the metallurgical laboratorys new home in the red gate woods compton decided to build chicago pile-1 the first nuclear reactor under the stands at stagg field under fermis direction it went critical on december 2 1942 compton arranged for mallinckrodt to undertake the purification of uranium ore and with dupont to build the plutonium semi-works at oak ridge tennessee
+a major crisis for the plutonium program occurred in july 1943 when emilio segrès group confirmed that plutonium created in the x-10 graphite reactor at oak ridge contained high levels of plutonium-240 its spontaneous fission ruled out the use of plutonium in a gun-type nuclear weapon oppenheimers los alamos laboratory met the challenge by designing and building an implosion-type nuclear weapon
+
+compton was at the hanford site in september 1944 to watch the first reactor being brought online the first batch of uranium slugs was fed into reactor b at hanford in november 1944 and shipments of plutonium to los alamos began in february 1945  throughout the war compton would remain a prominent scientific adviser and administrator in 1945 he served along with lawrence oppenheimer and fermi on the scientific panel that recommended military use of the atomic bomb against japan he was awarded the medal for merit for his services to the manhattan project
+
+
+ return to washington university 
+after the war ended compton resigned his chair as charles h swift distinguished service professor of physics at the university of chicago and returned to washington university in st louis where he was inaugurated as the universitys ninth chancellor in 1946 during comptons time as chancellor the university formally desegregated its undergraduate divisions in 1952 named its first female full professor and enrolled record numbers of students as wartime veterans returned to the united states his reputation and connections in national scientific circles allowed him to recruit many nationally renowned scientific researchers to the university despite comptons accomplishments he was criticized then and subsequently by historians for moving too slowly toward full racial integration making washington university the last major institution of higher learning in st louis to open its doors to african americans
+compton retired as chancellor in 1954 but remained on the faculty as distinguished service professor of natural philosophy until his retirement from the full-time faculty in 1961 in retirement he wrote atomic quest a personal account of his role in the manhattan project which was published in 1956
+
+
+ philosophy 
+compton was one of a handful of scientists and philosophers to propose a two-stage model of free will others include william james henri poincaré karl popper henry margenau and daniel dennett in 1931 compton championed the idea of human freedom based on quantum indeterminacy and invented the notion of amplification of microscopic quantum events to bring chance into the macroscopic world in his somewhat bizarre mechanism he imagined sticks of dynamite attached to his amplifier anticipating the schrödingers cat paradox which was published in 1935
+reacting to criticisms that his ideas made chance the direct cause of peoples actions compton clarified the two-stage nature of his idea in an atlantic monthly article in 1955 first there is a range of random possible events then one adds a determining factor in the act of choice
+
+a set of known physical conditions is not adequate to specify precisely what a forthcoming event will be these conditions insofar as they can be known define instead a range of possible events from among which some particular event will occur when one exercises freedom by his act of choice he is himself adding a factor not supplied by the physical conditions and is thus himself determining what will occur that he does so is known only to the person himself from the outside one can see in his act only the working of physical law it is the inner knowledge that he is in fact doing what he intends to do that tells the actor himself that he is free
+
+
+ death and legacy 
+
+compton died in berkeley california from a cerebral hemorrhage on march 15 1962 he was survived by his wife and sons and buried in the wooster cemetery in wooster ohio before his death he was professor-at-large at the university of california berkeley for spring 1962
+compton received many awards in his lifetime including the nobel prize for physics in 1927 the matteucci gold medal in 1933 the royal societys hughes medal and the franklin institutes benjamin franklin medal in 1940 he is commemorated in various ways the compton crater on the moon is co-named for compton and his brother karl the physics research building at washington university in st louis is named in his honor compton invented a more gentle elongated and ramped version of the speed bump called the holly hump many of which are on the roads of the washington university campus the university of chicago residence halls remembered compton and his achievements by dedicating arthur h compton house in chicago in his honor it is now listed as a national historic landmark compton also has a star on the st louis walk of fame nasas compton gamma ray observatory was named in honor of compton the compton effect is central to the gamma ray detection instruments aboard the observatory
+
+
+ bibliography 
+compton arthur 1926 x-rays and electrons an outline of recent x-ray theory new york d van nostrand company inc oclc 1871779 
+compton arthur with allison s k 1935 x-rays in theory and experiment new york d van nostrand company inc oclc 853654 
+compton arthur 1935 the freedom of man new haven yale university press oclc 5723621 
+compton arthur 1940 the human meaning of science chapel hill university of north carolina press oclc 311688 
+compton arthur 1949 mans destiny in eternity boston beacon press oclc 4739240 
+compton arthur 1956 atomic quest new york oxford university press oclc 173307 
+compton arthur 1967 johnston marjorie ed the cosmos of arthur holly compton new york alfred a knopf oclc 953130 
+compton arthur 1973 shankland robert s ed scientific papers of arthur holly compton chicago university of chicago press isbn 978-0-226-11430-9 oclc 962635 
+
+
+ notes 
+
+
+ references 
+allison samuel k 1965 arthur holly compton 1892–1962 biographical memoirs national academy of sciences 38 81–110 issn 0077-2933 oclc 1759017 
+compton arthur 1967 johnston marjorie ed the cosmos of arthur holly compton new york alfred a knopf oclc 953130 
+gamow george 1966 thirty years that shook physics the story of quantum theory garden city new york doubleday isbn 0-486-24895-x oclc 11970045 
+hewlett richard g anderson oscar e 1962 the new world 1939–1946 pdf university park pennsylvania state university press isbn 0-520-07186-7 oclc 637004643 retrieved march 26 2013 
+hockey thomas 2007 the biographical encyclopedia of astronomers springer publishing isbn 978-0-387-31022-0 oclc 263669996 retrieved august 22 2012 
+
+
+ external links 
+
+strange instrument built to solve mystery of cosmic rays april 1932 popular science article about compton on research on cosmic rays
+arthur compton biographical entry at washington university in saint louis
+annotated bibliography for arthur compton from the alsos digital library for nuclear issues
+arthur holly compton on information philosopher
+nobelprizecom biography
+biography and bibliographic resources from the office of scientific and technical information united states department of energy
+national academy of sciences biographical memoir
+arthur compton at find a grave

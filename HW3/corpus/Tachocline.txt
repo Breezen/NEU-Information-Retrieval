@@ -1,0 +1,16 @@
+the tachocline is the transition region of the sun between the radiative interior and the differentially rotating outer convective zone it is in the outer third of the sun by radius this causes the region to have a very large shear as the rotation rate changes very rapidly the convective exterior rotates as a normal fluid with differential rotation with the poles rotating slowly and the equator rotating quickly the radiative interior exhibits solid-body rotation possibly due to a fossil field the rotation rate through the interior is roughly equal to the rotation rate at mid-latitudes ie in-between the rate at the slow poles and the fast equator recent results from helioseismology indicate that the tachocline is located at a radius of at most 0.70 times the solar radius measured from the core ie the surface is at 1 solar radius with a thickness of 0.04 times the solar radius this would mean the area has a very large shear profile that is one way that large scale magnetic fields can be formed
+the geometry and width of the tachocline are thought to play an important role in models of the solar dynamo by winding up the weaker poloidal field to create a much stronger toroidal field recent radio observations of cooler stars and brown dwarfs which do not have a radiative core and only have a convective zone demonstrate that they maintain large-scale solar-strength magnetic fields and display solar-like activity despite the absence of tachoclines this suggests that the convective zone alone may be responsible for the function of the solar dynamo
+the term tachocline was coined in a paper by edward spiegel and jean-paul zahn in 1992 by analogy to the oceanic thermocline
+
+
+ references 
+
+
+ external links 
+section 3.2 from living reviews in solar physics
+
+
+ additional references 
+charbonneau p christensen-dalsgaard j henning r larsen rm schou j thompson mj tomczyk s 1999a “helioseismic constraints on the structure of the solar tachocline” astrophys j 527 445-460 2
+basu s antia hm narasimha d 1994 “helioseismic measurement of the extent of overshoot below the solar convection zone” mon not r astron soc 267 209-224 3
+hughes dw rosner r weiss no 2007 the solar tachocline 382pp cambridge university press

@@ -1,0 +1,1669 @@
+a property of a physical system such as the entropy of a gas that stays approximately constant when changes occur slowly is called an adiabatic invariant by this it is meant that if a system is varied between two end points as the time for the variation between the end points is increased to infinity the variation of an adiabatic invariant between the two end points goes to zero
+in thermodynamics an adiabatic process is a change that occurs without heat flow and slowly compared to the time to reach equilibrium in an adiabatic process the system is in equilibrium at all stages under these conditions the entropy is constant
+in mechanics an adiabatic change is a slow deformation of the hamiltonian where the fractional rate of change of the energy is much slower than the orbital frequency the area enclosed by the different motions in phase space are the adiabatic invariants
+in quantum mechanics an adiabatic change is one that occurs at a rate much slower than the difference in frequency between energy eigenstates in this case the energy states of the system do not make transitions so that the quantum number is an adiabatic invariant
+the old quantum theory was formulated by equating the quantum number of a system with its classical adiabatic invariant this determined the form of the bohr–sommerfeld quantization rule the quantum number is the area in phase space of the classical orbit
+
+
+ thermodynamics 
+in thermodynamics adiabatic changes are those that do not increase the entropy they occur slowly in comparison to the other characteristic timescales of the system of interest and allow heat flow only between objects at the same temperature for isolated systems an adiabatic change allows no heat to flow in or out
+
+
+ adiabatic expansion of an ideal gas 
+if a container with an ideal gas is expanded instantaneously the temperature of the gas doesnt change at all because none of the molecules slow down the molecules keep their kinetic energy but now the gas occupies a bigger volume if the container expands slowly however so that the ideal gas pressure law holds at any time gas molecules lose energy at the rate that they do work on the expanding wall the amount of work they do is the pressure times the area of the wall times the outward displacement which is the pressure times the change in the volume of the gas
+
+  
+    
+      
+        d
+        w
+        
+        p
+        d
+        v
+        
+        
+          
+            
+              n
+              
+                k
+                
+                  b
+                
+              
+              t
+            
+            v
+          
+        
+        d
+        v
+      
+    
+    displaystyle dwpdvnkbt over vdv
+  
+if no heat enters the gas the energy in the gas molecules is decreasing by the same amount by definition a gas is ideal when its temperature is only a function of the internal energy per particle not the volume so
+
+  
+    
+      
+        d
+        t
+        
+        
+          
+            1
+            
+              n
+              
+                c
+                
+                  v
+                
+              
+            
+          
+        
+        d
+        e
+      
+    
+    displaystyle dt1 over ncvde
+  
+where 
+  
+    
+      
+        
+          c
+          
+            v
+          
+        
+      
+    
+    displaystyle cv
+   is the specific heat at constant volume when the change in energy is entirely due to work done on the wall the change in temperature is given by
+
+  
+    
+      
+        n
+        
+          c
+          
+            v
+          
+        
+        d
+        t
+        
+        −
+        d
+        w
+        
+        −
+        
+          
+            
+              n
+              
+                
+                  k
+                  
+                    b
+                  
+                
+              
+              t
+            
+            v
+          
+        
+        d
+        v
+      
+    
+    displaystyle ncvdt-dw-nkbt over vdv
+  
+this gives a differential relationship between the changes in temperature and volume which can be integrated to find the invariant the constant 
+  
+    
+      
+        
+          k
+          
+            b
+          
+        
+      
+    
+    displaystyle kb
+   is just a unit conversion factor which can be set equal to one
+
+  
+    
+      
+        
+        d
+        
+        
+          c
+          
+            v
+          
+        
+        n
+        log
+        ⁡
+        t
+        
+        
+        −
+        d
+        
+        n
+        log
+        ⁡
+        v
+        
+      
+    
+    displaystyle dcvnlog t-dnlog v
+  
+so
+
+  
+    
+      
+        
+        
+          c
+          
+            v
+          
+        
+        n
+        log
+        ⁡
+        t
+        
+        n
+        log
+        ⁡
+        v
+      
+    
+    displaystyle cvnlog tnlog v
+  
+is an adiabatic invariant which is related to the entropy
+
+  
+    
+      
+        
+        s
+        
+        
+          c
+          
+            v
+          
+        
+        n
+        log
+        ⁡
+        t
+        
+        n
+        log
+        ⁡
+        v
+        −
+        n
+        log
+        ⁡
+        n
+        
+        n
+        log
+        ⁡
+        
+        
+          t
+          
+            
+              c
+              
+                v
+              
+            
+          
+        
+        v
+        
+          
+        
+        n
+        
+      
+    
+    displaystyle scvnlog tnlog v-nlog nnlogtcvvn
+  
+so entropy is an adiabatic invariant the n logn term makes the entropy additive so the entropy of two volumes of gas is the sum of the entropies of each one
+in a molecular interpretation s is the logarithm of the phase space volume of all gas states with energy et and volume v
+for a monatomic ideal gas this can easily be seen by writing down the energy
+
+  
+    
+      
+        e
+        
+        
+          
+            1
+            
+              2
+              m
+            
+          
+        
+        
+          ∑
+          
+            k
+          
+        
+        
+          p
+          
+            k
+            1
+          
+          
+            2
+          
+        
+        
+        
+          p
+          
+            k
+            2
+          
+          
+            2
+          
+        
+        
+        
+          p
+          
+            k
+            3
+          
+          
+            2
+          
+        
+      
+    
+    displaystyle e1 over 2msum kpk12pk22pk32
+  
+the different internal motions of the gas with total energy e define a sphere the surface of a 3n-dimensional ball with radius 
+  
+    
+      
+        
+          
+            
+              2
+              m
+              e
+            
+          
+        
+      
+    
+    displaystyle scriptstyle sqrt 2me
+   the volume of the sphere is
+
+  
+    
+      
+        
+          
+            2
+            
+              π
+              
+                3
+                n
+                
+                  
+                
+                2
+              
+            
+            
+            2
+            m
+            e
+            
+              
+              
+                
+                  
+                    3
+                    n
+                    −
+                    1
+                  
+                  2
+                
+              
+            
+          
+        
+        
+          γ
+          
+          3
+          n
+          
+            
+          
+          2
+          
+        
+      
+    
+    displaystyle 2pi 3n22me3n-1 over 2 over gamma 3n2
+  
+where 
+  
+    
+      
+        γ
+      
+    
+    displaystyle gamma 
+   is the gamma function
+since each gas molecule can be anywhere within the volume v the volume in phase space occupied by the gas states with energy e is
+
+  
+    
+      
+        
+          
+            2
+            
+              π
+              
+                3
+                n
+                
+                  
+                
+                2
+              
+            
+            
+            2
+            m
+            e
+            
+              
+              
+                
+                  
+                    3
+                    n
+                    −
+                    1
+                  
+                  2
+                
+              
+            
+          
+          
+            v
+            
+              n
+            
+          
+        
+        
+          γ
+          
+          3
+          n
+          
+            
+          
+          2
+          
+        
+      
+    
+    displaystyle 2pi 3n22me3n-1 over 2vn over gamma 3n2
+  
+since the n gas molecules are indistinguishable the phase space volume is divided by 
+  
+    
+      
+        n
+        
+        
+        γ
+        
+        n
+        
+        1
+        
+      
+    
+    displaystyle ngamma n+1
+   the number of permutations of n molecules
+using stirlings approximation for the gamma function and ignoring factors that disappear in the logarithm after taking n large
+
+  
+    
+      
+        s
+        
+        n
+        
+          
+            
+          
+        
+        3
+        
+          
+        
+        2
+        log
+        ⁡
+        
+        e
+        
+        −
+        3
+        
+          
+        
+        2
+        log
+        ⁡
+        
+        3
+        n
+        
+          
+        
+        2
+        
+        
+        log
+        ⁡
+        
+        v
+        
+        −
+        log
+        ⁡
+        
+        n
+        
+        
+          
+            
+          
+        
+      
+    
+    displaystyle snbig 3/2loge-3/2log3n2logv-lognbig 
+  
+
+  
+    
+      
+        
+        n
+        
+          
+            
+          
+        
+        3
+        
+          
+        
+        2
+        log
+        ⁡
+        
+        
+          
+            
+              2
+              3
+            
+          
+          
+            e
+            
+              
+            
+            n
+            
+            
+            log
+            ⁡
+            
+            v
+            
+              
+            
+            n
+            
+            
+              
+                
+              
+            
+          
+        
+      
+    
+    displaystyle nbig 3/2logscriptstyle frac 23displaystyle enlogvnbig 
+  
+since the specific heat of a monatomic gas is 3/2 this is the same as the thermodynamic formula for the entropy
+
+
+ wiens law – adiabatic expansion of a box of light 
+for a box of radiation ignoring quantum mechanics the energy of a classical field in thermal equilibrium is infinite since equipartition demands that each field mode has an equal energy on average and there are infinitely many modes this is physically ridiculous since it means that all energy leaks into high frequency electromagnetic waves over time
+still without quantum mechanics there are some things that can be said about the equilibrium distribution from thermodynamics alone because there is still a notion of adiabatic invariance that relates boxes of different size
+when a box is slowly expanded the frequency of the light recoiling from the wall can be computed from the doppler shift if the wall is not moving the light recoils at the same frequency if the wall is moving slowly the recoil frequency is only equal in the frame where the wall is stationary in the frame where the wall is moving away from the light the light coming in is bluer than the light coming out by twice the doppler shift factor vc
+
+  
+    
+      
+        δ
+        f
+        
+        
+          
+            
+              2
+              v
+            
+            c
+          
+        
+        f
+      
+    
+    displaystyle delta f2v over cf
+  
+on the other hand the energy in the light is also decreased when the wall is moving away because the light is doing work on the wall by radiation pressure because the light is reflected the pressure is equal to twice the momentum carried by light which is ec the rate at which the pressure does work on the wall is found by multiplying by the velocity
+
+  
+    
+      
+        
+        δ
+        e
+        
+        v
+        
+          
+            
+              2
+              e
+            
+            c
+          
+        
+      
+    
+    displaystyle delta ev2e over c
+  
+this means that the change in frequency of the light is equal to the work done on the wall by the radiation pressure the light that is reflected is changed both in frequency and in energy by the same amount
+
+  
+    
+      
+        
+          
+            
+              δ
+              f
+            
+            f
+          
+        
+        
+        
+          
+            
+              δ
+              e
+            
+            e
+          
+        
+      
+    
+    displaystyle delta f over fdelta e over e
+  
+since moving the wall slowly should keep a thermal distribution fixed the probability that the light has energy e at frequency f must only be a function of ef
+this function cannot be determined from thermodynamic reasoning alone and wien guessed at the form that was valid at high frequency he supposed that the average energy in high frequency modes was suppressed by a boltzmann-like factor this is not the expected classical energy in the mode which is 
+  
+    
+      
+        1
+        
+          
+        
+        2
+        β
+      
+    
+    displaystyle 1/2beta 
+   by equipartition but a new and unjustified assumption that fit the high-frequency data
+
+  
+    
+      
+        
+        ⟨
+        
+          e
+          
+            f
+          
+        
+        ⟩
+        
+        
+          e
+          
+            −
+            β
+            h
+            f
+          
+        
+      
+    
+    displaystyle langle efrangle e-beta hf
+  
+when the expectation value is added over all modes in a cavity this is wiens distribution and it describes the thermodynamic distribution of energy in a classical gas of photons wiens law implicitly assumes that light is statistically composed of packets that change energy and frequency in the same way the entropy of a wien gas scales as the volume to the power n where n is the number of packets this led einstein to suggest that light is composed of localizable particles with energy proportional to the frequency then the entropy of the wien gas can be given a statistical interpretation as the number of possible positions that the photons can be in
+
+
+ classical mechanics – action variables 
+suppose that a hamiltonian is slowly time varying for example a one-dimensional harmonic oscillator with a changing frequency
+
+  
+    
+      
+        
+          h
+          
+            t
+          
+        
+        
+        p
+        
+        x
+        
+        
+        
+          
+            
+              p
+              
+                2
+              
+            
+            
+              2
+              m
+            
+          
+        
+        
+        
+          
+            
+              m
+              ω
+              
+              t
+              
+                
+                
+                  2
+                
+              
+              
+                x
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        
+      
+    
+    displaystyle htpxp2 over 2mmomega t2x2 over 2
+  
+the action j of a classical orbit is the area enclosed by the orbit in phase space
+
+  
+    
+      
+        j
+        
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        p
+        
+        t
+        
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              t
+            
+          
+        
+        d
+        t
+        
+      
+    
+    displaystyle jint 0tptdx over dtdt
+  
+since j is an integral over a full period it is only a function of the energy when the hamiltonian is constant in time and j is constant in time the canonically conjugate variable 
+  
+    
+      
+        θ
+      
+    
+    displaystyle theta 
+   increases in time at a steady rate
+
+  
+    
+      
+        
+          
+            
+              d
+              θ
+            
+            
+              d
+              t
+            
+          
+        
+        
+        
+          
+            
+              ∂
+              h
+            
+            
+              ∂
+              j
+            
+          
+        
+        
+        
+          h
+          ′
+        
+        
+        j
+        
+        
+      
+    
+    displaystyle dtheta  over dtpartial h over partial jhj
+  
+so the constant 
+  
+    
+      
+        
+          h
+          ′
+        
+      
+    
+    displaystyle h
+   can be used to change time derivatives along the orbit to partial derivatives with respect to 
+  
+    
+      
+        θ
+      
+    
+    displaystyle theta 
+   at constant j differentiating the integral for j with respect to j gives an identity that fixes 
+  
+    
+      
+        
+          h
+          ′
+        
+        
+      
+    
+    displaystyle h
+  
+
+  
+    
+      
+        
+          
+            
+              d
+              j
+            
+            
+              d
+              j
+            
+          
+        
+        
+        1
+        
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              ∂
+              p
+            
+            
+              ∂
+              j
+            
+          
+        
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              t
+            
+          
+        
+        
+        p
+        
+          
+            ∂
+            
+              ∂
+              j
+            
+          
+        
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              t
+            
+          
+        
+        
+          
+            
+          
+        
+        d
+        t
+        
+        
+          h
+          ′
+        
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              ∂
+              p
+            
+            
+              ∂
+              j
+            
+          
+        
+        
+          
+            
+              ∂
+              x
+            
+            
+              ∂
+              θ
+            
+          
+        
+        −
+        
+          
+            
+              ∂
+              p
+            
+            
+              ∂
+              θ
+            
+          
+        
+        
+          
+            
+              ∂
+              x
+            
+            
+              ∂
+              j
+            
+          
+        
+        
+          
+            
+          
+        
+        d
+        t
+        
+      
+    
+    displaystyle dj over dj1int 0tbigg partial p over partial jdx over dtppartial  over partial jdx over dtbigg dthint 0tbigg partial p over partial jpartial x over partial theta -partial p over partial theta partial x over partial jbigg dt
+  
+the integrand is the poisson bracket of x and p the poisson bracket of two canonically conjugate quantities like x and p is equal to 1 in any canonical coordinate system so
+
+  
+    
+      
+        1
+        
+        
+          h
+          ′
+        
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        
+        x
+        
+        p
+        
+        d
+        t
+        
+        
+          h
+          ′
+        
+        t
+        
+      
+    
+    displaystyle 1hint 0txpdtht
+  
+and 
+  
+    
+      
+        
+          h
+          ′
+        
+      
+    
+    displaystyle h
+   is the inverse period the variable 
+  
+    
+      
+        θ
+      
+    
+    displaystyle theta 
+   increases by an equal amount in each period for all values of j – it is an angle-variable
+adiabatic invariance of j
+the hamiltonian is a function of j only and in the simple case of the harmonic oscillator
+
+  
+    
+      
+        
+        h
+        
+        ω
+        j
+        
+      
+    
+    displaystyle homega j
+  
+when h has no time dependence j is constant when h is slowly time varying the rate of change of j can be computed by re-expressing the integral for j
+
+  
+    
+      
+        j
+        
+        
+          ∫
+          
+            0
+          
+          
+            2
+            π
+          
+        
+        p
+        
+          
+            
+              ∂
+              x
+            
+            
+              ∂
+              θ
+            
+          
+        
+        d
+        θ
+        
+      
+    
+    displaystyle jint 02pi ppartial x over partial theta dtheta 
+  
+the time derivative of this quantity is
+
+  
+    
+      
+        
+          
+            
+              d
+              j
+            
+            
+              d
+              t
+            
+          
+        
+        
+        
+          ∫
+          
+            0
+          
+          
+            2
+            π
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              d
+              p
+            
+            
+              d
+              t
+            
+          
+        
+        
+          
+            
+              ∂
+              x
+            
+            
+              ∂
+              θ
+            
+          
+        
+        
+        p
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        
+          
+            
+              ∂
+              x
+            
+            
+              ∂
+              θ
+            
+          
+        
+        
+          
+            
+          
+        
+        d
+        θ
+        
+      
+    
+    displaystyle dj over dtint 02pi bigg dp over dtpartial x over partial theta pd over dtpartial x over partial theta bigg dtheta 
+  
+replacing time derivatives with theta derivatives using 
+  
+    
+      
+        d
+        θ
+        
+        ω
+        d
+        t
+        
+      
+    
+    displaystyle dtheta omega dt
+   and setting 
+  
+    
+      
+        ω
+        
+        1
+        
+      
+    
+    displaystyle omega 1
+   without loss of generality 
+  
+    
+      
+        ω
+      
+    
+    displaystyle omega 
+   being a global multiplicative constant in the resulting time derivative of the action yields
+
+  
+    
+      
+        
+          
+            
+              d
+              j
+            
+            
+              d
+              t
+            
+          
+        
+        
+        
+          ∫
+          
+            0
+          
+          
+            2
+            π
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              ∂
+              p
+            
+            
+              ∂
+              θ
+            
+          
+        
+        
+          
+            
+              ∂
+              x
+            
+            
+              ∂
+              θ
+            
+          
+        
+        
+        p
+        
+          
+            ∂
+            
+              ∂
+              θ
+            
+          
+        
+        
+          
+            
+              ∂
+              x
+            
+            
+              ∂
+              θ
+            
+          
+        
+        
+          
+            
+          
+        
+        d
+        θ
+        
+      
+    
+    displaystyle dj over dtint 02pi bigg partial p over partial theta partial x over partial theta ppartial  over partial theta partial x over partial theta bigg dtheta 
+  
+so as long as the coordinates j 
+  
+    
+      
+        θ
+      
+    
+    displaystyle theta 
+   do not change appreciably over one period this expression can be integrated by parts to give zero this means that for slow variations there is no lowest order change in the area enclosed by the orbit this is the adiabatic invariance theorem – the action variables are adiabatic invariants
+for a harmonic oscillator the area in phase space of an orbit at energy e is the area of the ellipse of constant energy
+
+  
+    
+      
+        e
+        
+        
+          
+            
+              p
+              
+                2
+              
+            
+            
+              2
+              m
+            
+          
+        
+        
+        
+          
+            
+              m
+              
+                ω
+                
+                  2
+                
+              
+              
+                x
+                
+                  2
+                
+              
+            
+            2
+          
+        
+        
+      
+    
+    displaystyle ep2 over 2mmomega 2x2 over 2
+  
+the x-radius of this ellipse is 
+  
+    
+      
+        
+          
+            
+              2
+              e
+              
+                
+              
+              
+                ω
+                
+                  2
+                
+              
+              m
+            
+          
+        
+      
+    
+    displaystyle scriptstyle sqrt 2eomega 2m
+   while the p-radius of the ellipse is 
+  
+    
+      
+        
+          
+            
+              2
+              m
+              e
+            
+          
+        
+      
+    
+    displaystyle scriptstyle sqrt 2me
+   multiplying the area is 
+  
+    
+      
+        2
+        π
+        e
+        
+          
+        
+        ω
+      
+    
+    displaystyle 2pi eomega 
+   so if a pendulum is slowly drawn in so that the frequency changes the energy changes by a proportional amount
+
+
+ old quantum theory 
+after planck identified that wiens law can be extended to all frequencies even very low ones by interpolating with the classical equipartition law for radiation physicists wanted to understand the quantum behavior of other systems
+the planck radiation law quantized the motion of the field oscillators in units of energy proportional to the frequency
+
+  
+    
+      
+        e
+        
+        h
+        f
+        
+        ℏ
+        ω
+        
+      
+    
+    displaystyle ehfhbar omega 
+  
+the quantum can only depend on the energyfrequency by adiabatic invariance and since the energy must be additive when putting boxes end to end the levels must be equally spaced
+einstein followed by debye extended the domain of quantum mechanics by considering the sound modes in a solid as quantized oscillators this model explained why the specific heat of solids approached zero at low temperatures instead of staying fixed at 
+  
+    
+      
+        3
+        
+          k
+          
+            b
+          
+        
+      
+    
+    displaystyle 3kb
+   as predicted by classical equipartition
+at the solvay conference the question of quantizing other motions was raised and lorentz pointed out a problem if you consider a quantum pendulum whose string is shortened very slowly the quantum number of the pendulum cannot change because at no point is there a high enough frequency to cause a transition between the states but the frequency of the pendulum changes when the string is shorter so the quantum states change energy
+einstein responded that for slow pulling the frequency and energy of the pendulum both change but the ratio stays fixed this is analogous to wiens observation that under slow motion of the wall the energy to frequency ratio of reflected waves is constant the conclusion was that the quantities to quantize must be adiabatic invariants
+this line of argument was extended by sommerfeld into a general theory the quantum number of an arbitrary mechanical system is given by the adiabatic action variable since the action variable in the harmonic oscillator is an integer the general condition is
+
+  
+    
+      
+        ∫
+        p
+        d
+        q
+        
+        n
+        h
+        
+      
+    
+    displaystyle int pdqnh
+  
+this condition was the foundation of the old quantum theory which was able to predict the qualitative behavior of atomic systems the theory is inexact for small quantum numbers since it mixes classical and quantum concepts but it was a useful half-way step to the new quantum theory
+
+
+ plasma physics 
+in plasma physics there are three adiabatic invariants of charged particle motion
+
+
+ the first adiabatic invariant μ 
+the magnetic moment of a gyrating particle
+
+  
+    
+      
+        μ
+        
+        
+          
+            
+              m
+              
+                v
+                
+                  ⊥
+                
+                
+                  2
+                
+              
+            
+            
+              2
+              b
+            
+          
+        
+      
+    
+    displaystyle mu frac mvperp 22b
+  
+is a constant of the motion to all orders in an expansion in 
+  
+    
+      
+        ω
+        
+          
+        
+        
+          ω
+          
+            c
+          
+        
+      
+    
+    displaystyle omega omega c
+   where 
+  
+    
+      
+        ω
+      
+    
+    displaystyle omega 
+   is the rate of any changes experienced by the particle eg due to collisions or due to temporal or spatial variations in the magnetic field consequently the magnetic moment remains nearly constant even for changes at rates approaching the gyrofrequency when μ is constant the perpendicular particle energy is proportional to b so the particles can be heated by increasing b but this is a one shot deal because the field cannot be increased indefinitely it finds applications in magnetic mirrors and magnetic bottles
+there are some important situations in which the magnetic moment is not invariant
+magnetic pumping if the collision frequency is larger than the pump frequency μ is no longer conserved in particular collisions allow net heating by transferring some of the perpendicular energy to parallel energy
+cyclotron heating if b is oscillated at the cyclotron frequency the condition for adiabatic invariance is violated and heating is possible in particular the induced electric field rotates in phase with some of the particles and continuously accelerates them
+magnetic cusps the magnetic field at the center of a cusp vanishes so the cyclotron frequency is automatically smaller than the rate of any changes thus the magnetic moment is not conserved and particles are scattered relatively easily into the loss cone
+
+
+ the second adiabatic invariant j 
+the longitudinal invariant of a particle trapped in a magnetic mirror
+
+  
+    
+      
+        j
+        
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        
+          p
+          
+            ∥
+          
+        
+        d
+        s
+      
+    
+    displaystyle jint abpparallel ds
+  
+where the integral is between the two turning points is also an adiabatic invariant this guarantees for example that a particle in the magnetosphere moving around the earth always returns to the same line of force the adiabatic condition is violated in transit-time magnetic pumping where the length of a magnetic mirror is oscillated at the bounce frequency resulting in net heating
+
+
+ the third adiabatic invariant φ 
+the total magnetic flux φ enclosed by a drift surface is the third adiabatic invariant associated with the periodic motion of mirror-trapped particles drifting around the axis of the system because this drift motion is relatively slow φ is often not conserved in practical applications
+
+
+ references 
+
+yourgrau wolfgang stanley mandelstam 1979 variational principles in dynamics and quantum theory new york dover isbn 0-486-63773-5  §10
+pauli wolfgang 1973 charles p enz ed pauli lectures on physics 4 cambridge mass mit press isbn 0-262-66035-0  pp 85–89
+
+
+ external links 
+lecture notes on the second adiabatic invariant
+lecture notes on the third adiabatic invariant

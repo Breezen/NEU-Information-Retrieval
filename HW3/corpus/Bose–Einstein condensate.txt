@@ -1,0 +1,1560 @@
+a bose–einstein condensate bec is a state of matter of a dilute gas of bosons cooled to temperatures very close to absolute zero under such conditions a large fraction of bosons occupy the lowest quantum state at which point microscopic quantum phenomena particularly wavefunction interference become apparent a bec is formed by cooling a gas of extremely low density about one-hundred-thousandth the density of normal air to ultra-low temperatures
+this state was first predicted generally in 1924–25 by satyendra nath bose and albert einstein
+
+
+ history 
+
+satyendra nath bose first sent a paper to einstein on the quantum statistics of light quanta now called photons in which he derived plancks quantum radiation law without any reference to classical physics einstein was impressed translated the paper himself from english to german and submitted it for bose to the zeitschrift für physik which published it in 1924 the einstein manuscript once believed to be lost was found in a library at leiden university in 2005 einstein then extended boses ideas to matter in two other papers the result of their efforts is the concept of a bose gas governed by bose–einstein statistics which describes the statistical distribution of identical particles with integer spin now called bosons bosons which include the photon as well as atoms such as helium-4 4he are allowed to share a quantum state einstein proposed that cooling bosonic atoms to a very low temperature would cause them to fall or condense into the lowest accessible quantum state resulting in a new form of matter
+in 1938 fritz london proposed bec as a mechanism for superfluidity in 4he and superconductivity
+on june 5 1995 the first gaseous condensate was produced by eric cornell and carl wieman at the university of colorado at boulder nist–jila lab in a gas of rubidium atoms cooled to 170 nanokelvins nk shortly thereafter wolfgang ketterle at mit demonstrated important bec properties for their achievements cornell wieman and ketterle received the 2001 nobel prize in physics
+many isotopes were soon condensed then molecules quasi-particles and photons in 2010
+
+
+ critical temperature 
+this transition to bec occurs below a critical temperature which for a uniform three-dimensional gas consisting of non-interacting particles with no apparent internal degrees of freedom is given by
+
+  
+    
+      
+        
+          t
+          
+            c
+          
+        
+        
+        
+          
+            
+            
+              
+                n
+                
+                  ζ
+                  
+                  3
+                  
+                    
+                  
+                  2
+                  
+                
+              
+            
+            
+          
+          
+            2
+            
+              
+            
+            3
+          
+        
+        
+          
+            
+              2
+              π
+              
+                ℏ
+                
+                  2
+                
+              
+            
+            
+              m
+              
+                k
+                
+                  b
+                
+              
+            
+          
+        
+        ≈
+        3.3125
+         
+        
+          
+            
+              
+                ℏ
+                
+                  2
+                
+              
+              
+                n
+                
+                  2
+                  
+                    
+                  
+                  3
+                
+              
+            
+            
+              m
+              
+                k
+                
+                  b
+                
+              
+            
+          
+        
+      
+    
+    displaystyle tcleftfrac nzeta 3/2right2/3frac 2pi hbar 2mkbapprox 3.3125 frac hbar 2n2/3mkb
+  
+where
+
+interactions shift the value and the corrections can be calculated by mean-field theory
+this formula is derived from finding the gas degeneracy in the bose gas using bose–einstein statistics
+
+
+ models 
+
+
+ bose einsteins non-interacting gas 
+consider a collection of n noninteracting particles which can each be in one of two quantum states 
+  
+    
+      
+        
+          
+            
+          
+          0
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 0rangle 
+   and 
+  
+    
+      
+        
+          
+            
+          
+          1
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 1rangle 
+   if the two states are equal in energy each different configuration is equally likely
+if we can tell which particle is which there are 
+  
+    
+      
+        
+          2
+          
+            n
+          
+        
+      
+    
+    displaystyle 2n
+   different configurations since each particle can be in 
+  
+    
+      
+        
+          
+            
+          
+          0
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 0rangle 
+   or 
+  
+    
+      
+        
+          
+            
+          
+          1
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 1rangle 
+   independently in almost all of the configurations about half the particles are in 
+  
+    
+      
+        
+          
+            
+          
+          0
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 0rangle 
+   and the other half in 
+  
+    
+      
+        
+          
+            
+          
+          1
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 1rangle 
+   the balance is a statistical effect the number of configurations is largest when the particles are divided equally
+if the particles are indistinguishable however there are only n+1 different configurations if there are k particles in state 
+  
+    
+      
+        
+          
+            
+          
+          1
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 1rangle 
+   there are n − k particles in state 
+  
+    
+      
+        
+          
+            
+          
+          0
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 0rangle 
+   whether any particular particle is in state 
+  
+    
+      
+        
+          
+            
+          
+          0
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 0rangle 
+   or in state 
+  
+    
+      
+        
+          
+            
+          
+          1
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 1rangle 
+   cannot be determined so each value of k determines a unique quantum state for the whole system
+suppose now that the energy of state 
+  
+    
+      
+        
+          
+            
+          
+          1
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 1rangle 
+   is slightly greater than the energy of state 
+  
+    
+      
+        
+          
+            
+          
+          0
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 0rangle 
+   by an amount e at temperature t a particle will have a lesser probability to be in state 
+  
+    
+      
+        
+          
+            
+          
+          1
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 1rangle 
+   by 
+  
+    
+      
+        
+          e
+          
+            −
+            e
+            
+              
+            
+            k
+            t
+          
+        
+      
+    
+    displaystyle e-ekt
+   in the distinguishable case the particle distribution will be biased slightly towards state 
+  
+    
+      
+        
+          
+            
+          
+          0
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 0rangle 
+   but in the indistinguishable case since there is no statistical pressure toward equal numbers the most-likely outcome is that most of the particles will collapse into state 
+  
+    
+      
+        
+          
+            
+          
+          0
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 0rangle 
+  
+in the distinguishable case for large n the fraction in state 
+  
+    
+      
+        
+          
+            
+          
+          0
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle 0rangle 
+   can be computed it is the same as flipping a coin with probability proportional to p  exp−et to land tails
+in the indistinguishable case each value of k is a single state which has its own separate boltzmann probability so the probability distribution is exponential
+
+  
+    
+      
+        
+        p
+        
+        k
+        
+        
+        c
+        
+          e
+          
+            −
+            k
+            e
+            
+              
+            
+            t
+          
+        
+        
+        c
+        
+          p
+          
+            k
+          
+        
+        
+      
+    
+    displaystyle pkce-ketcpk
+  
+for large n the normalization constant c is 1 − p the expected total number of particles not in the lowest energy state in the limit that 
+  
+    
+      
+        
+          n
+          →
+          ∞
+        
+      
+    
+    displaystyle scriptstyle nrightarrow infty 
+   is equal to 
+  
+    
+      
+        
+          
+            ∑
+            
+              n
+              
+              0
+            
+          
+          c
+          n
+          
+            p
+            
+              n
+            
+          
+          
+          p
+          
+            
+          
+          
+          1
+          −
+          p
+          
+        
+      
+    
+    displaystyle scriptstyle sum n0cnpnp1-p
+   it does not grow when n is large it just approaches a constant this will be a negligible fraction of the total number of particles so a collection of enough bose particles in thermal equilibrium will mostly be in the ground state with only a few in any excited state no matter how small the energy difference
+consider now a gas of particles which can be in different momentum states labeled 
+  
+    
+      
+        
+          
+            
+          
+          k
+          ⟩
+        
+      
+    
+    displaystyle scriptstyle krangle 
+   if the number of particles is less than the number of thermally accessible states for high temperatures and low densities the particles will all be in different states in this limit the gas is classical as the density increases or the temperature decreases the number of accessible states per particle becomes smaller and at some point more particles will be forced into a single state than the maximum allowed for that state by statistical weighting from this point on any extra particle added will go into the ground state
+to calculate the transition temperature at any density integrate over all momentum states the expression for maximum number of excited particles p1 − p
+
+  
+    
+      
+        
+        n
+        
+        v
+        ∫
+        
+          
+            
+              
+                d
+                
+                  3
+                
+              
+              k
+            
+            
+              
+              2
+              π
+              
+                
+                
+                  3
+                
+              
+            
+          
+        
+        
+          
+            
+              p
+              
+              k
+              
+            
+            
+              1
+              −
+              p
+              
+              k
+              
+            
+          
+        
+        
+        v
+        ∫
+        
+          
+            
+              
+                d
+                
+                  3
+                
+              
+              k
+            
+            
+              
+              2
+              π
+              
+                
+                
+                  3
+                
+              
+            
+          
+        
+        
+          
+            1
+            
+              
+                e
+                
+                  
+                    
+                      k
+                      
+                        2
+                      
+                    
+                    
+                      2
+                      m
+                      t
+                    
+                  
+                
+              
+              −
+              1
+            
+          
+        
+      
+    
+    displaystyle nvint d3k over 2pi 3pk over 1-pkvint d3k over 2pi 31 over ek2 over 2mt-1
+  
+
+  
+    
+      
+        
+        p
+        
+        k
+        
+        
+        
+          e
+          
+            
+              
+                −
+                
+                  k
+                  
+                    2
+                  
+                
+              
+              
+                2
+                m
+                t
+              
+            
+          
+        
+        
+      
+    
+    displaystyle pke-k2 over 2mt
+  
+when the integral is evaluated with factors of kb and ℏ restored by dimensional analysis it gives the critical temperature formula of the preceding section therefore this integral defines the critical temperature and particle number corresponding to the conditions of negligible chemical potential in bose–einstein statistics distribution μ is actually still nonzero for becs however μ is less than the ground state energy except when specifically talking about the ground state μ can be approximated for most energy or momentum states as μ ≈ 0
+
+
+ bogoliubov theory for weakly interacting gas 
+bogoliubov considered perturbations on the limit of dilute gas finding a finite pressure at zero temperature and positive chemical potential this leads to corrections for the ground state the bogoliubov state has pressure t  0 
+  
+    
+      
+        p
+        
+        g
+        
+          
+        
+        2
+        
+          n
+          
+            2
+          
+        
+      
+    
+    displaystyle pg2n2
+  
+the original interacting system can be converted to a system of non-interacting particles with a dispersion law
+
+
+ gross–pitaevskii equation 
+
+in some simplest cases the state of condensed particles can be described with a nonlinear schrödinger equation also known as gross–pitaevskii or ginzburg–landau equation the validity of this approach is actually limited to the case of ultracold temperatures which fits well for the most alkali atoms experiments
+this approach originates from the assumption that the state of the bec can be described by the unique wavefunction of the condensate 
+  
+    
+      
+        ψ
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+      
+    
+    displaystyle psi vec r
+   for a system of this nature 
+  
+    
+      
+        
+          
+        
+        ψ
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+        
+          
+            
+          
+          
+            2
+          
+        
+      
+    
+    displaystyle psi vec r2
+   is interpreted as the particle density so the total number of atoms is 
+  
+    
+      
+        n
+        
+        ∫
+        d
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+          
+        
+        ψ
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+        
+          
+            
+          
+          
+            2
+          
+        
+      
+    
+    displaystyle nint dvec rpsi vec r2
+  
+provided essentially all atoms are in the condensate that is have condensed to the ground state and treating the bosons using mean field theory the energy e associated with the state 
+  
+    
+      
+        ψ
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+      
+    
+    displaystyle psi vec r
+   is
+
+  
+    
+      
+        e
+        
+        ∫
+        d
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+          
+          
+            
+              
+                
+                  ℏ
+                  
+                    2
+                  
+                
+                
+                  2
+                  m
+                
+              
+            
+            
+              
+            
+            ∇
+            ψ
+            
+            
+              
+                
+                  r
+                  →
+                
+              
+            
+            
+            
+              
+                
+              
+              
+                2
+              
+            
+            
+            v
+            
+            
+              
+                
+                  r
+                  →
+                
+              
+            
+            
+            
+              
+            
+            ψ
+            
+            
+              
+                
+                  r
+                  →
+                
+              
+            
+            
+            
+              
+                
+              
+              
+                2
+              
+            
+            
+            
+              
+                1
+                2
+              
+            
+            
+              u
+              
+                0
+              
+            
+            
+              
+            
+            ψ
+            
+            
+              
+                
+                  r
+                  →
+                
+              
+            
+            
+            
+              
+                
+              
+              
+                4
+              
+            
+          
+          
+        
+      
+    
+    displaystyle eint dvec rleftfrac hbar 22mnabla psi vec r2vvec rpsi vec r2frac 12u0psi vec r4right
+  
+minimizing this energy with respect to infinitesimal variations in 
+  
+    
+      
+        ψ
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+      
+    
+    displaystyle psi vec r
+   and holding the number of atoms constant yields the gross–pitaevski equation gpe also a non-linear schrödinger equation
+
+  
+    
+      
+        i
+        ℏ
+        
+          
+            
+              ∂
+              ψ
+              
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        
+        
+          
+          
+            −
+            
+              
+                
+                  
+                    ℏ
+                    
+                      2
+                    
+                  
+                  
+                    ∇
+                    
+                      2
+                    
+                  
+                
+                
+                  2
+                  m
+                
+              
+            
+            
+            v
+            
+            
+              
+                
+                  r
+                  →
+                
+              
+            
+            
+            
+            
+              u
+              
+                0
+              
+            
+            
+              
+            
+            ψ
+            
+            
+              
+                
+                  r
+                  →
+                
+              
+            
+            
+            
+              
+                
+              
+              
+                2
+              
+            
+          
+          
+        
+        ψ
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+      
+    
+    displaystyle ihbar frac partial psi vec rpartial tleft-frac hbar 2nabla 22mvvec ru0psi vec r2rightpsi vec r
+  
+where
+
+in the case of zero external potential the dispersion law of interacting bose–einstein-condensed particles is given by so-called bogoliubov spectrum for 
+  
+    
+      
+         
+        t
+        
+        0
+      
+    
+    displaystyle  t0
+  
+
+  
+    
+      
+        
+          
+            ω
+            
+              p
+            
+          
+        
+        
+        
+          
+            
+              
+                
+                  p
+                  
+                    2
+                  
+                
+                
+                  2
+                  m
+                
+              
+            
+            
+              
+              
+                
+                  
+                    
+                      p
+                      
+                        2
+                      
+                    
+                    
+                      2
+                      m
+                    
+                  
+                
+                
+                2
+                
+                  
+                    u
+                    
+                      0
+                    
+                  
+                
+                
+                  
+                    n
+                    
+                      0
+                    
+                  
+                
+              
+              
+            
+          
+        
+      
+    
+    displaystyle omega psqrt frac p22mleftfrac p22m+2u0n0right
+  
+the gross-pitaevskii equation gpe provides a relatively good description of the behavior of atomic becs however gpe does not take into account the temperature dependence of dynamical variables and is therefore valid only for 
+  
+    
+      
+         
+        t
+        
+        0
+      
+    
+    displaystyle  t0
+   it is not applicable for example for the condensates of excitons magnons and photons where the critical temperature is up to room one
+
+
+ weaknesses of gross–pitaevskii model 
+the gross–pitaevskii model of bec is a physical approximation valid for certain classes of becs by construction the gpe uses the following simplifications it assumes that interactions between condensate particles are of the contact two-body type and also neglects anomalous contributions to self-energy these assumptions are suitable mostly for the dilute three-dimensional condensates if one relaxes any of these assumptions the equation for the condensate wavefunction acquires the terms containing higher-order powers of the wavefunction moreover for some physical systems the amount of such terms turns out to be infinite therefore the equation becomes essentially non-polynomial the examples where this could happen are the bose–fermi composite condensates effectively lower-dimensional condensates and dense condensates and superfluid clusters and droplets
+
+
+ other 
+however it is clear that in a general case the behaviour of bose–einstein condensate can be described by coupled evolution equations for condensate density superfluid velocity and distribution function of elementary excitations this problem was in 1977 by peletminskii et al in microscopical approach the peletminskii equations are valid for any finite temperatures below the critical point years after in 1985 kirkpatrick and dorfman obtained similar equations using another microscopical approach the peletminskii equations also reproduce khalatnikov hydrodynamical equations for superfluid as a limiting case
+
+
+ superfluidity of bec and landau criterion 
+the phenomena of superfluidity of a bose gas and superconductivity of a strongly-correlated fermi gas a gas of cooper pairs are tightly connected to bose–einstein condensation under corresponding conditions below the temperature of phase transition these phenomena were observed in helium-4 and different classes of superconductors in this sense the superconductivity is often called the superfluidity of fermi gas in the simplest form the origin of superfluidity can be seen from the weakly interacting bosons model
+
+
+ experimental observation 
+
+
+ superfluid he-4 
+in 1938 pyotr kapitsa john allen and don misener discovered that helium-4 became a new kind of fluid now known as a superfluid at temperatures less than 2.17 k the lambda point superfluid helium has many unusual properties including zero viscosity the ability to flow without dissipating energy and the existence of quantized vortices it was quickly believed that the superfluidity was due to partial bose–einstein condensation of the liquid in fact many properties of superfluid helium also appear in gaseous condensates created by cornell wieman and ketterle see below superfluid helium-4 is a liquid rather than a gas which means that the interactions between the atoms are relatively strong the original theory of bose–einstein condensation must be heavily modified in order to describe it bose–einstein condensation remains however fundamental to the superfluid properties of helium-4 note that helium-3 a fermion also enters a superfluid phase at a much lower temperature which can be explained by the formation of bosonic cooper pairs of two atoms see also fermionic condensate
+
+
+ gaseous 
+the first pure bose–einstein condensate was created by eric cornell carl wieman and co-workers at jila on 5 june 1995 they cooled a dilute vapor of approximately two thousand rubidium-87 atoms to below 170 nk using a combination of laser cooling a technique that won its inventors steven chu claude cohen-tannoudji and william d phillips the 1997 nobel prize in physics and magnetic evaporative cooling about four months later an independent effort led by wolfgang ketterle at mit condensed sodium-23 ketterles condensate had a hundred times more atoms allowing important results such as the observation of quantum mechanical interference between two different condensates cornell wieman and ketterle won the 2001 nobel prize in physics for their achievements
+a group led by randall hulet at rice university announced a condensate of lithium atoms only one month following the jila work lithium has attractive interactions causing the condensate to be unstable and collapse for all but a few atoms hulets team subsequently showed the condensate could be stabilized by confinement quantum pressure for up to about 1000 atoms various isotopes have since been condensed
+
+
+ velocity-distribution data graph 
+in the image accompanying this article the velocity-distribution data indicates the formation of a bose–einstein condensate out of a gas of rubidium atoms the false colors indicate the number of atoms at each velocity with red being the fewest and white being the most the areas appearing white and light blue are at the lowest velocities the peak is not infinitely narrow because of the heisenberg uncertainty principle spatially confined atoms have a minimum width velocity distribution this width is given by the curvature of the magnetic potential in the given direction more tightly confined directions have bigger widths in the ballistic velocity distribution this anisotropy of the peak on the right is a purely quantum-mechanical effect and does not exist in the thermal distribution on the left this graph served as the cover design for the 1999 textbook thermal physics by ralph baierlein
+
+
+ quasiparticles 
+
+bose–einstein condensation also applies to quasiparticles in solids magnons excitons and polaritons have integer spin which means they are bosons that can form condensates
+magnons electron spin waves can be controlled by a magnetic field densities from the limit of a dilute gas to a strongly interacting bose liquid are possible magnetic ordering is the analog of superfluidity in 1999 condensation was demonstrated in antiferromagnetic tlcucl3 at temperatures as large as 14 k the high transition temperature relative to atomic gases is due to the magnons small mass near an electron and greater achievable density in 2006 condensation in a ferromagnetic yttrium-iron-garnet thin film was seen even at room temperature with optical pumping
+excitons electron-hole pairs were predicted to condense at low temperature and high density by boer et al in 1961 bilayer system experiments first demonstrated condensation in 2003 by hall voltage disappearance fast optical exciton creation was used to form condensates in sub-kelvin cu2o in 2005 on
+polariton condensation was firstly detected for exciton-polaritons in a quantum well microcavity kept at 5 k
+
+
+ peculiar properties 
+
+
+ vortices 
+as in many other systems vortices can exist in becs these can be created for example by stirring the condensate with lasers or rotating the confining trap the vortex created will be a quantum vortex these phenomena are allowed for by the non-linear 
+  
+    
+      
+        
+          
+        
+        ψ
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+        
+          
+            
+          
+          
+            2
+          
+        
+      
+    
+    displaystyle psi vec r2
+   term in the gpe as the vortices must have quantized angular momentum the wavefunction may have the form 
+  
+    
+      
+        ψ
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+        
+        φ
+        
+        ρ
+        
+        z
+        
+        
+          e
+          
+            i
+            ℓ
+            θ
+          
+        
+      
+    
+    displaystyle psi vec rphi rho zeiell theta 
+   where 
+  
+    
+      
+        ρ
+        
+        z
+      
+    
+    displaystyle rho z
+   and 
+  
+    
+      
+        θ
+      
+    
+    displaystyle theta 
+   are as in the cylindrical coordinate system and 
+  
+    
+      
+        ℓ
+      
+    
+    displaystyle ell 
+   is the angular number this is particularly likely for an axially symmetric for instance harmonic confining potential which is commonly used the notion is easily generalized to determine 
+  
+    
+      
+        φ
+        
+        ρ
+        
+        z
+        
+      
+    
+    displaystyle phi rho z
+   the energy of 
+  
+    
+      
+        ψ
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+      
+    
+    displaystyle psi vec r
+   must be minimized according to the constraint 
+  
+    
+      
+        ψ
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+        
+        φ
+        
+        ρ
+        
+        z
+        
+        
+          e
+          
+            i
+            ℓ
+            θ
+          
+        
+      
+    
+    displaystyle psi vec rphi rho zeiell theta 
+   this is usually done computationally however in a uniform medium the analytic form
+
+  
+    
+      
+        φ
+        
+        
+          
+            
+              n
+              x
+            
+            
+              2
+              
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    displaystyle phi frac nxsqrt 2x2
+   where
+demonstrates the correct behavior and is a good approximation
+a singly charged vortex 
+  
+    
+      
+        ℓ
+        
+        1
+      
+    
+    displaystyle ell 1
+   is in the ground state with its energy 
+  
+    
+      
+        
+          ε
+          
+            v
+          
+        
+      
+    
+    displaystyle epsilon v
+   given by
+
+  
+    
+      
+        
+          ε
+          
+            v
+          
+        
+        
+        π
+        n
+        
+          
+            
+              ℏ
+              
+                2
+              
+            
+            m
+          
+        
+        ln
+        ⁡
+        
+          
+          
+            1.464
+            
+              
+                b
+                ξ
+              
+            
+          
+          
+        
+      
+    
+    displaystyle epsilon vpi nfrac hbar 2mln left1.464frac bxi right
+  
+where 
+  
+    
+      
+        
+        b
+      
+    
+    displaystyle b
+   is the farthest distance from the vortices consideredto obtain an energy which is well defined it is necessary to include this boundary 
+  
+    
+      
+        b
+      
+    
+    displaystyle b
+  
+for multiply charged vortices 
+  
+    
+      
+        ℓ
+        
+        1
+      
+    
+    displaystyle ell 1
+   the energy is approximated by
+
+  
+    
+      
+        
+          ε
+          
+            v
+          
+        
+        ≈
+        
+          ℓ
+          
+            2
+          
+        
+        π
+        n
+        
+          
+            
+              ℏ
+              
+                2
+              
+            
+            m
+          
+        
+        ln
+        ⁡
+        
+          
+          
+            
+              b
+              ξ
+            
+          
+          
+        
+      
+    
+    displaystyle epsilon vapprox ell 2pi nfrac hbar 2mln leftfrac bxi right
+  
+which is greater than that of 
+  
+    
+      
+        ℓ
+      
+    
+    displaystyle ell 
+   singly charged vortices indicating that these multiply charged vortices are unstable to decay research has however indicated they are metastable states so may have relatively long lifetimes
+closely related to the creation of vortices in becs is the generation of so-called dark solitons in one-dimensional becs these topological objects feature a phase gradient across their nodal plane which stabilizes their shape even in propagation and interaction although solitons carry no charge and are thus prone to decay relatively long-lived dark solitons have been produced and studied extensively
+
+
+ attractive interactions 
+experiments led by randall hulet at rice university from 1995 through 2000 showed that lithium condensates with attractive interactions could stably exist up to a critical atom number quench cooling the gas they observed the condensate to grow then subsequently collapse as the attraction overwhelmed the zero-point energy of the confining potential in a burst reminiscent of a supernova with an explosion preceded by an implosion
+further work on attractive condensates was performed in 2000 by the jila team of cornell wieman and coworkers their instrumentation now had better control so they used naturally attracting atoms of rubidium-85 having negative atom–atom scattering length through feshbach resonance involving a sweep of the magnetic field causing spin flip collisions they lowered the characteristic discrete energies at which rubidium bonds making their rb-85 atoms repulsive and creating a stable condensate the reversible flip from attraction to repulsion stems from quantum interference among wave-like condensate atoms
+when the jila team raised the magnetic field strength further the condensate suddenly reverted to attraction imploded and shrank beyond detection then exploded expelling about two-thirds of its 10,000 atoms about half of the atoms in the condensate seemed to have disappeared from the experiment altogether not seen in the cold remnant or expanding gas cloud carl wieman explained that under current atomic theory this characteristic of bose–einstein condensate could not be explained because the energy state of an atom near absolute zero should not be enough to cause an implosion however subsequent mean field theories have been proposed to explain it most likely they formed molecules of two rubidium atoms energy gained by this bond imparts velocity sufficient to leave the trap without being detected
+the process of creation of molecular bose condensate during the sweep of the magnetic field throughout the feshbach resonance as well as the reverse process are described by the exactly solvable model that can explain many experimental observations
+
+
+ current research 
+compared to more commonly encountered states of matter bose–einstein condensates are extremely fragile the slightest interaction with the external environment can be enough to warm them past the condensation threshold eliminating their interesting properties and forming a normal gas
+nevertheless they have proven useful in exploring a wide range of questions in fundamental physics and the years since the initial discoveries by the jila and mit groups have seen an increase in experimental and theoretical activity examples include experiments that have demonstrated interference between condensates due to wave–particle duality the study of superfluidity and quantized vortices the creation of bright matter wave solitons from bose condensates confined to one dimension and the slowing of light pulses to very low speeds using electromagnetically induced transparency vortices in bose–einstein condensates are also currently the subject of analogue gravity research studying the possibility of modeling black holes and their related phenomena in such environments in the laboratory experimenters have also realized optical lattices where the interference pattern from overlapping lasers provides a periodic potential these have been used to explore the transition between a superfluid and a mott insulator and may be useful in studying bose–einstein condensation in fewer than three dimensions for example the tonks–girardeau gas
+bose–einstein condensates composed of a wide range of isotopes have been produced
+cooling fermions to extremely low temperatures has created degenerate gases subject to the pauli exclusion principle to exhibit bose–einstein condensation the fermions must pair up to form bosonic compound particles eg molecules or cooper pairs the first molecular condensates were created in november 2003 by the groups of rudolf grimm at the university of innsbruck deborah s jin at the university of colorado at boulder and wolfgang ketterle at mit jin quickly went on to create the first fermionic condensate composed of cooper pairs
+in 1999 danish physicist lene hau led a team from harvard university which slowed a beam of light to about 17 meters per second using a superfluid hau and her associates have since made a group of condensate atoms recoil from a light pulse such that they recorded the lights phase and amplitude recovered by a second nearby condensate in what they term slow-light-mediated atomic matter-wave amplification using bose–einstein condensates details are discussed in nature
+another current research interest is the creation of bose–einstein condensates in microgravity in order to use its properties for high precision atom interferometry the first demonstration of a bec in weightlessness was achieved in 2008 at a drop tower in bremen germany by a consortium of researchers led by ernst m rasel from leibniz university of hanover the same team demonstrated in 2017 the first creation of a bose–einstein condensate in space and it is also the subject of two upcoming experiments on the international space station
+researchers in the new field of atomtronics use the properties of bose–einstein condensates when manipulating groups of identical cold atoms using lasers
+in 1970 becs were proposed by emmanuel david tannenbaum for anti-stealth technology
+
+
+ isotopes 
+the effect has mainly been observed on alkaline atoms which have nuclear properties particularly suitable for working with traps as of 2012 using ultra-low temperatures of 10−7 k or below bose–einstein condensates had been obtained for a multitude of isotopes mainly of alkali metal alkaline earth metal and lanthanide atoms 7li 23na 39k 41k 85rb 87rb 133cs 52cr 40ca 84sr 86sr 88sr 174yb 164dy and 168er research was finally successful in hydrogen with the aid of the newly developed method of evaporative cooling in contrast the superfluid state of 4he below 2.17 k is not a good example because the interaction between the atoms is too strong only 8% of atoms are in the ground state near absolute zero rather than the 100% of a true condensate
+the bosonic behavior of some of these alkaline gases appears odd at first sight because their nuclei have half-integer total spin it arises from a subtle interplay of electronic and nuclear spins at ultra-low temperatures and corresponding excitation energies the half-integer total spin of the electronic shell and half-integer total spin of the nucleus are coupled by a very weak hyperfine interaction the total spin of the atom arising from this coupling is an integer lower value the chemistry of systems at room temperature is determined by the electronic properties which is essentially fermionic since room temperature thermal excitations have typical energies much higher than the hyperfine values
+
+
+ see also 
+
+
+ references 
+
+
+ further reading 
+
+
+ external links 
+bose–einstein condensation 2009 conference bose–einstein condensation 2009 – frontiers in quantum gases
+bec homepage general introduction to bose–einstein condensation
+nobel prize in physics 2001 – for the achievement of bose–einstein condensation in dilute gases of alkali atoms and for early fundamental studies of the properties of the condensates
+physics today cornell ketterle and wieman share nobel prize for bose–einstein condensates
+bose–einstein condensates at jila
+atomcool at rice university
+alkali quantum gases at mit
+atom optics at uq
+einsteins manuscript on the bose–einstein condensate discovered at leiden university
+bose–einstein condensate on arxivorg
+bosons – the birds that flock and sing together
+easy bec machine – information on constructing a bose–einstein condensate machine
+verging on absolute zero – cosmos online
+lecture by w ketterle at mit in 2001
+bose–einstein condensation at nist – nist resource on bec
