@@ -26,7 +26,7 @@ for n in 1, 2, 3:
             fout.write(str(term) + ":\t" + str(freq) + '\n')
             for doc, cnt in index[term]:
                 fout.write(doc + '\n')
-                
+
     # Generate stoplist
     with open("statistics/stoplist" + str(n) + ".txt", "w+") as fout:
         for term, freq in df.items():
