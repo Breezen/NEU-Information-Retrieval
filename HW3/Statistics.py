@@ -1,4 +1,4 @@
-import os
+import os, math
 
 if not os.path.exists("statistics"):
     os.mkdir("statistics")
@@ -14,6 +14,7 @@ for n in 1, 2, 3:
         for doc, cnt in records:
             count += cnt
         tf[term] = count
+
     # Generate tf and df tables
     with open("statistics/termFreq" + str(n) + ".txt", "w+") as fout:
         tf = sorted(tf.items(), key=lambda x: x[1], reverse=True)
@@ -25,3 +26,9 @@ for n in 1, 2, 3:
             fout.write(str(term) + ":\t" + str(freq) + '\n')
             for doc, cnt in index[term]:
                 fout.write(doc + '\n')
+                
+    # Generate stoplist
+    with open("statistics/stoplist" + str(n) + ".txt", "w+") as fout:
+        for term, freq in df.items():
+            if freq > 600:
+                fout.write(str(term) + ':\t' + str(freq) + '\n')
