@@ -98,7 +98,7 @@ s cuperman n metzler and m spygelglass confirmation of known numerical solutions
 scuperman and n metzler relative magnitude of streaming velocities of alpha particles and protons at 1au astrophys and space sci 45 2 411-417,1976
 n metzler a multi-fluid model for stellar windsproceedings of the ldde feiter memorial symposium on the study of traveling interplanetary phenomena afgl-tr-77-0309 air force systems command usaf 1978
 n metzler and m dryer a self-consistent solution of the three-fluid model of the solar wind astrophys j 222 2 689-695 1978
-s cuperman and n metzler comments on acceleration of solar wind he+3 effects of resonant and nonresonant interactions with transverse waves j geophys res 84 na5 2139-2140 1979
+s cuperman and n metzler comments on acceleration of solar wind he3 effects of resonant and nonresonant interactions with transverse waves j geophys res 84 na5 2139-2140 1979
 n metzler s cuperman m dryer and p rosenau a time-dependent two-fluid model with thermal conduction for solar wind astrophys j 231 3 960-976 1979
 
 

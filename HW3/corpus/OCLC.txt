@@ -71,11 +71,11 @@ public library advocacy
 
  further reading 
 bénaud claire-lise bordeianu sever october 2015 oclcs worldshare management services a brave new world for catalogers cataloging  classification quarterly 53 7 738–752 doi10.1080/01639374.2014.1003668 
-blackman cathy moore erica rae seikel michele smith mandi july 2014 worldcat and skyriver a comparison of record quantity and fullness library resources  technical services 58 3 178–186 doi10.5860lrts.58n3.178 
-breeding marshall may 2015 library services platforms a maturing genre of products library technology reports 51 4 1–38 doi10.5860ltr.51n4 
+blackman cathy moore erica rae seikel michele smith mandi july 2014 worldcat and skyriver a comparison of record quantity and fullness library resources  technical services 58 3 178–186 doi10.5860lrts58n3.178 
+breeding marshall may 2015 library services platforms a maturing genre of products library technology reports 51 4 1–38 doi10.5860ltr51n4 
 matthews joseph r july 2016 an environmental scan of oclc alternatives a management perspective public library quarterly 35 3 175–187 doi10.1080/01616846.2016.1210440 
 mckenzie elizabeth january 2012 oclc changes its rules for use of records in worldcat library community pushback through blogs and cultures of resistance technical report boston suffolk university law school research paper 12-06 
-richardson ellen january 2012 aint no skyriver wide enough to keep me from getting to you skyriver innovative oclc and the fight for control over the bibliographic data cataloging services ill and ils markets legal reference services quarterly 31 1 37–64 doi10.1080/0270319x.2012.654065 
+richardson ellen january 2012 aint no skyriver wide enough to keep me from getting to you skyriver innovative oclc and the fight for control over the bibliographic data cataloging services ill and ils markets legal reference services quarterly 31 1 37–64 doi10.1080/0270319x2012.654065 
 
 
  external links 

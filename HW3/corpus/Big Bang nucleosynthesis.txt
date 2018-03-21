@@ -392,15 +392,15 @@ burles scott nollett kenneth m turner michael s 1999-03-19 big-bang nucleosynthe
 
 
  academic articles 
-cyburt richard h fields brian d olive keith a yeh tsung-han february 2016 big bang nucleosynthesis 2015 rev mod phys 88 1 015004 arxiv1505.01076  bibcode2016rvmp.88a5004c doi10.1103revmodphys.88.015004 
-burles scott kenneth m nollett michael s turner 2001 what is the bbn prediction for the baryon density and how reliable is it phys rev d 63 6 063512 arxivastro-ph0008495  bibcode2001phrvd.63f3512b doi10.1103physrevd.63.063512  report-no fermilab-pub-00-239-a
+cyburt richard h fields brian d olive keith a yeh tsung-han february 2016 big bang nucleosynthesis 2015 rev mod phys 88 1 015004 arxiv1505.01076  bibcode2016rvmp88a5004c doi10.1103revmodphys88.015004 
+burles scott kenneth m nollett michael s turner 2001 what is the bbn prediction for the baryon density and how reliable is it phys rev d 63 6 063512 arxivastro-ph0008495  bibcode2001phrvd63f3512b doi10.1103physrevd63.063512  report-no fermilab-pub-00-239-a
 jedamzik karsten non-standard big bang nucleosynthesis scenarios max-planck-institut für astrophysik garching
 steigman gary primordial nucleosynthesis successes and challenges arxivastro-ph0511534 forensic cosmology probing baryons and neutrinos with bbn and the cbr arxivhep-ph0309347 and big bang nucleosynthesis probing the first 20 minutes arxivastro-ph0307244
 r a alpher h a bethe g gamow the origin of chemical elements physical review 73 1948 803 the so-called αβγ paper in which alpher and gamow suggested that the light elements were created by hydrogen ions capturing neutrons in the hot dense early universe bethes name was added for symmetry
-gamow g 1948 the origin of elements and the separation of galaxies physical review 74 505–506 bibcode1948phrv.74.505g doi10.1103physrev.74.505.2  these two 1948 papers of gamow laid the foundation for our present understanding of big-bang nucleosynthesis
-gamow g 1948 the evolution of the universe nature 162 680–2 bibcode1948natur.162.680g doi10.1038/162680a0 pmid 18893719 
-alpher r a 1948 a neutron-capture theory of the formation and relative abundance of the elements physical review 74 1737–1742 bibcode1948phrv.74.1737a doi10.1103physrev.74.1737 
+gamow g 1948 the origin of elements and the separation of galaxies physical review 74 505–506 bibcode1948phrv74505g doi10.1103physrev74.505.2  these two 1948 papers of gamow laid the foundation for our present understanding of big-bang nucleosynthesis
+gamow g 1948 the evolution of the universe nature 162 680–2 bibcode1948natur162680g doi10.1038/162680a0 pmid 18893719 
+alpher r a 1948 a neutron-capture theory of the formation and relative abundance of the elements physical review 74 1737–1742 bibcode1948phrv74.1737a doi10.1103physrev74.1737 
 r a alpher and r herman on the relative abundance of the elements physical review 74 1948 1577 this paper contains the first estimate of the present temperature of the universe
-alpher r a herman r gamow g 1948 evolution of the universe nature 162 774–775 bibcode1948natur.162.774a doi10.1038/162774b0 
+alpher r a herman r gamow g 1948 evolution of the universe nature 162 774–775 bibcode1948natur162774a doi10.1038/162774b0 
 java big bang element abundance calculator
 c pitrou a coc j-p uzan e vangioni precision big bang nucleosynthesis with improved helium-4 predictions arxiv1801.08023

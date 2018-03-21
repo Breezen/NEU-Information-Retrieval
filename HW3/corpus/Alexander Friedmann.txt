@@ -50,8 +50,8 @@ alexander friedmann international seminar is a periodical scientific event the o
 
 
  selected publications 
-friedman a 1922 über die krümmung des raumes zeitschrift für physik 10 1 377–386 bibcode1922zphy.10.377f doi10.1007bf01332580  english translation in friedman a 1999 on the curvature of space general relativity and gravitation 31 12 1991–2000 bibcode1999gregr.31.1991f doi10.1023a1026751225741  the original russian manuscript of this paper is preserved in the ehrenfest archive together with some letters and unpublished work
-friedman a 1924 über die möglichkeit einer welt mit konstanter negativer krümmung des raumes zeitschrift für physik 21 1 326–332 bibcode1924zphy.21.326f doi10.1007bf01328280  english translation in friedmann a 1999 on the possibility of a world with constant negative curvature of space general relativity and gravitation 31 12 2001–2008 bibcode1999gregr.31.2001f doi10.1023a1026755309811 
+friedman a 1922 über die krümmung des raumes zeitschrift für physik 10 1 377–386 bibcode1922zphy10377f doi10.1007bf01332580  english translation in friedman a 1999 on the curvature of space general relativity and gravitation 31 12 1991–2000 bibcode1999gregr31.1991f doi10.1023a1026751225741  the original russian manuscript of this paper is preserved in the ehrenfest archive together with some letters and unpublished work
+friedman a 1924 über die möglichkeit einer welt mit konstanter negativer krümmung des raumes zeitschrift für physik 21 1 326–332 bibcode1924zphy21326f doi10.1007bf01328280  english translation in friedmann a 1999 on the possibility of a world with constant negative curvature of space general relativity and gravitation 31 12 2001–2008 bibcode1999gregr31.2001f doi10.1023a1026755309811 
 
 
  references 
@@ -60,7 +60,7 @@ friedman a 1924 über die möglichkeit einer welt mit konstanter negativer krüm
  bibliography 
 poluboyarinova-kochina p ya january–february 1964 aleksandr fridman pdf soviet physics uspekhi english edition 467–472 
 ferguson kitty 1991 stephen hawking quest for a theory of everything new york bantam books isbn 0-553-29895-x 
-frenkel vya 1988 aleksandr aleksandrovich fridman friedmann a biographical essay soviet physics uspekhi 31 7 645–665 bibcode1988svphu.31.645f doi10.1070pu1988v031n07abeh003574 
+frenkel vya 1988 aleksandr aleksandrovich fridman friedmann a biographical essay soviet physics uspekhi 31 7 645–665 bibcode1988svphu31645f doi10.1070pu1988v031n07abeh003574 
 
 
  external links 

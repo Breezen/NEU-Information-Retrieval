@@ -465,7 +465,7 @@ since the n gas molecules are indistinguishable the phase space volume is divide
         
       
     
-    displaystyle ngamma n+1
+    displaystyle ngamma n1
    the number of permutations of n molecules
 using stirlings approximation for the gamma function and ignoring factors that disappear in the logarithm after taking n large
 

@@ -44,7 +44,7 @@ the date and approximate time of a specific full moon assuming a circular orbit 
         
       
     
-    displaystyle d20.36200029.530588861times n+102.026times 10-12times n2
+    displaystyle d20.36200029.530588861times n102.026times 10-12times n2
   
 where d is the number of days since 1 january 2000 000000 in the terrestrial time scale used in astronomical ephemerides for universal time ut add the following approximate correction to d
 

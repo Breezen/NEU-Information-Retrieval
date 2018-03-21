@@ -162,12 +162,12 @@ solar variation
 
  further reading 
 karl thomas r melillo jerry m peterson thomas c 2009 global climate change impacts in the united states cambridge university press  
-willson richard c hs hudson 1991 the suns luminosity over a complete solar cycle nature 351 6321 42–4 bibcode1991natur.351.42w doi10.1038/351042a0 
-foukal peter et al 1977 the effects of sunspots and faculae on the solar constant astrophysical journal 215 952 bibcode1977apj.215.952f doi10.1086/155431 
-dziembowski wa pr goode j schou 2001 does the sun shrink with increasing magnetic activity astrophysical journal 553 2 897–904 arxivastro-ph0101473  bibcode2001apj.553.897d doi10.1086/320976 
+willson richard c hs hudson 1991 the suns luminosity over a complete solar cycle nature 351 6321 42–4 bibcode1991natur35142w doi10.1038/351042a0 
+foukal peter et al 1977 the effects of sunspots and faculae on the solar constant astrophysical journal 215 952 bibcode1977apj215952f doi10.1086/155431 
+dziembowski wa pr goode j schou 2001 does the sun shrink with increasing magnetic activity astrophysical journal 553 2 897–904 arxivastro-ph0101473  bibcode2001apj553897d doi10.1086/320976 
 stetson ht 1937 sunspots and their effects new york mcgraw hill 
 yaskell steven haywood 31 december 2012 grand phases on the sun the case for a mechanism responsible for extended solar minima and maxima trafford publishing isbn 978-1-4669-6300-9 
-solar activity hugh hudson scholarpedia 333967 doi10.4249scholarpedia.3967
+solar activity hugh hudson scholarpedia 333967 doi10.4249scholarpedia3967
 
 
  external links 

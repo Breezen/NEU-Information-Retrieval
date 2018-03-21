@@ -284,7 +284,7 @@ formally using modular arithmetic we can say
         
       
     
-    displaystyle 10x1+9x2+8x3+7x4+6x5+5x6+4x7+3x8+2x9x10equiv 0pmod 11
+    displaystyle 10x19x28x37x46x55x64x73x82x9x10equiv 0pmod 11
   
 it is also true for isbn-10s that the sum of all the ten digits each multiplied by its weight in ascending order from 1 to 10 is a multiple of 11 for this example
 
@@ -503,7 +503,7 @@ formally we can say
         
       
     
-    displaystyle x1+2x2+3x3+4x4+5x5+6x6+7x7+8x8+9x9+10x10equiv 0pmod 11
+    displaystyle x12x23x34x45x56x67x78x89x910x10equiv 0pmod 11
   
 the two most common errors in handling an isbn eg typing or writing it are a single altered digit or the transposition of adjacent digits it can be proved that all possible valid isbn-10s have at least two digits different from each other it can also be proved that there are no pairs of valid isbn-10s with eight identical digits and two transposed digits these are true only because the isbn is less than 11 digits long and because 11 is a prime number the isbn check digit method therefore ensures that it will always be possible to detect these two most common types of error ie if either of these types of error has occurred the result will never be a valid isbn – the sum of the digits multiplied by their weights will never be a multiple of 11 however if the error occurs in the publishing house and goes undetected the book will be issued with an invalid isbn
 in contrast it is possible for other types of error such as two altered non-transposed digits or three altered digits to result in a valid isbn although it is still unlikely
@@ -955,7 +955,7 @@ formally using modular arithmetic we can say
         
       
     
-    displaystyle x1+3x2x3+3x4x5+3x6x7+3x8x9+3x10x11+3x12x13equiv 0pmod 10
+    displaystyle x13x2x33x4x53x6x73x8x93x10x113x12x13equiv 0pmod 10
   
 the calculation of an isbn-13 check digit begins with the first 12 digits of the thirteen-digit isbn thus excluding the check digit itself each digit from left to right is alternately multiplied by 1 or 3 then those products are summed modulo 10 to give a value ranging from 0 to 9 subtracted from 10 that leaves a result from 1 to 10 a zero 0 replaces a ten 10 so in all cases a single check digit results
 for example the isbn-13 check digit of 978-0-306-40615- is calculated as follows
@@ -1054,7 +1054,7 @@ let
         
       
     
-    displaystyle rbig 10-big x1+3x2x3+3x4cdots x11+3x12big bmod 10big 
+    displaystyle rbig 10-big x13x2x33x4cdots x113x12big bmod 10big 
   
 then
 

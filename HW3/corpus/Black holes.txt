@@ -193,7 +193,39 @@ black holes are commonly classified according to their mass independent of angul
     
     displaystyle rmathrm s frac 2gmc2approx 2.95frac mmmathrm sun mathrm km 
   
-where rs is the schwarzschild radius and msun is the mass of the sun this relation is exact only for black holes with zero charge and angular momentum for more general black holes it can differ up to a factor of 2
+where rs is the schwarzschild radius and msun is the mass of the sun for a black hole with nonzero spin andor electric charge the radius is smaller until an extremal black hole could have an event horizon close to
+
+  
+    
+      
+        
+          r
+          
+            
+              
+            
+          
+        
+        
+        
+          
+            
+              g
+              m
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        
+      
+    
+    displaystyle rmathrm  frac gmc2
+  
 
 
  event horizon 

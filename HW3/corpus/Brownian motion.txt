@@ -1859,17 +1859,17 @@ lester eli dubins  gideon schwarz 1965 on continuous martingales proceedings of 
 brown robert 1828 a brief account of microscopical observations made in the months of june july and august 1827 on the particles contained in the pollen of plants and on the general existence of active molecules in organic and inorganic bodies pdf philosophical magazine 4 161–173  also includes a subsequent defense by brown of his original observations additional remarks on active molecules
 chaudesaigues m 1908 le mouvement brownien et la formule deinstein brownian motion and einsteins formula comptes rendus in french 147 1044–6 
 clark p 1976 atomism versus thermodynamics in howson colin method and appraisal in the physical sciences cambridge university press isbn 0521211107 
-cohen ruben d 1986 self similarity in brownian motion and other ergodic phenomena pdf journal of chemical education 63 11 933–934 bibcode1986jched.63.933c doi10.1021ed063p933 
-einstein a 1905 über die von der molekularkinetischen theorie der wärme geforderte bewegung von in ruhenden flüssigkeiten suspendierten teilchen pdf annalen der physik in german 322 8 549–560 bibcode1905anp.322.549e doi10.1002andp.19053220806 
+cohen ruben d 1986 self similarity in brownian motion and other ergodic phenomena pdf journal of chemical education 63 11 933–934 bibcode1986jched63933c doi10.1021ed063p933 
+einstein a 1905 über die von der molekularkinetischen theorie der wärme geforderte bewegung von in ruhenden flüssigkeiten suspendierten teilchen pdf annalen der physik in german 322 8 549–560 bibcode1905anp322549e doi10.1002andp19053220806 
 einstein a 1956 investigations on the theory of brownian movement pdf new york dover isbn 0-486-60304-0 
 henri v 1908 études cinématographique du mouvement brownien cinematographic studies of brownian motion comptes rendus in french 146 1024–6 
 lucretius on the nature of things translated by william ellery leonard on-line version from project gutenberg see the heading atomic motions this translation differs slightly from the one quoted
 nelson edward 1967 dynamical theories of brownian motion pdf version of this out-of-print book from the authors webpage this is primarily a mathematical work but the first four chapters discuss the history of the topic in the era from brown to einstein
-pearle p collett b bart k bilderback d newman d samuels s 2010 what brown saw and you can too american journal of physics 78 12 1278–1289 arxiv1008.0039  bibcode2010amjph.78.1278p doi10.1119/1.3475685 
+pearle p collett b bart k bilderback d newman d samuels s 2010 what brown saw and you can too american journal of physics 78 12 1278–1289 arxiv1008.0039  bibcode2010amjph78.1278p doi10.1119/1.3475685 
 perrin j 1909 mouvement brownien et réalité moléculaire brownian movement and molecular reality annales de chimie et de physique 8th series 18 5–114 
 see also perrins book les atomes 1914
 
-von smoluchowski m 1906 zur kinetischen theorie der brownschen molekularbewegung und der suspensionen annalen der physik 21 14 756–780 bibcode1906anp.326.756v doi10.1002andp.19063261405 
+von smoluchowski m 1906 zur kinetischen theorie der brownschen molekularbewegung und der suspensionen annalen der physik 21 14 756–780 bibcode1906anp326756v doi10.1002andp19063261405 
 svedberg t 1907 studien zur lehre von den kolloiden losungen 
 theile t n
 danish version om anvendelse af mindste kvadraters methode i nogle tilfælde hvor en komplikation af visse slags uensartede tilfældige fejlkilder giver fejlene en ‘systematisk’ karakter

@@ -334,7 +334,7 @@ the maclaurin series of
         ⋯
       
     
-    displaystyle 1mp 2x+3x2mp cdots 
+    displaystyle 1mp 2x3x2mp cdots 
    which gives a series expansion of
 
   

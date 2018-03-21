@@ -155,7 +155,7 @@ january 3 2008 inducted into the ‘celebration 60’ british councils 60th anni
 november 4 2009 honorary citizenship and the dr charles kao day in mountain view california usa
 december 30 2009 the landmark auditorium in the hong kong science park has been named after kao – charles k kao auditorium
 2009 hong kongs person of year
-the top 10 asian achievements of 2009 – no.7
+the top 10 asian achievements of 2009 – no7
 2010 february honoree committee of 100 usa
 2010 march 18 the square of the independent schools foundation academy isf academy has been named after kao
 the 2010 ofcnfoec conferences were dedicated to kao march 23–25 san diego california usa
@@ -201,9 +201,9 @@ nonlinear photonics nonlinearities in optics optoelectronics and fiber communica
  further reading 
 kao charles 1982 optical fibre systems technology design and application new york ny mcgraw-hill incus isbn 0070332770 
 hecht jeff 1999 city of light the story of fiber optics new york ny oxford university press isbn 0-19-510818-3 
-kao k c hockham g a 1966 dielectric-fibre surface waveguides for optical frequencies proc iee 113 7 1151–1158 doi10.1049piee.1966.0189 
-kao k c davies t w 1968 spectrophotometric studies of ultra low loss optical glasses – i single beam method journal of physics e 2 1 1063–1068 bibcode1968jphe.1.1063k doi10.1088/0022-3735/1/11/303 
-k c kao june 1986 1012 bits optoelectronics technology iee proceedings 133 ptj no 3 230–236 doi10.1049ip-j.1986.0037
+kao k c hockham g a 1966 dielectric-fibre surface waveguides for optical frequencies proc iee 113 7 1151–1158 doi10.1049piee1966.0189 
+kao k c davies t w 1968 spectrophotometric studies of ultra low loss optical glasses – i single beam method journal of physics e 2 1 1063–1068 bibcode1968jphe1.1063k doi10.1088/0022-3735/1/11/303 
+k c kao june 1986 1012 bits optoelectronics technology iee proceedings 133 ptj no 3 230–236 doi10.1049ip-j1986.0037
 k c kao a time and a tide autobiography of charles k kao
 k c kao july 2005《潮平岸闊——高錕自述》translated by 許迪鏘 joint publishing autobiography of charles k kao
 

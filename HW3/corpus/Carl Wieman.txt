@@ -10,10 +10,10 @@ wieman is a member of the usa science and engineering festivals advisory board w
 
 
  selected publications 
-donley elizabeth a neil r claussen simon l cornish jacob l roberts eric a cornell carl e wieman 2001-07-19 dynamics of collapsing and exploding bose−einstein condensates nature 412 6844 295–299 arxivcond-mat0105019  bibcode2001natur.412.295d doi10.1038/35085500 pmid 11460153 
-matthews michael r bp anderson pc haljan ds hall ce wieman ea cornell 1999 vortices in a bose-einstein condensate phys rev lett 83 13 2498–2501 arxivcond-mat9908209  bibcode1999phrvl.83.2498m doi10.1103physrevlett.83.2498 
-walker thad david sesko carl wieman 1990 collective behavior of optically trapped neutral atoms phys rev lett 64 4 408–411 bibcode1990phrvl.64.408w doi10.1103physrevlett.64.408 pmid 10041972 
-tanner carol e carl wieman 1988 precision measurement of the hyperfine structure of the 133cs 6p3/2 state phys rev a 38 3 1616–1617 bibcode1988phrva.38.1616t doi10.1103physreva.38.1616 pmid 9900545 
+donley elizabeth a neil r claussen simon l cornish jacob l roberts eric a cornell carl e wieman 2001-07-19 dynamics of collapsing and exploding bose−einstein condensates nature 412 6844 295–299 arxivcond-mat0105019  bibcode2001natur412295d doi10.1038/35085500 pmid 11460153 
+matthews michael r bp anderson pc haljan ds hall ce wieman ea cornell 1999 vortices in a bose-einstein condensate phys rev lett 83 13 2498–2501 arxivcond-mat9908209  bibcode1999phrvl83.2498m doi10.1103physrevlett83.2498 
+walker thad david sesko carl wieman 1990 collective behavior of optically trapped neutral atoms phys rev lett 64 4 408–411 bibcode1990phrvl64408w doi10.1103physrevlett64.408 pmid 10041972 
+tanner carol e carl wieman 1988 precision measurement of the hyperfine structure of the 133cs 6p3/2 state phys rev a 38 3 1616–1617 bibcode1988phrva38.1616t doi10.1103physreva38.1616 pmid 9900545 
 
 
  see also 

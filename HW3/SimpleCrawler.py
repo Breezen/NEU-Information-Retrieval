@@ -1,4 +1,4 @@
-import wikipedia as wp
+import wikipedia
 
 seedTitle = "Solar eclipse"
 num = 1
@@ -6,7 +6,7 @@ result = [seedTitle]
 visited = {seedTitle}
 
 for title in result:
-    links = wp.page(title).links
+    links = wikipedia.page(title).links
     for link in links:
         if link.casefold() not in visited \
                 and link.lower().find("disambiguation") == -1:

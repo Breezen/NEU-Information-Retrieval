@@ -63,7 +63,7 @@ he came up with the name while reading “strategic role of perigean spring tide
         
       
     
-    displaystyle ldsldp+0.1lda-ldp
+    displaystyle ldsldp0.1lda-ldp
    where 
   
     

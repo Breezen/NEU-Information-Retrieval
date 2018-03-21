@@ -30,5 +30,5 @@ mursilis eclipse
  external links 
 path map of eclipses 780 bce - 761 bce nasa - includes total eclipse of june 15 763 bc labeled -0762 june 15
 path map of eclipses 800 bce - 781 bce nasa - includes annular eclipse of june 24 791 bc labeled -0790 june 24
-five millennium -1999 to +3000 canon of solar eclipses database – maps the visibility of the total solar eclipse of june 15 763 bc
-five millennium -1999 to +3000 canon of solar eclipses database – maps the visibility of the annular solar eclipse of june 24 791 bc
+five millennium -1999 to 3000 canon of solar eclipses database – maps the visibility of the total solar eclipse of june 15 763 bc
+five millennium -1999 to 3000 canon of solar eclipses database – maps the visibility of the annular solar eclipse of june 24 791 bc

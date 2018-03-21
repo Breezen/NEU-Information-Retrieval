@@ -80,7 +80,7 @@ fodor jerry 21 october 2004 waters water everywhere london review of books 26
 greenberg robert 2001 kants theory of a priori knowledge university park pa penn state press isbn 978-0271020839 
 heisenberg werner 2007 1958 physics and philosophy the revolution in modern science new york ny harper perennial modern classics pp 76–92 isbn 978-0061209192 
 hume david 2008 1777 millican peter ed an enquiry concerning human understanding oxford uk oxford university press isbn 978-0199549900 
-jenkins c s may 2008 a priori knowledge debates and developments philosophy compass 3 3 436–450 doi10.1111j.1747-9991.2008.00136x 
+jenkins c s may 2008 a priori knowledge debates and developments philosophy compass 3 3 436–450 doi10.1111j1747-9991.2008.00136x 
 kant immanuel 1783 prolegomena zu einer jeden künftigen metaphysik prolegomena to any future metaphysics 
 kripke saul 2013 1972 naming and necessity semantics of natural language synthese library 2nd ed springer isbn 978-9027703101 
 leibniz gottfried 1976 1714 monadology in loemker leroy e philosophical papers and letters a selection synthese historical library 2 2nd ed dordrecht kluwer academic publishers isbn 978-9027706935 

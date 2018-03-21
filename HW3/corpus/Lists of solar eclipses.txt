@@ -76,5 +76,5 @@ solar eclipses in fiction
 
 
  references 
-five millennium catalog of solar eclipses -1999 to +3000 2000 bce to 3000 ce
-ascii title five millennium catalog of solar eclipses -1999 to +3000 2000 bce to 3000 ce
+five millennium catalog of solar eclipses -1999 to 3000 2000 bce to 3000 ce
+ascii title five millennium catalog of solar eclipses -1999 to 3000 2000 bce to 3000 ce

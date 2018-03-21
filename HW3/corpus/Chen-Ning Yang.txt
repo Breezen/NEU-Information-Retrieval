@@ -30,7 +30,7 @@ king faisal international prize 2001
 
 
  publications selection 
-yang c n mills r l 1954 conservation of isotopic spin and isotopic gauge invariance phys rev 96 191–195 bibcode1954phrv.96.191y doi10.1103physrev.96.191 
+yang c n mills r l 1954 conservation of isotopic spin and isotopic gauge invariance phys rev 96 191–195 bibcode1954phrv96191y doi10.1103physrev96.191 
 mills r l yang c n 1966 treatment of overlapping divergences in the photon self-energy function prog theor phys sup 37 507 
 
 

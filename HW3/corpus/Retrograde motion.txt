@@ -111,11 +111,11 @@ alaska yo-yo
 
 
  further reading 
-gayon julie eric bois 21 april 2008 are retrograde resonances possible in multi-planet systems astronomy and astrophysics 482 2 665–672 arxiv0801.1089  bibcode2008aa.482.665g doi10.1051/0004-636120078460 
-kalvouridis t j may 2003 retrograde orbits in ring configurations of n bodies astrophysics and space science 284 3 1013–1033 bibcode2003apss.284.1013k doi10.1023a1023332226388 
-liou j 1999 orbital evolution of retrograde interplanetary dust particles and their distribution in the solar system icarus 141 13–28 bibcode1999icar.141.13l doi10.1006icar.1999.6170 
+gayon julie eric bois 21 april 2008 are retrograde resonances possible in multi-planet systems astronomy and astrophysics 482 2 665–672 arxiv0801.1089  bibcode2008aa482665g doi10.1051/0004-636120078460 
+kalvouridis t j may 2003 retrograde orbits in ring configurations of n bodies astrophysics and space science 284 3 1013–1033 bibcode2003apss284.1013k doi10.1023a1023332226388 
+liou j 1999 orbital evolution of retrograde interplanetary dust particles and their distribution in the solar system icarus 141 13–28 bibcode1999icar14113l doi10.1006icar1999.6170 
 how large is the retrograde annual wobble n e king duncan carr agnew 1991
-fernandez julio a 1981 on the observed excess of retrograde orbits among long-period comets monthly notices of the royal astronomical society 197 265–273 bibcode1981mnras.197.265f doi10.1093mnras197.2.265 
+fernandez julio a 1981 on the observed excess of retrograde orbits among long-period comets monthly notices of the royal astronomical society 197 265–273 bibcode1981mnras197265f doi10.1093mnras197.2.265 
 dynamical effects on the habitable zone for earth-like exomoons duncan forgan david kipping 16 april 2013
 what collisional debris can tell us about galaxies pierre-alain duc 10 may 2012
 the formation and role of vortices in protoplanetary disks patrick godon mario livio 22 october 1999

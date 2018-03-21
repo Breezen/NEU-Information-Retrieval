@@ -2220,7 +2220,7 @@ with the substitution
         
       
     
-    displaystyle cos t1-u2u2+1 quad sin t2uu2+1
+    displaystyle cos t1-u2u21 quad sin t2uu21
   
 and the rational parametric equation of an ellipse
 
@@ -2311,7 +2311,7 @@ and the rational parametric equation of an ellipse
         
       
     
-    displaystyle  beginarraylclxua1-u2u2+1yu2buu2+1endarrayquad -infty uinfty 
+    displaystyle  beginarraylclxua1-u2u21yu2buu21endarrayquad -infty uinfty 
   
 which covers any point of the ellipse 
   
@@ -3896,7 +3896,7 @@ let
         0
       
     
-    displaystyle x2e2-1+2xf1e-y20
+    displaystyle x2e2-12xf1e-y20
   
 the substitution 
   
@@ -3949,7 +3949,7 @@ the substitution
         0
       
     
-    displaystyle x2e2-1+2px-y20
+    displaystyle x2e2-12px-y20
   
 this is the equation of an ellipse 
   
@@ -10859,7 +10859,7 @@ ramanujan gives two good approximations for the circumference in §16 of modular
         
       
     
-    displaystyle capprox pi left3ab-sqrt 3aba+3brightpi left3ab-sqrt 10ab+3a2b2right
+    displaystyle capprox pi left3ab-sqrt 3aba3brightpi left3ab-sqrt 10ab3a2b2right
   
 and
 

@@ -97,7 +97,7 @@ styx nix and hydra are thought to be in a 3-body orbital resonance with orbital 
         
       
     
-    displaystyle phi 3cdot lambda rm styx-5cdot lambda rm nix+2cdot lambda rm hydra180circ 
+    displaystyle phi 3cdot lambda rm styx-5cdot lambda rm nix2cdot lambda rm hydra180circ 
    as with the laplace resonance of the galilean satellites of jupiter triple conjunctions never occur 
   
     
@@ -150,9 +150,9 @@ the pluto system was visited by the new horizons spacecraft in july 2015 images 
 
  sources 
 sa stern ha weaver aj steffl mj mutchler wj merline mw buie ef young la young  jr spencer 2006 characteristics and origin of the quadruple system at pluto nature submitted preprint
-steffl a j mutchler m j weaver h a stern s a durda d d terrell d merline w j young l a young e f buie m w spencer j r 2006 new constraints on additional satellites of the pluto system the astronomical journal 132 2 614–619 arxivastro-ph0511837  bibcode2006aj.132.614s doi10.1086/505424 
+steffl a j mutchler m j weaver h a stern s a durda d d terrell d merline w j young l a young e f buie m w spencer j r 2006 new constraints on additional satellites of the pluto system the astronomical journal 132 2 614–619 arxivastro-ph0511837  bibcode2006aj132614s doi10.1086/505424 
 buie mw grundy wm young ef young la stern sa 2005 orbits and photometry of plutos satellites charon s2005 p1 and s2005 p2 submitted preprint
-brozovic m showalter m r jacobson r a  buie m w 2015 the orbits and masses of satellites of pluto icarus 246 317 doi10.1016jicarus.2014.03.015 bibcode 2015icar.246.317b
+brozovic m showalter m r jacobson r a  buie m w 2015 the orbits and masses of satellites of pluto icarus 246 317 doi10.1016jicarus2014.03.015 bibcode 2015icar246317b
 iau circular no 8625 describing the discovery of 2005 p1 and p2
 iau circular no 8686 reporting a more neutral color for 2005 p2
 iau circular no 8723 announcing the names of nix and hydra

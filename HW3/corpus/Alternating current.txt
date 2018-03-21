@@ -226,7 +226,7 @@ the peak-to-peak value of an ac voltage is defined as the difference between its
       
     
     displaystyle sinx
-   is +1 and the minimum value is −1 an ac voltage swings between 
+   is 1 and the minimum value is −1 an ac voltage swings between 
   
     
       
@@ -872,7 +872,7 @@ for a sinusoidal voltage
         
       
     
-    displaystyle beginalignedvmathrm rms sqrt frac 1tint 0tvpksinomega tphi 2dtvpksqrt frac 12tint 0t1-cos2omega t+2phi dtvpksqrt frac 12tint 0tdtfrac vpksqrt 2endaligned
+    displaystyle beginalignedvmathrm rms sqrt frac 1tint 0tvpksinomega tphi 2dtvpksqrt frac 12tint 0t1-cos2omega t2phi dtvpksqrt frac 12tint 0tdtfrac vpksqrt 2endaligned
   
 where the trigonometric identity 
   

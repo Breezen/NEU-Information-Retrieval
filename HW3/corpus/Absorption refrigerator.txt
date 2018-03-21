@@ -54,7 +54,7 @@ icyball
 
 
  further reading 
-levy a kosloff r 2012 quantum absorption refrigerator phys rev lett 108 070604 arxiv1109.0728  bibcode2012phrvl.108g0604l doi10.1103physrevlett.108.070604 
+levy a kosloff r 2012 quantum absorption refrigerator phys rev lett 108 070604 arxiv1109.0728  bibcode2012phrvl108g0604l doi10.1103physrevlett108.070604 
 
 
  external links 

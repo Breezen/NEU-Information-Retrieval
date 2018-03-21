@@ -70,7 +70,7 @@ to obtain this moment expressed in universal time ut world clock time add the re
     
     displaystyle -0.000739-235times 10-12times n2
    days
-periodic perturbations change the time of true conjunction from these mean values for all new moons between 1601 and 2401 the maximum difference is 0.592 days  14h13m in either direction the duration of a lunation ie the time from new moon to the next new moon varies in this period between 29.272 and 29.833 days ie −0.259d  6h12m shorter or +0.302d  7h15m longer than average this range is smaller than the difference between mean and true conjunction because during one lunation the periodic terms cannot all change to their maximum opposite value
+periodic perturbations change the time of true conjunction from these mean values for all new moons between 1601 and 2401 the maximum difference is 0.592 days  14h13m in either direction the duration of a lunation ie the time from new moon to the next new moon varies in this period between 29.272 and 29.833 days ie −0.259d  6h12m shorter or 0.302d  7h15m longer than average this range is smaller than the difference between mean and true conjunction because during one lunation the periodic terms cannot all change to their maximum opposite value
 see the article on the full moon cycle for a fairly simple method to compute the moment of new moon more accurately
 the long-term error of the formula is approximately 1 cy2 seconds in tt and 11 cy2 seconds in ut cy is centuries since 2000 see section explanation of the formulae for details
 
@@ -79,17 +79,17 @@ the long-term error of the formula is approximately 1 cy2 seconds in tt and 11 c
 the moment of mean conjunction can easily be computed from an expression for the mean ecliptical longitude of the moon minus the mean ecliptical longitude of the sun delauney parameter d jean meeus gave formulae to compute this in his astronomical formulae for calculators based on the ephemerides of brown and newcomb ca 1900 and in his 1st edition of astronomical algorithms based on the elp2000-85 the 2nd edition uses elp2000-82 with improved expressions from chapront et al in 1998 these are now outdated chapront et al 2002 published improved parameters also meeuss formula uses a fractional variable to allow computation of the four main phases and uses a second variable for the secular terms for the convenience of the reader the formula given above is based on chapronts latest parameters and expressed with a single integer variable and the following additional terms have been added
 constant term
 like meeus apply the constant terms of the aberration of light for the suns motion and light-time correction for the moon to obtain the apparent difference in ecliptical longitudes
-sun +20.496
+sun 20.496
 moon −0.704
 correction in conjunction −0.000451 days
-for ut at 1 january 2000 δt  tt − ut  was +63.83 s hence the correction for the clock time ut  tt − δt of the conjunction is
+for ut at 1 january 2000 δt  tt − ut  was 63.83 s hence the correction for the clock time ut  tt − δt of the conjunction is
 −0.000739 days
 quadratic term
-in elp2000–85 see chapront et alii 1988 d has a quadratic term of −5.8681t2 expressed in lunations n this yields a correction of +87.403×10–12n2 days to the time of conjunction the term includes a tidal contribution of 0.5×−23.8946 cy2 the most current estimate from lunar laser ranging for the acceleration is see chapront et alii 2002 −25.858 ±0.003cy2 therefore the new quadratic term of d is  -6.8498t2 indeed the polynomial provided by chapront et alii 2002 provides the same value their table 4 this translates to a correction of +14.622×10−12n2 days to the time of conjunction the quadratic term now is
-+102.026×10−12n2 days
-for ut analysis of historical observations shows that δt has a long-term increase of +31 scy2 converted to days and lunations the correction from et to ut becomes
+in elp2000–85 see chapront et alii 1988 d has a quadratic term of −5.8681t2 expressed in lunations n this yields a correction of 87.403×10–12n2 days to the time of conjunction the term includes a tidal contribution of 0.5×−23.8946 cy2 the most current estimate from lunar laser ranging for the acceleration is see chapront et alii 2002 −25.858 ±0.003cy2 therefore the new quadratic term of d is  -6.8498t2 indeed the polynomial provided by chapront et alii 2002 provides the same value their table 4 this translates to a correction of 14.622×10−12n2 days to the time of conjunction the quadratic term now is
+102.026×10−12n2 days
+for ut analysis of historical observations shows that δt has a long-term increase of 31 scy2 converted to days and lunations the correction from et to ut becomes
 −235×10−12n2 days
-the theoretical tidal contribution to δt is about +42 scy2 the smaller observed value is thought to be mostly due to changes in the shape of the earth because the discrepancy is not fully explained uncertainty of our prediction of ut rotation angle of the earth may be as large as the difference between these values 11 scy2 the error in the position of the moon itself is only maybe 0.5cy2 or because the apparent mean angular velocity of the moon is about 0.5s 1 scy2 in the time of conjunction with the sun
+the theoretical tidal contribution to δt is about 42 scy2 the smaller observed value is thought to be mostly due to changes in the shape of the earth because the discrepancy is not fully explained uncertainty of our prediction of ut rotation angle of the earth may be as large as the difference between these values 11 scy2 the error in the position of the moon itself is only maybe 0.5cy2 or because the apparent mean angular velocity of the moon is about 0.5s 1 scy2 in the time of conjunction with the sun
 
 
  lunation number 

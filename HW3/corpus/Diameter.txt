@@ -41,8 +41,8 @@ in plane geometry a diameter of a conic section is typically defined as any chor
 
  diameter symbol 
 
-the symbol or variable for diameter ⌀ is similar in size and design to ø the latin small letter o with stroke in unicode it is defined as u+2300 ⌀ diameter sign html 8960 on an apple macintosh the diameter symbol can be entered via the character palette this is opened by pressing ⌥ opt⌘ cmdt in most applications where it can be found in the technical symbols category
-the character will sometimes not display correctly however since many fonts do not include it in many situations the letter ø the latin small letter o with stroke is an acceptable substitute which in unicode is u+00f8 ø html 248 ·  oslash it can be obtained in unix-like operating systems using a compose key by pressing in sequence composedi and on a macintosh by pressing ⌥ opt o the letter o not the number 0
+the symbol or variable for diameter ⌀ is similar in size and design to ø the latin small letter o with stroke in unicode it is defined as u2300 ⌀ diameter sign html 8960 on an apple macintosh the diameter symbol can be entered via the character palette this is opened by pressing ⌥ opt⌘ cmdt in most applications where it can be found in the technical symbols category
+the character will sometimes not display correctly however since many fonts do not include it in many situations the letter ø the latin small letter o with stroke is an acceptable substitute which in unicode is u00f8 ø html 248 ·  oslash it can be obtained in unix-like operating systems using a compose key by pressing in sequence composedi and on a macintosh by pressing ⌥ opt o the letter o not the number 0
 in microsoft word the diameter symbol can be acquired by typing 2300 and then pressing altx
 in latex the diameter symbol can be obtained with the command diameter from the wasysym package
 the diameter symbol ⌀ is distinct from the empty set symbol ∅ from an italic uppercase phi φ and from the nordic vowel ø see also slashed zero

@@ -19,7 +19,7 @@ tonatiuh the aztec god of the sun was usually depicted holding arrows and a shie
 
 
  characteristics 
-the sun is a g-type main-sequence star that comprises about 99.86% of the mass of the solar system the sun has an absolute magnitude of +4.83 estimated to be brighter than about 85% of the stars in the milky way most of which are red dwarfs the sun is a population i or heavy-element-rich star the formation of the sun may have been triggered by shockwaves from one or more nearby supernovae this is suggested by a high abundance of heavy elements in the solar system such as gold and uranium relative to the abundances of these elements in so-called population ii heavy-element-poor stars the heavy elements could most plausibly have been produced by endothermic nuclear reactions during a supernova or by transmutation through neutron absorption within a massive second-generation star
+the sun is a g-type main-sequence star that comprises about 99.86% of the mass of the solar system the sun has an absolute magnitude of 4.83 estimated to be brighter than about 85% of the stars in the milky way most of which are red dwarfs the sun is a population i or heavy-element-rich star the formation of the sun may have been triggered by shockwaves from one or more nearby supernovae this is suggested by a high abundance of heavy elements in the solar system such as gold and uranium relative to the abundances of these elements in so-called population ii heavy-element-poor stars the heavy elements could most plausibly have been produced by endothermic nuclear reactions during a supernova or by transmutation through neutron absorption within a massive second-generation star
 the sun is by far the brightest object in the earths sky with an apparent magnitude of −26.74 this is about 13 billion times brighter than the next brightest star sirius which has an apparent magnitude of −1.46 the mean distance of the suns center to earths center is approximately 1 astronomical unit about 150,000,000 km 93,000,000 mi though the distance varies as earth moves from perihelion in january to aphelion in july at this average distance light travels from the suns horizon to earths horizon in about 8 minutes and 19 seconds while light from the closest points of the sun and earth takes about two seconds less the energy of this sunlight supports almost all life on earth by photosynthesis and drives earths climate and weather
 the sun does not have a definite boundary but its density decreases exponentially with increasing height above the photosphere for the purpose of measurement however the suns radius is considered to be the distance from its center to the edge of the photosphere the apparent visible surface of the sun by this measure the sun is a near-perfect sphere with an oblateness estimated at about 9 millionths which means that its polar diameter differs from its equatorial diameter by only 10 kilometres 6.2 mi the tidal effect of the planets is weak and does not significantly affect the shape of the sun the sun rotates faster at its equator than at its poles this differential rotation is caused by convective motion due to heat transport and the coriolis force due to the suns rotation in a frame of reference defined by the stars the rotational period is approximately 25.6 days at the equator and 33.5 days at the poles viewed from earth as it orbits the sun the apparent rotational period of the sun at its equator is about 28 days
 
@@ -318,7 +318,7 @@ the sun orbits the center of the milky way and it is presently moving in the dir
         
       
     
-    displaystyle yty0+2aleftx0frac v02brightt-frac omega 0bkappa v0sinkappa tfrac 2omega 0kappa 2u01-coskappa t
+    displaystyle yty02aleftx0frac v02brightt-frac omega 0bkappa v0sinkappa tfrac 2omega 0kappa 2u01-coskappa t
   
 
   
@@ -908,7 +908,7 @@ the sun has eight known planets this includes four terrestrial planets mercury v
  further reading 
 cohen richard 2010 chasing the sun the epic story of the star that gives us life simon  schuster isbn 1-4000-6875-4 
 thompson m j 2004 solar interior helioseismology and the suns interior astronomy  geophysics 45 4 21–25 
-solar activity scholarpedia hugh hudson 333967 doi10.4249scholarpedia.3967
+solar activity scholarpedia hugh hudson 333967 doi10.4249scholarpedia3967
 
 
  external links 

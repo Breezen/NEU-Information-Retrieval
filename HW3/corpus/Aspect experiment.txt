@@ -125,7 +125,7 @@ quantum indeterminacy
 
 
  further reading 
-j barrett d collins l hardy a kent s popescu 2002 quantum nonlocality bell inequalities and the memory loophole phys rev a 66 4 042111 arxivquant-ph0205016  bibcode2002phrva.66d2111b doi10.1103physreva.66.042111 
+j barrett d collins l hardy a kent s popescu 2002 quantum nonlocality bell inequalities and the memory loophole phys rev a 66 4 042111 arxivquant-ph0205016  bibcode2002phrva66d2111b doi10.1103physreva66.042111 
 j s bell 1987 speakable and unspeakable in quantum mechanics cambridge university press 
-d kielpinski a ben-kish j britton v meyer ma rowe ca sackett wm itano c monroe dj wineland 2001 recent results in trapped-ion quantum computing arxivquant-ph0102086  bibcode2001quantph.2086k 
-pg kwiat e waks ag white i appelbaum ph eberhard 1999 ultrabright source of polarization-entangled photons physical review a 60 2 r773–6 arxivquant-ph9810003  bibcode1999phrva.60.773k doi10.1103physreva.60r773
+d kielpinski a ben-kish j britton v meyer ma rowe ca sackett wm itano c monroe dj wineland 2001 recent results in trapped-ion quantum computing arxivquant-ph0102086  bibcode2001quantph2086k 
+pg kwiat e waks ag white i appelbaum ph eberhard 1999 ultrabright source of polarization-entangled photons physical review a 60 2 r773–6 arxivquant-ph9810003  bibcode1999phrva60773k doi10.1103physreva60r773

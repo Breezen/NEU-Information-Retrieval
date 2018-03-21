@@ -113,7 +113,7 @@ the isotope 4he can be produced by using the 3he in the previous reaction which 
         p
       
     
-    displaystyle 3he3heto 4he+2p
+    displaystyle 3he3heto 4he2p
   
 with both helium-3 and helium-4 in the system now beryllium can be fused by the reaction of one of each helium nucleus as seen in the reaction
 
@@ -361,4 +361,4 @@ solar neutrino unit
 
 
  further reading 
-haxton wc hamish robertson rg serenelli aldo m 18 august 2013 solar neutrinos status and prospects annual review of astronomy and astrophysics 51 1 21–61 arxiv1208.5723  bibcode2013araa.51.21h doi10.1146annurev-astro-081811-125539
+haxton wc hamish robertson rg serenelli aldo m 18 august 2013 solar neutrinos status and prospects annual review of astronomy and astrophysics 51 1 21–61 arxiv1208.5723  bibcode2013araa5121h doi10.1146annurev-astro-081811-125539

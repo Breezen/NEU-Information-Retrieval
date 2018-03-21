@@ -119,7 +119,7 @@ each of these is an eclipse cycle less accurate cycles may be constructed by com
 
 
  eclipse cycles 
-this table summarizes the characteristics of various eclipse cycles and can be computed from the numerical results of the preceding paragraphs cf meeus 1997 ch.9 more details are given in the comments below and several notable cycles have their own pages
+this table summarizes the characteristics of various eclipse cycles and can be computed from the numerical results of the preceding paragraphs cf meeus 1997 ch9 more details are given in the comments below and several notable cycles have their own pages
 any eclipse cycle and indeed the interval between any two eclipses can be expressed as a combination of saros s and inex i intervals these are listed in the column formula
 notes
 fortnight
@@ -176,13 +176,13 @@ saros astronomy
 
 s newcomb 1882 on the recurrence of solar eclipses astronpapameph voli pti  bureau of navigation navy dept washington 1882
 jn stockwell 1901 eclips-cycles astronj 504 volxx124 14-aug-1901
-acd crommelin 1901 the 29-year eclipse cycle observatory xxiv nr.310 379 oct-1901
-a pannekoek 1951 periodicities in lunar eclipses proc kon ned acad wetensch serb vol.54 pp 30.41 1951
+acd crommelin 1901 the 29-year eclipse cycle observatory xxiv nr310 379 oct-1901
+a pannekoek 1951 periodicities in lunar eclipses proc kon ned acad wetensch serb vol54 pp 3041 1951
 g van den bergh 1954 eclipses in the second millennium bc tjeenk willink  zn nv haarlem 1954
 g van den bergh 1955 periodicity and variation of solar and lunar eclipses 2 vols tjeenk willink  zn nv haarlem 1955
 jean meeus 1991 astronomical algorithms 1st ed willmann-bell richmond va 1991 isbn 0-943396-35-2
-jean meeus 1997 mathematical astronomy morsels i ch.9 solar eclipses some periodicities pp 49.55 willmann-bell richmond va 1997 isbn 0-943396-51-4
-jean meeus 2004 mathematical astronomy morsels iii ch.21 lunar tetrads pp 123.140 willmann-bell richmond va 2004 isbn 0-943396-81-6
+jean meeus 1997 mathematical astronomy morsels i ch9 solar eclipses some periodicities pp 4955 willmann-bell richmond va 1997 isbn 0-943396-51-4
+jean meeus 2004 mathematical astronomy morsels iii ch21 lunar tetrads pp 123140 willmann-bell richmond va 2004 isbn 0-943396-81-6
 
 
  external links 

@@ -21,14 +21,14 @@ obliquity of the ecliptic is the term used by astronomers for the inclination of
 the angular value of the obliquity is found by observation of the motions of earth and other planets over many years astronomers produce new fundamental ephemerides as the accuracy of observation improves and as the understanding of the dynamics increases and from these ephemerides various astronomical values including the obliquity are derived
 
 until 1983 the obliquity for any date was calculated from work of newcomb who analyzed positions of the planets until about 1895
-ε  23° 27′ 08″.26 − 46″.845 t − 0″.0059 t2  0″.00181 t3
+ε  23° 27′ 08″26 − 46″845 t − 0″0059 t2  0″00181 t3
 where ε is the obliquity and t is tropical centuries from b1900.0 to the date in question
 from 1984 the jet propulsion laboratorys de series of computer-generated ephemerides took over as the fundamental ephemeris of the astronomical almanac obliquity based on de200 which analyzed observations from 1911 to 1979 was calculated
-ε  23° 26′ 21″.45 − 46″.815 t − 0″.0006 t2  0″.00181 t3
+ε  23° 26′ 21″45 − 46″815 t − 0″0006 t2  0″00181 t3
 where hereafter t is julian centuries from j2000.0
 jpls fundamental ephemerides have been continually updated the astronomical almanac for 2010 specifies
-ε  23° 26′ 21″.406 − 46″.836769 t − 0″.0001831 t2  0″.00200340 t3 − 0″.576×10−6 t4 − 4″.34×10−8 t5
-these expressions for the obliquity are intended for high precision over a relatively short time span perhaps ± several centuries j laskar computed an expression to order t10 good to 0″.04/1000 years over 10,000 years
+ε  23° 26′ 21″406 − 46″836769 t − 0″0001831 t2  0″00200340 t3 − 0″576×10−6 t4 − 4″34×10−8 t5
+these expressions for the obliquity are intended for high precision over a relatively short time span perhaps ± several centuries j laskar computed an expression to order t10 good to 0″04/1000 years over 10,000 years
 all of these expressions are for the mean obliquity that is without the nutation of the equator included the true or instantaneous obliquity includes the nutation
 
 
@@ -40,10 +40,10 @@ most of the major bodies of the solar system orbit the sun in nearly the same pl
  celestial reference plane 
 
 the ecliptic forms one of the two fundamental planes used as reference for positions on the celestial sphere the other being the celestial equator perpendicular to the ecliptic are the ecliptic poles the north ecliptic pole being the pole north of the equator of the two fundamental planes the ecliptic is closer to unmoving against the background stars its motion due to planetary precession being roughly 1/100 that of the celestial equator
-spherical coordinates known as ecliptic longitude and latitude or celestial longitude and latitude are used to specify positions of bodies on the celestial sphere with respect to the ecliptic longitude is measured positively eastward 0° to 360° along the ecliptic from the vernal equinox the same direction in which the sun appears to move latitude is measured perpendicular to the ecliptic to +90° northward or -90° southward to the poles of the ecliptic the ecliptic itself being 0° latitude for a complete spherical position a distance parameter is also necessary different distance units are used for different objects within the solar system astronomical units are used and for objects near earth earth radii or kilometers are used a corresponding right-handed rectangular coordinate system is also used occasionally the x-axis is directed toward the vernal equinox the y-axis 90° to the east and the z-axis toward the north ecliptic pole the astronomical unit is the unit of measure symbols for ecliptic coordinates are somewhat standardized see the table
+spherical coordinates known as ecliptic longitude and latitude or celestial longitude and latitude are used to specify positions of bodies on the celestial sphere with respect to the ecliptic longitude is measured positively eastward 0° to 360° along the ecliptic from the vernal equinox the same direction in which the sun appears to move latitude is measured perpendicular to the ecliptic to 90° northward or -90° southward to the poles of the ecliptic the ecliptic itself being 0° latitude for a complete spherical position a distance parameter is also necessary different distance units are used for different objects within the solar system astronomical units are used and for objects near earth earth radii or kilometers are used a corresponding right-handed rectangular coordinate system is also used occasionally the x-axis is directed toward the vernal equinox the y-axis 90° to the east and the z-axis toward the north ecliptic pole the astronomical unit is the unit of measure symbols for ecliptic coordinates are somewhat standardized see the table
 ecliptic coordinates are convenient for specifying positions of solar system objects as most of the planets orbits have small inclinations to the ecliptic and therefore always appear relatively close to it on the sky because earths orbit and hence the ecliptic moves very little it is a relatively fixed reference with respect to the stars
 
-because of the precessional motion of the equinox the ecliptic coordinates of objects on the celestial sphere are continuously changing specifying a position in ecliptic coordinates requires specifying a particular equinox that is the equinox of a particular date known as an epoch the coordinates are referred to the direction of the equinox at that date for instance the astronomical almanac lists the heliocentric position of mars at 0h terrestrial time 4 jan 2010 as longitude 118° 09 15.8 latitude +1° 43 16.7 true heliocentric distance 1.6302454 au mean equinox and ecliptic of date this specifies the mean equinox of 4 jan 2010 0h tt as above without the addition of nutation
+because of the precessional motion of the equinox the ecliptic coordinates of objects on the celestial sphere are continuously changing specifying a position in ecliptic coordinates requires specifying a particular equinox that is the equinox of a particular date known as an epoch the coordinates are referred to the direction of the equinox at that date for instance the astronomical almanac lists the heliocentric position of mars at 0h terrestrial time 4 jan 2010 as longitude 118° 09 158 latitude 1° 43 167 true heliocentric distance 1.6302454 au mean equinox and ecliptic of date this specifies the mean equinox of 4 jan 2010 0h tt as above without the addition of nutation
 
 
  eclipses 
@@ -82,4 +82,4 @@ seasons and ecliptic simulator university of nebraska-lincoln
 measuring the sky a quick guide to the celestial sphere james b kaler university of illinois
 earths seasons us naval observatory
 the basics - the ecliptic the equator and coordinate systems astrologycluborg
-kinoshita h aoki s 1983 the definition of the ecliptic celestial mechanics 31 329–338 bibcode1983cemec.31.329k doi10.1007bf01230290  comparison of the definitions of leverrier newcomb and standish
+kinoshita h aoki s 1983 the definition of the ecliptic celestial mechanics 31 329–338 bibcode1983cemec31329k doi10.1007bf01230290  comparison of the definitions of leverrier newcomb and standish

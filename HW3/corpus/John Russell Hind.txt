@@ -29,7 +29,7 @@ in the table of discovered asteroids mpc links to the minor planet center databa
 
 
  further reading 
-plummer william e 1896 dr john russell hind frs astronomische nachrichten wiley‐vch verlag 139 16 255–256 bibcode1896an.139.255p doi10.1002asna.18961391609 issn 1521-3994 
+plummer william e 1896 dr john russell hind frs astronomische nachrichten wiley‐vch verlag 139 16 255–256 bibcode1896an139255p doi10.1002asna18961391609 issn 1521-3994 
 book observing and cataloguing nebulae and star clusters by steinicke page 121 biography of hind
 book everyday biography containing a collection of brief biographies arranged  page 120 very short bio
 university of glasgow graduate record

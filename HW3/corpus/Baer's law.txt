@@ -1,17 +1,37 @@
-the baer-babinet law or sometimes the law of baer is a concept in geography which states that the process of formation of rivers is influenced by the rotation of the earth according to the hypothesis because of the rotation of the earth erosion occurs mostly on the right banks of rivers in the northern hemisphere and in the southern hemisphere on the left banks
-the concept was originally introduced by a french physicist jacques babinet in 1859 using mathematical deduction and coriolis force a more definitive explanation was given by an estonian scientist karl ernst von baer in 1860
-although it is possible that an aggregate measurement of all rivers would lead to a correlation with the baer-babinet law the coriolis force is orders of magnitude weaker than the local forces on the river channel from its flow therefore this is unlikely to be important in any given river albert einstein wrote a paper in 1926 explaining the true causes of the phenomenon
+von baers laws of embryology or laws of development are four rules discovered by karl ernst von baer to explain the observed pattern of embryonic development in different species
+von baer formulated the laws in the book über entwickelungsgeschichte der thiere on the developmental history of animals published in 1828 while working at the university of königsberg he specifically intended to rebut johann friedrich meckels 1808 recapitulation theory according to that theory embryos pass through successive stages that represent the adult forms of less complex organisms in the course of development and that ultimately reflects scala naturae the great chain of being von baer believed that such linear development is impossible he posited that instead of linear progression embryos started from one or a few basic forms that are similar in different animals and then developed in a branching pattern into increasingly different organisms defending his ideas he was also opposed to charles darwins 1859 theory of common ancestry and descent with modification and particularly to ernst haeckels revised recapitulation theory with its slogan ontogeny recapitulates phylogeny
+
+
+ the laws 
+von baers laws are a series of statements generally summarised into four points as translated by thomas henry huxley in his scientific memoirs
+the more general characters of a large group appear earlier in the embryo than the more special characters
+from the most general forms the less general are developed and so on until finally the most special arises
+every embryo of a given animal form instead of passing through the other forms rather becomes separated from them
+the embryo of a higher form never resembles any other form but only its embryo
+
+
+ description 
+von baer discovered the blastula the early hollow ball stage of an embryo and the development of the notochord the stiffening rod along the back of all chordates that forms after the blastula and gastrula stages from his observations of these stages in different vertebrates that he realised that johann friedrich meckels recapitulation theory must be wrong for example he noticed that the yolk sac is found in birds but not in frogs according to the recapitulation theory such structure should invariably be present in frogs because they were assumed to be at a lower level in the evolutionary tree von baer concluded that while structures like the notochord are recapitulated during embryogenesis whole organisms are not he asserted that as translated
+
+the embryo successively adds the organs that characterize the animal classes in the ascending scale when the human embryo for instance is but a simple vesicle it is an infusorian when it has gained a liver it is a mussel with the appearance of the osseous system it enters the class of fishes and so forth until it becomes a mammal and then a human being
+
+in terms of taxonomic hierarchy characters in the embryo are formed in top-to-bottom sequence first from those of the largest and oldest taxon the phylum then in turn class order family genus and finally species
+
+
+ reception 
+von baers laws of embryology received a mixed appreciation while they were criticised in detail they formed the foundation of modern embryology the british zoologist adam sedgwick studied the developing embryos of dogfish and chicken and in 1894 noted a series of differences such as the green yolk in the dogfish and yellow yolk in the chicken absence of embryonic rim in chick embryos absence of blastopore in dogfish and differences in the gill slits and gill clefts he concluded
+
+there is no stage of development in which the unaided eye would fail to distinguish between them with ease a blind man could distinguish between them
+
+the most important supporter of von baers laws was charles darwin who wrote in his origin of species
+
+the adult animal differs from its embryo owing to variations supervening at a not early age and being inherited at a corresponding age this process whilst it leaves the embryo almost unaltered continually adds in the course of successive generations more and more difference to the adult thus the embryo comes to be left as a sort of picture preserved by nature of the ancient and less modified condition of each animal this view may be true and yet it may never be capable of full proof
+
+darwin took up the concept of common descent which formed part of his theory of evolution but von baer was a vociferous anti-darwinist devoting much of his scholarly effort to criticising darwinism his criticism culminated with his last work über darwins lehre on the doctrine of darwin published in the year of his death in 1876
 
 
  see also 
-tea leaf paradox
-secondary flow
+evolutionary developmental biology
 
 
  references 
-
-
- further reading 
-baer k e v über ein allgemeines gesetz in der gestaltung der flussbetten kaspische studien 1860 viii s 1–6
-einstein a die ursache der mäanderbildung der flussläufe und des sogenannten baerschen gesetzes die naturwissenschaften 1926 11 s 223–224
-einstein a the causes of the formation of meanders in the courses of rivers and of the so-called baers law translation in ideas and opinions bonanza books 1954

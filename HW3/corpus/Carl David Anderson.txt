@@ -8,8 +8,8 @@ anderson spent all of his academic and research career at caltech during world w
 
 
  select publications 
-anderson c d 1933 the positive electron physical review 43 6 491 bibcode1933phrv.43.491a doi10.1103physrev.43.491 
-anderson c d 1932 the apparent existence of easily deflectable positives science 76 1967 238–9 bibcode1932sci.76.238a doi10.1126science.76.1967.238 pmid 17731542 
+anderson c d 1933 the positive electron physical review 43 6 491 bibcode1933phrv43491a doi10.1103physrev43.491 
+anderson c d 1932 the apparent existence of easily deflectable positives science 76 1967 238–9 bibcode1932sci76238a doi10.1126science76.1967.238 pmid 17731542 
 anderson c d technical advisor 1957 the strange case of the cosmic rays the bell laboratory science series 
 
 

@@ -295,7 +295,7 @@ in the direction longitudinal to the magnetic field the thermal conductivity of 
         
       
     
-    displaystyle k20leftfrac 2pi right3/2frac leftkbtright5/2kbme1/2e4ln lambda approx 1.8~10-10frac t5/2ln lambda wm-1k-1
+    displaystyle k20leftfrac 2pi right3/2frac leftkbtright5/2kbme1/2e4ln lambda approx 1.810-10frac t5/2ln lambda wm-1k-1
   
 where 
   
@@ -510,7 +510,7 @@ thence if we indicate with
         
       
     
-    displaystyle frac partial qpartial t0.9~10-11frac partial 2t7/2partial x2
+    displaystyle frac partial qpartial t0.910-11frac partial 2t7/2partial x2
   
 numerical calculations have shown that the thermal conductivity of the corona is comparable to that of copper
 

@@ -58,5 +58,5 @@ sputtering basics - animated film of a sputtering process
 free molecular dynamics simulation program kalypso capable of modeling sputtering
 american vacuum society short courses on thin film deposition
 reactive sputtering using a dual-anode magnetron system
-h r kaufman j j cuomo and j m e harper 1982 technology and applications of broad-beam ion sources used in sputtering part i ion source technology journal of vacuum science and technology 21 3 725–736 bibcode1982jvst.21.725k doi10.1116/1.571819 the original paper on kaufman sputter sources
+h r kaufman j j cuomo and j m e harper 1982 technology and applications of broad-beam ion sources used in sputtering part i ion source technology journal of vacuum science and technology 21 3 725–736 bibcode1982jvst21725k doi10.1116/1.571819 the original paper on kaufman sputter sources
 re displacement cascade 1 youtube 2008

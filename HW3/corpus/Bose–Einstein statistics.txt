@@ -166,7 +166,7 @@ for comparison the average number of fermions with energy
         
       
     
-    displaystyle bar niepsilon ifrac gieepsilon i-mu kt+1
+    displaystyle bar niepsilon ifrac gieepsilon i-mu kt1
   
 b–e statistics reduces to the rayleigh–jeans law distribution for 
   

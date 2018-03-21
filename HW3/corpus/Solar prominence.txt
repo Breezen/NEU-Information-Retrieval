@@ -27,7 +27,7 @@ corona
 
 
  further reading 
-galsgaard k longbottom aw 1999 formation of solar prominences by flux convergence astrophysical journal 510 444 bibcode1999apj.510.444g doi10.1086/306559 
-low bc fong b fan y 2003 the mass of a solar quiescent prominence astrophysical journal 594 2 1060 bibcode2003apj.594.1060l doi10.1086/377042 
+galsgaard k longbottom aw 1999 formation of solar prominences by flux convergence astrophysical journal 510 444 bibcode1999apj510444g doi10.1086/306559 
+low bc fong b fan y 2003 the mass of a solar quiescent prominence astrophysical journal 594 2 1060 bibcode2003apj594.1060l doi10.1086/377042 
 golub l pasachoff jm 1997 the solar corona cambridge university press isbn 0-521-48535-5 
 tandberg-hanssen einar 1995 the nature of solar prominences dordrecht kluwer acad isbn 978-0792333746

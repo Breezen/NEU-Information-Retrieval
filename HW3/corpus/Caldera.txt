@@ -266,7 +266,7 @@ volcanic explosivity index
 
  references 
 
-clough c t maufe h b bailey e b 1909 the cauldron-subsidence of glen coe and the associated igneous phenomena quarterly journal of the geological society 65 1–4 611–78 doi10.1144gsljgs.1909.065.01-04.35 
+clough c t maufe h b bailey e b 1909 the cauldron-subsidence of glen coe and the associated igneous phenomena quarterly journal of the geological society 65 1–4 611–78 doi10.1144gsljgs1909.065.01-04.35 
 gudmundsson a 2008 magma-chamber geometry fluid transport local stresses and rock behavior during collapse caldera formation in gottsmann j  marti j ed 10 caldera volcanism analysis modeling and response 314–46 elsener amsterdam the netherlands
 kokelaar b p and moore i d 2006 glencoe caldera volcano scotland isbn 9780852725252 pub british geological survey keyworth nottinghamshire there is an associated 125000 solid geology map
 lipman p 1999 caldera in haraldur sigurdsson ed encyclopedia of volcanoes academic press isbn 0-12-643140-x

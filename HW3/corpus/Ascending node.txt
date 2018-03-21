@@ -16,7 +16,7 @@ the line of nodes is the intersection of the objects orbital plane with the plan
 
 
  symbols and nomenclature 
-the symbol of the ascending node is  unicode u+260a ☊ and the symbol of the descending node is  unicode u+260b ☋ in medieval and early modern times the ascending and descending nodes were called the dragons head latin caput draconis arabic ras al-jauzahar and dragons tail latin cauda draconis respectively p 141  p 245 these terms originally referred to the times when the moon crossed the apparent path of the sun in the sky also corruptions of the arabic term such as ganzaar genzahar geuzaar and zeuzahar were used in the medieval west to denote either of the nodes pp 196–197  p 65  pp 95–96 the greek terms αναβιβάζων and καταβιβάζων were also used for the ascending and descending nodes giving rise to the english words anabibazon and catabibazon  ¶27
+the symbol of the ascending node is  unicode u260a ☊ and the symbol of the descending node is  unicode u260b ☋ in medieval and early modern times the ascending and descending nodes were called the dragons head latin caput draconis arabic ras al-jauzahar and dragons tail latin cauda draconis respectively p 141  p 245 these terms originally referred to the times when the moon crossed the apparent path of the sun in the sky also corruptions of the arabic term such as ganzaar genzahar geuzaar and zeuzahar were used in the medieval west to denote either of the nodes pp 196–197  p 65  pp 95–96 the greek terms αναβιβάζων and καταβιβάζων were also used for the ascending and descending nodes giving rise to the english words anabibazon and catabibazon  ¶27
 
 
  lunar nodes 

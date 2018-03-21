@@ -919,7 +919,7 @@ keplerian elements parameters can be encoded as text in a number of formats the 
 depending on the application and object orbit the data derived from tles older than 30 days can become unreliable orbital positions can be calculated from tles through the sgpsgp4sdp4sgp8sdp8 algorithms
 example of a two-line element
 
- 1 27651u 03004a   07083.49636287  .00000119  00000-0  30706-4 0  2692
+ 1 27651u 03004a   07083.49636287  00000119  00000-0  30706-4 0  2692
  2 27651 039.9951 132.2059 0025931 073.4582 286.9047 14.81909376225249
 
 
@@ -938,7 +938,7 @@ osculating orbit
 
  references 
 
-gurfil pini 2005 euler parameters as nonsingular orbital elements in near-equatorial orbits j guid contrl dynamics 28 5 bibcode2005jgcd.28.1079g doi10.2514/1.14760 
+gurfil pini 2005 euler parameters as nonsingular orbital elements in near-equatorial orbits j guid contrl dynamics 28 5 bibcode2005jgcd28.1079g doi10.2514/1.14760 
 
 
  external links 

@@ -29,9 +29,9 @@ arthur schawlow was an intense fan and collector of traditional american jazz re
 
  bibliography 
 schawlow a l 1995 principles of lasers journal of clinical laser medicine  surgery published jun 1995 13 3 pp 127–30 pmid 10150635 
-schawlow al 1982 spectroscopy in a new light science published jul 2 1982 217 4554 pp 9–16 bibcode1982sci.217.9s doi10.1126science.217.4554.9 pmid 17739964 
-schawlow al 1978 laser spectroscopy of atoms and molecules science published oct 13 1978 202 4364 141–147 bibcode1978sci.202.141s doi10.1126science.202.4364.141 pmid 17801904 
-mccaul b w schawlow a l 1969 plasma refractive effects in hcn lasers ann n y acad sci published feb 10 1969 168 3 pp 697–702 bibcode1969nyasa.168.697m doi10.1111j.1749-6632.1969tb43154x pmid 5273948 
+schawlow al 1982 spectroscopy in a new light science published jul 2 1982 217 4554 pp 9–16 bibcode1982sci2179s doi10.1126science217.4554.9 pmid 17739964 
+schawlow al 1978 laser spectroscopy of atoms and molecules science published oct 13 1978 202 4364 141–147 bibcode1978sci202141s doi10.1126science202.4364.141 pmid 17801904 
+mccaul b w schawlow a l 1969 plasma refractive effects in hcn lasers ann n y acad sci published feb 10 1969 168 3 pp 697–702 bibcode1969nyasa168697m doi10.1111j1749-6632.1969tb43154x pmid 5273948 
 schawlow a l 1966 lasers international ophthalmology clinics 6 2 pp 241–51 doi10.1097/00004397-196600620-00002 pmid 5958291 
 
 

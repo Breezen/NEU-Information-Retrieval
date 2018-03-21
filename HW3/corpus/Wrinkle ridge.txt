@@ -16,4 +16,4 @@ planetary nomenclature
 golombek m p f s anderson and m t zuber 2001 martian wrinkle ridge topography evidence for subsurface faults from mola j geophys res 106 23,811–23,821 doi10.1029/2000je001308
 montési l g j and m t zuber 2003 clues to the lithospheric structure of mars from wrinkle ridge sets and localization instability j geophys res 108e6 5048 doi10.1029/2002je001974
 watters t r 1988 wrinkle ridge assemblages on the terrestrial planets j geophys res 93b9 10,236–10,254 doi10.1029jb093ib09p10236
-watters et al evidence of recent thrust faulting on the moon revealed by the lunar reconnaissance orbiter camera science 20 august 2010 936-940 doi10.1126science.1189590
+watters et al evidence of recent thrust faulting on the moon revealed by the lunar reconnaissance orbiter camera science 20 august 2010 936-940 doi10.1126science1189590

@@ -11,7 +11,7 @@ in calculating the dates for lent and easter catholic clergy identified a lenten
 folklore named each of the 12 full moons in a year according to its time of year the occasional 13th full moon that came too early for its season was called a blue moon so the rest of the moons that year retained their customary seasonal names
 the maine farmers almanac called the third full moon in a season that had four the blue moon
 the frequency of a blue moon can be calculated as follows it is the period of time it would take for an extra synodic orbit of the moon to occur in a year given that a year is approximately 365.2425 days and a synodic orbit is 29.5309 days then there are about 12.368 synodic months in a year for this to add up to another full month would take 1/0.368 years thus it would take about 2.716 years or 2 years 8 months and 18 days for another blue moon to occur
-using the common sky  telescope misunderstanding when one calendar month has two full moons the second one is called a blue moon on rare occasions in a calendar year as happened in 2010 in time zones east of utc+07 both january and march each have two full moons so that the second one in each month is called a blue moon in this case the month of february with only 28 or 29 days has no full moon under this misinterpretation a blue moon can be more frequent
+using the common sky  telescope misunderstanding when one calendar month has two full moons the second one is called a blue moon on rare occasions in a calendar year as happened in 2010 in time zones east of utc07 both january and march each have two full moons so that the second one in each month is called a blue moon in this case the month of february with only 28 or 29 days has no full moon under this misinterpretation a blue moon can be more frequent
 
 
  origin of the term 
@@ -56,16 +56,16 @@ august 22 2021
 
 unlike the astronomical seasonal definition these dates are dependent on the gregorian calendar and time zones
 two full moons in one month the second of which is a blue moon
-2009 december 2 and 31 partial lunar eclipse visible in some parts of the world only in time zones west of utc+05
-2010 january 1 partial lunar eclipse and 30 only in time zones east of utc+0430
-2010 march 1 and 30 only in time zones east of utc+07
-2012 august 2 and 31 only in time zones west of utc+10
-2012 september 1 and 30 only in time zones east of utc+1030
+2009 december 2 and 31 partial lunar eclipse visible in some parts of the world only in time zones west of utc05
+2010 january 1 partial lunar eclipse and 30 only in time zones east of utc0430
+2010 march 1 and 30 only in time zones east of utc07
+2012 august 2 and 31 only in time zones west of utc10
+2012 september 1 and 30 only in time zones east of utc1030
 2015 july 2 and 31
-2018 january 2 and 31 only in time zones west of utc+11
-2018 march 2 and 31 only in time zones west of utc+12
-2020 october 1 and 31 only in time zones west of utc+10
-the next time new years eve falls on a blue moon as occurred on december 31 2009 in time zones west of utc+05 is after one metonic cycle in 2028 in time zones west of utc+08 at that time there will be a total lunar eclipse
+2018 january 2 and 31 only in time zones west of utc11
+2018 march 2 and 31 only in time zones west of utc12
+2020 october 1 and 31 only in time zones west of utc10
+the next time new years eve falls on a blue moon as occurred on december 31 2009 in time zones west of utc05 is after one metonic cycle in 2028 in time zones west of utc08 at that time there will be a total lunar eclipse
 
 
  popular culture 

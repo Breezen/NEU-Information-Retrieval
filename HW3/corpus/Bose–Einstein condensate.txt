@@ -221,7 +221,7 @@ if we can tell which particle is which there are
     
     displaystyle scriptstyle 1rangle 
    the balance is a statistical effect the number of configurations is largest when the particles are divided equally
-if the particles are indistinguishable however there are only n+1 different configurations if there are k particles in state 
+if the particles are indistinguishable however there are only n1 different configurations if there are k particles in state 
   
     
       
@@ -1118,7 +1118,7 @@ in the case of zero external potential the dispersion law of interacting bose–
         
       
     
-    displaystyle omega psqrt frac p22mleftfrac p22m+2u0n0right
+    displaystyle omega psqrt frac p22mleftfrac p22m2u0n0right
   
 the gross-pitaevskii equation gpe provides a relatively good description of the behavior of atomic becs however gpe does not take into account the temperature dependence of dynamical variables and is therefore valid only for 
   

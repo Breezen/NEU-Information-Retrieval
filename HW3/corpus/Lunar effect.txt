@@ -110,7 +110,7 @@ solunar theory
 
  references 
 
-61 yonezawa t uchida m tomioka m matsuki n 2016 lunar cycle influences spontaneous delivery in cows plos one 118 e0161735 doi10.1371journalpone.0161735
+61 yonezawa t uchida m tomioka m matsuki n 2016 lunar cycle influences spontaneous delivery in cows plos one 118 e0161735 doi10.1371journalpone0161735
 
 
  bibliography 
@@ -119,8 +119,8 @@ abell george and barry singer 1981 science and the paranormal - probing the exis
 berman bob 2003 fooled by the full moon - scientists search for the sober truth behind some loony ideas discover september 2003 page 30
 caton dan 2001 natality and the moon revisited do birth rates depend on the phase of the moon bulletin of the american astronomical society vol 33 no 4 2001 p 1371 a summary of the results of the paper
 diefendorf david 2007 amazing but false hundreds of facts you thought were true but arent sterling publishing isbn 978-1-4027-3791-6 
-foster russell g roenneberg till 2008 human responses to the geophysical daily annual and lunar cycles current biology 18 17 r784–r794 doi10.1016jcub.2008.07.003 pmid 18786384 lunar cycles had and continue to have an influence upon human culture though despite a persistent belief that our mental health and other behaviours are modulated by the phase of the moon there is no solid evidence that human biology is in any way regulated by the lunar cycle 
-packer c swanson a ikanda d kushnir h 2011 fear of darkness the full moon and the nocturnal ecology of african lions plos one 6 7 22285 bibcode2011ploso.622285p doi10.1371journalpone.0022285 pmc 3140494  pmid 21799812 
+foster russell g roenneberg till 2008 human responses to the geophysical daily annual and lunar cycles current biology 18 17 r784–r794 doi10.1016jcub2008.07.003 pmid 18786384 lunar cycles had and continue to have an influence upon human culture though despite a persistent belief that our mental health and other behaviours are modulated by the phase of the moon there is no solid evidence that human biology is in any way regulated by the lunar cycle 
+packer c swanson a ikanda d kushnir h 2011 fear of darkness the full moon and the nocturnal ecology of african lions plos one 6 7 22285 bibcode2011ploso622285p doi10.1371journalpone0022285 pmc 3140494  pmid 21799812 
 palmer jd udry jr morris nm 1982 diurnal and weekly but no lunar rhythms in humans copulation human biology an international record of research 54 1 111–21 pmid 7200945 
 sanduleak nicholas 1985 the moon is acquitted of murder in cleveland skeptical inquirer spring 1985 236-42 reprinted in science confronts the paranormal edited by kendrick frazier prometheus books isbn 0-87975-314-5
 zimecki michał 2006 the lunar cycle effects on human and animal behavior and physiology postepy higieny i medycyny doswiadczalnej 60 1–7 pmid 16407788 in fish the lunar clock influences reproduction and involves the hypothalamus-pituitary-gonadal axis in birds the daily variations in melatonin and corticosterone disappear during full-moon days the lunar cycle also exerts effects on laboratory rats with regard to taste sensitivity and the ultrastructure of pineal gland cells cyclic variations related to the moons phases in the magnitude of the humoral immune response of mice to polivinylpyrrolidone and sheep erythrocytes were also described it is suggested that melatonin and endogenous steroids may mediate the described cyclic alterations of physiological processes the release of neurohormones may be triggered by the electromagnetic radiation andor the gravitational pull of the moon 

@@ -1,4 +1,4 @@
-import string, wikipedia
+import os, string, wikipedia
 
 class CorpusGenerator:
     def __init__(self, wikiTitle):
@@ -7,14 +7,12 @@ class CorpusGenerator:
         self.content = page.content
 
     def usefulForDigits(self, c, last, next):
-        if next is None or next == ' ':
+        if next is None or next == ' ' or next == '\n':
             if last in string.digits:
-                return c in "!%"
+                return c in "%"
             return False
         if next in string.digits and last in string.digits:
-            return c in ",./~"
-        if next in string.digits:
-            return c in "+-."
+            return c in ",./"
         return False
 
     def parse(self, caseFolding=True, removePunc=True):
@@ -30,6 +28,8 @@ class CorpusGenerator:
             self.content = parsed
 
     def save(self):
+        if not os.path.exists("corpus"):
+            os.mkdir("corpus")
         with open("corpus/" + self.title + ".txt", "w+") as fout:
             fout.write(self.content)
 

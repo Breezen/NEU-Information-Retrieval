@@ -329,7 +329,7 @@ e is the eccentricity defined as
         
       
     
-    displaystyle efrac rmathrm ap -rmathrm per rmathrm ap rmathrm per 1-frac 2frac rmathrm ap rmathrm per +1
+    displaystyle efrac rmathrm ap -rmathrm per rmathrm ap rmathrm per 1-frac 2frac rmathrm ap rmathrm per 1
   
 
 note that for conversion from heights above the surface to distances between an orbit and its primary the radius of the central body has to be added and conversely

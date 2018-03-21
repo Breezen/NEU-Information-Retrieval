@@ -294,7 +294,7 @@ the moons equation of the center or elliptic inequality was known at least in ap
         
       
     
-    displaystyle +22639sinl+769sin2l+36sin3l
+    displaystyle 22639sinl769sin2l36sin3l
    
 
 
@@ -319,7 +319,7 @@ the evection or its approximation was known to ptolemy but its name and knowledg
         
       
     
-    displaystyle +4586sin2d-l
+    displaystyle 4586sin2d-l
    
 
 
@@ -342,7 +342,7 @@ the variation discovered by tycho brahe is a speeding-up of the moon as it appro
         
       
     
-    displaystyle +2370sin2d
+    displaystyle 2370sin2d
    
 
 
@@ -447,16 +447,16 @@ e w brown 1903 on the verification of the newtonian law monthly notes of the roy
 e w brown 1905 theory of the motion of the moon memoirs of the royal astronomical society 57 1905 51-145
 e w brown 1908 theory of the motion of the moon memoirs of the royal astronomical society 59 1908 1-103
 e w brown 1919 tables of the motion of the moon new haven 1919
-m chapront-touzé  j chapront the lunar ephemeris elp-2000 astronomy  astrophysics 124 1983 50.62
-m chapront-touzé  j chapront elp2000-85 a semi-analytical lunar ephemeris adequate for historical times astronomy  astrophysics 190 1988 342.352
+m chapront-touzé  j chapront the lunar ephemeris elp-2000 astronomy  astrophysics 124 1983 5062
+m chapront-touzé  j chapront elp2000-85 a semi-analytical lunar ephemeris adequate for historical times astronomy  astrophysics 190 1988 342352
 m chapront-touzé  j chapront analytical ephemerides of the moon in the 20th century observatoire de paris 2002
-j chapront m chapront-touzé g francou a new determination of lunar orbital parameters precession constant and tidal acceleration from llr measurements astronomy  astrophysics 387 2002 700.709
-j chapront  g francou the lunar theory elp revisited introduction of new planetary perturbations astronomy  astrophysics 404 2003 735.742
+j chapront m chapront-touzé g francou a new determination of lunar orbital parameters precession constant and tidal acceleration from llr measurements astronomy  astrophysics 387 2002 700709
+j chapront  g francou the lunar theory elp revisited introduction of new planetary perturbations astronomy  astrophysics 404 2003 735742
 i b cohen and anne whitman 1999 isaac newton the principia a new translation university of california press 1999 for bibliographic details but no text see external link
 j o dickey p l bender j e faller and others lunar laser ranging a continuing legacy of the apollo program science 265 1994 pp 482–490
 j l e dreyer 1906 a history of astronomy from thales to kepler cambridge university press 1906 later republished under the modified title history of the planetary systems from thales to kepler
 w j eckert et al improved lunar ephemeris 1952–1959 a joint supplement to the american ephemeris and the british nautical almanac us government printing office 1954
-j epping  j n strassmaier 1881 zur entzifferung der astronomischen tafeln der chaldaer on the deciphering of chaldaean astronomical tables stimmen aus maria laach vol.21 1881 pp 277–292
+j epping  j n strassmaier 1881 zur entzifferung der astronomischen tafeln der chaldaer on the deciphering of chaldaean astronomical tables stimmen aus maria laach vol21 1881 pp 277–292
 esae 1961 explanatory supplement to the astronomical ephemeris and the american ephemeris and nautical almanac prepared jointly by the nautical almanac offices of the united kingdom and the united states of america london hmso 1961
 k garthwaite d b holdridge  j d mulholland 1970 a preliminary special perturbation theory for the lunar motion astronomical journal 75 1970 1133
 h godfray 1885 elementary treatise on the lunar theory london 1885 4th ed
