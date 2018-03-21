@@ -1,0 +1,5 @@
+Q. How would you choose your cutoff values? Briefly justify your choice and comment on the stoplists’ contents.
+
+A. After exploring and experimenting various ways (e.g. tf–idf) to determine stop terms, I found that using document frequency table yields satisfying results.
+Regarding the cutoff value, I also tried a few different values and found 600 a good choice. With this cutoff value, the stoplists contain enough stop terms with only grammar function and not too many terms that's topic-related.
+And also we can see the number of stop terms decreases with bigger n. 3-gram stoplist is even empty. From this phenomenon we can see the combination of words often have more meaning instead of only grammar function.
